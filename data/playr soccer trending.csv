@@ -1,0 +1,2307 @@
+Player_name,Age,National_team,Positions,Overall,Potential_overall,Current_club,Contract_start,Contract_end,Value,Wage,Total_stats
+T. Almada,22,Argentina,"CAM, CM, CF",79,87,Atlanta United,2022 , 2025,39500000,10000,2050
+L. Palma,23,Honduras,LW,69,75,Celtic,2023 , 2028,2200000,22000,1794
+R. Lavia,19,Belgium,CDM,73,86,Chelsea,2023 , 2030,7000000,32000,1829
+W. Zaïre-Emery,17,France,"CM, CDM",77,89,Paris Saint Germain,2022 , 2025,24000000,9000,2080
+Gabri Veiga,21,Spain,"CM, CAM",78,89,Al Ahli Jeddah,2023 , 2026,31500000,28000,1944
+J. Bellingham,17,England,"CAM, CM",64,82,Sunderland,2023 , 2028,1500000,1000,1714
+K. Havertz,24,Germany,"CAM, RW, ST",82,87,Arsenal,2023 , 2028,46000000,110000,2044
+A. Vermeeren,18,Belgium,"CDM, CM",74,87,Antwerp,2022 , 2026,9500000,7000,1883
+R. Højlund,20,Denmark,ST,77,89,Manchester United,2023 , 2028,25500000,77000,1841
+J. Bellingham,20,England,"CAM, CM",87,91,Real Madrid,2023 , 2029,112000000,190000,2265
+A. Güler,18,Turkey,"CAM, CM",77,88,Real Madrid,2023 , 2029,22000000,41000,1960
+K. Kvaratskhelia,22,Georgia,"LW, RW",86,92,Napoli,2022 , 2027,109000000,95000,2067
+J. Hato,17,Netherlands,"CB, LB",70,87,Ajax,2022 , 2025,3700000,500,1744
+O. Diomande,19,Côte d'Ivoire,CB,76,85,Sporting CP,2023 , 2027,15000000,7000,1631
+T. Kubo,22,Japan,"RW, ST, CAM",81,87,Real Sociedad,2022 , 2027,41500000,40000,1972
+Palhinha,27,Portugal,"CDM, CM",84,85,Fulham,2022 , 2027,43000000,110000,2100
+R. Lewis,18,England,"RB, CDM",74,87,Manchester City,2022 , 2028,9500000,21000,1822
+E. Ferguson,18,Republic of Ireland,ST,74,86,Brighton & Hove Albion,2021 , 2028,10000000,26000,1729
+F. Wirtz,20,Germany,"CAM, CM",85,91,Bayer 04 Leverkusen,2020 , 2027,83500000,65000,2057
+Arnau Martínez,20,Spain,"RB, RWB, CB",80,86,Girona,2020 , 2025,30500000,22000,1946
+Y. Moukoko,18,Germany,ST,77,87,Borussia Dortmund,2020 , 2026,22500000,18000,1857
+J. Musiala,20,Germany,"CAM, CM, LM",86,93,FC Bayern München,2020 , 2026,134500000,79000,2091
+M. Tel,18,France,"ST, LM, RM",72,88,FC Bayern München,2022 , 2027,6000000,15000,1780
+A. Nusa,18,Norway,"LM, LW, RM",71,87,Club Brugge,2021 , 2027,4800000,5000,1836
+J. Álvarez,23,Argentina,"ST, CF, CAM",81,87,Manchester City,2022 , 2028,41000000,125000,2183
+D. Núñez,24,Uruguay,"ST, LW",82,87,Liverpool,2022 , 2028,46500000,120000,2116
+S. Pafundi,17,Italy,"CAM, RM",67,86,Udinese,2022 , 2026,2500000,750,1816
+Kim Min Jae,26,Korea Republic,CB,84,86,FC Bayern München,2023 , 2028,46000000,82000,1814
+João Neves,18,Portugal,CM,71,87,Benfica,2022 , 2028,4700000,3000,1850
+L. Geertruida,22,Netherlands,"RB, CB, CDM",80,86,Feyenoord,2017 , 2025,31500000,18000,1976
+S. Giménez,22,Mexico,ST,80,85,Feyenoord,2022 , 2027,33000000,21000,2045
+Fresneda,18,Spain,RB,72,85,Sporting CP,2023 , 2028,5000000,2000,1751
+N. Barella,26,Italy,CM,86,88,Inter,2020 , 2026,83500000,135000,2295
+X. Simons,20,Netherlands,"CAM, LW, RW",80,89,RB Leipzig,"Jun 30, 2024",,46500000,61000,2106
+C. Palmer,21,England,"RW, CAM",69,82,Chelsea,2023 , 2030,3400000,31000,1766
+T. Baldanzi,20,Italy,"CAM, CF",77,87,Empoli,2021 , 2027,23000000,10000,1890
+V. Boniface,22,Nigeria,ST,76,84,Bayer 04 Leverkusen,2023 , 2028,17000000,42000,1877
+Nico Williams,20,Spain,"LM, RM",80,86,Athletic Club,2020 , 2024,33000000,25000,1980
+N. Irankunda,17,Australia,RM,62,83,Adelaide United,2022 , 2024,1200000,500,1735
+Cristiano Ronaldo,38,Portugal,ST,86,86,Al Nassr,2023 , 2025,23000000,66000,2081
+W. Weghorst,30,Netherlands,ST,77,77,TSG Hoffenheim,"Jun 30, 2024",,10500000,51000,1927
+E. Haaland,22,Norway,ST,91,94,Manchester City,2022 , 2027,185000000,340000,2158
+M. Ugarte,22,Uruguay,"CDM, CM",81,86,Paris Saint Germain,2023 , 2028,36500000,69000,2051
+K. Mbappé,24,France,"ST, LW",91,94,Paris Saint Germain,2018 , 2024,181500000,230000,2204
+F. Valverde,24,Uruguay,"CM, RW",88,92,Real Madrid,2016 , 2027,130500000,270000,2292
+G. Rutter,21,France,"ST, RM",73,82,Leeds United,2023 , 2028,7000000,28000,1763
+V. Barco,18,Argentina,"LB, LM, LWB",71,84,Boca Juniors,2020 , 2025,4200000,3000,1838
+Balde,19,Spain,"LB, RB, LM",81,89,FC Barcelona,2021 , 2028,53000000,70000,1914
+António Silva,19,Portugal,CB,78,88,Benfica,2022 , 2027,28500000,8000,1774
+M. Rashford,25,England,"LW, LM, ST",84,85,Manchester United,2015 , 2028,50500000,170000,2089
+Rodrygo,22,Brazil,"RW, LW, ST",85,91,Real Madrid,2019 , 2028,86500000,210000,2027
+Florentino,23,Portugal,"CDM, CM",80,85,Benfica,2017 , 2027,29000000,14000,1885
+Diogo Costa,23,Portugal,GK,82,88,Porto,2016 , 2026,39000000,13000,1245
+K. Thuram,22,France,"CM, CDM",79,84,Nice,2019 , 2025,27000000,42000,2124
+Zubimendi,24,Spain,"CDM, CM",80,85,Real Sociedad,2018 , 2027,29000000,31000,2016
+E. Camavinga,20,France,"CDM, CM, LB",82,89,Real Madrid,2021 , 2029,56500000,110000,2171
+Rafael Leão,24,Portugal,"LW, CF, LM",86,91,Milan,2019 , 2028,102500000,110000,2021
+J. Bakayoko,20,Belgium,RW,76,87,PSV,2019 , 2026,16500000,15000,1810
+Alejandro Garnacho,19,Argentina,"LW, LM",74,87,Manchester United,2021 , 2028,10000000,50000,1830
+I. Reyes,23,Mexico,"CB, CDM",75,82,Mexico,Free,Free,0,0,2084
+H. Kane,29,England,ST,90,90,FC Bayern München,2023 , 2027,119500000,170000,2227
+M. Edwards,24,England,"RW, LW, ST",80,85,Sporting CP,2022 , 2026,32000000,17000,1872
+K. Adeyemi,21,Germany,"LM, RM, ST",80,87,Borussia Dortmund,2022 , 2027,43000000,38000,1985
+B. Šeško,20,Slovenia,ST,75,85,RB Leipzig,2023 , 2028,12500000,34000,1872
+V. Osimhen,24,Nigeria,ST,88,91,Napoli,2020 , 2025,126500000,120000,2063
+J. Doku,21,Belgium,"RW, RM, LW",78,86,Manchester City,2023 , 2028,31500000,87000,1825
+Gabriel Martinelli,22,Brazil,"LW, LM",84,88,Arsenal,2019 , 2027,61500000,145000,2085
+K. Mitoma,26,Japan,LM,81,82,Brighton & Hove Albion,2021 , 2027,30500000,95000,2043
+L. Messi,36,Argentina,"CF, CAM",90,90,Inter Miami,2023 , 2025,41000000,23000,2166
+Gonçalo Ramos,22,Portugal,ST,80,87,Paris Saint Germain,"Jun 30, 2024",,43000000,17000,2005
+E. Zeballos,21,Argentina,"RM, RW, LW",73,84,Boca Juniors,2020 , 2026,7000000,12000,1739
+Sávio,19,Brazil,"LM, LW, RM",75,85,Girona,"Jun 30, 2024",,12000000,5000,1784
+J. Sancho,23,England,"LW, LM",82,86,Manchester United,2021 , 2026,43500000,130000,1885
+Jota,24,Portugal,"LM, RM",78,83,Al Ittihad,2023 , 2026,21000000,36000,1941
+W. Saliba,22,France,CB,84,89,Arsenal,2019 , 2027,58500000,120000,1907
+R. Araujo,24,Uruguay,"CB, RB",86,91,FC Barcelona,2018 , 2026,93000000,175000,1946
+B. Verbruggen,20,Netherlands,GK,75,85,Brighton & Hove Albion,2023 , 2028,10500000,30000,1190
+W. Gnonto,19,Italy,"LM, RM, ST",74,84,Leeds United,2022 , 2027,9000000,21000,1821
+E. Wahi,20,France,ST,78,86,Lens,2023 , 2028,31000000,31000,1920
+G. Scalvini,19,Italy,CB,75,86,Atalanta,2021 , 2027,11500000,19000,1562
+T. Alexander-Arnold,24,England,RB,86,88,Liverpool,2015 , 2025,81000000,140000,2240
+A. Bastoni,24,Italy,CB,85,90,Inter,2017 , 2028,73500000,95000,1924
+G. Raspadori,23,Italy,"CF, ST, LW",79,86,Napoli,2023 , 2028,35500000,54000,1883
+N. Mbamba,18,Belgium,"CDM, CB",64,84,Bayer 04 Leverkusen,2023 , 2028,1500000,3000,1589
+H. Larsson,19,Sweden,"CM, CDM",71,85,Eintracht Frankfurt,2023 , 2028,4400000,12000,1868
+G. Bazunu,21,Republic of Ireland,GK,71,83,Southampton,2022 , 2027,4000000,13000,1125
+Lee Kang In,22,Korea Republic,"LW, ST",78,85,Paris Saint Germain,2023 , 2028,28500000,68000,2018
+M. Mudryk,22,Ukraine,"LW, LM",75,85,Chelsea,2023 , 2031,12500000,74000,1843
+M. Caicedo,21,Ecuador,"CDM, CM",80,85,Chelsea,2023 , 2031,29500000,71000,2024
+N. Jackson,22,Senegal,ST,78,85,Chelsea,2023 , 2031,29000000,89000,1885
+Gavi,18,Spain,"CM, LW",83,90,FC Barcelona,2020 , 2026,68500000,60000,2070
+Stefan Bajcetic,18,Spain,"CDM, CM",72,86,Liverpool,2021 , 2027,5000000,15000,1821
+A. Griezmann,32,France,"ST, CF",88,88,Atlético Madrid,2022 , 2026,74000000,135000,2322
+I. Bennacer,25,Algeria,"CDM, CM, CAM",84,89,Milan,2019 , 2027,56500000,84000,2266
+Aleix García,26,Spain,"CM, CDM",81,84,Girona,2021 , 2026,33500000,36000,2122
+A. Hložek,20,Czech Republic,"ST, CAM",77,85,Bayer 04 Leverkusen,2022 , 2027,23500000,39000,1950
+Gonçalo Inácio,21,Portugal,CB,79,86,Sporting CP,2019 , 2027,33000000,11000,1803
+Grimaldo,27,Spain,"LWB, LM",84,84,Bayer 04 Leverkusen,2023 , 2027,40500000,74000,2228
+S. Guirassy,27,Guinea,ST,79,79,VfB Stuttgart,2023 , 2026,19000000,33000,1946
+M. Guéhi,22,England,CB,78,85,Crystal Palace,2021 , 2026,26500000,34000,1777
+Sancet,23,Spain,"CAM, CM, ST",81,87,Athletic Club,2017 , 2032,40500000,31000,2127
+B. Saka,21,England,"RW, RM",86,90,Arsenal,2018 , 2027,99000000,150000,2187
+E. Fernández,22,Argentina,"CM, CDM, CAM",83,89,Chelsea,2023 , 2031,58000000,120000,2194
+N. Schlotterbeck,23,Germany,CB,83,88,Borussia Dortmund,2022 , 2027,49500000,51000,2028
+P. Hincapié,21,Ecuador,CB,79,86,Bayer 04 Leverkusen,2021 , 2027,33000000,36000,1883
+A. Schjelderup,19,Norway,"LM, LW, CAM",72,86,Nordsjælland,"Jun 30, 2024",,5500000,6000,1775
+J. Duranville,17,Belgium,"LM, ST, RM",66,87,Borussia Dortmund,2023 , 2027,2700000,1000,1604
+D. Doué,18,France,"CAM, RW",71,86,Rennes,2022 , 2026,4400000,9000,1706
+F. Chiesa,25,Italy,"LM, ST, RM",84,85,Juventus,2022 , 2025,50500000,140000,2122
+R. Kolo Muani,24,France,"ST, RM",84,87,Paris Saint Germain,2023 , 2028,58500000,110000,2018
+P. Foden,23,England,"LW, RW",85,90,Manchester City,2016 , 2027,81500000,180000,2113
+G. Reyna,20,United States,"RM, CAM, LM",78,85,Borussia Dortmund,2019 , 2025,28000000,33000,1935
+João Pedro,21,Brazil,"ST, CAM",74,83,Brighton & Hove Albion,2023 , 2028,9500000,48000,1760
+Yeremy Pino,20,Spain,"LM, RM, ST",79,87,Villarreal,2020 , 2027,38500000,27000,1842
+Moleiro,19,Spain,"LM, CM, CAM",75,85,Las Palmas,2021 , 2026,12000000,11000,1863
+R. Bardghji,17,Sweden,RW,70,85,København,2021 , 2025,3600000,3000,1729
+C. Lukeba,20,France,CB,77,85,RB Leipzig,2023 , 2028,21500000,31000,1875
+M. Baturina,20,Croatia,"CM, CAM, RW",74,86,Dinamo Zagreb,2021 , 2028,10000000,700,1972
+N. Zaniolo,23,Italy,"RM, CF",80,83,Aston Villa,"Jun 30, 2024",,29000000,43000,2087
+Vini Jr.,22,Brazil,LW,89,94,Real Madrid,2018 , 2027,158500000,310000,2027
+Ferran Torres,23,Spain,"LW, RW, ST",82,88,FC Barcelona,2022 , 2027,48000000,150000,2031
+S. Chukwueze,24,Nigeria,"RW, RM",81,86,Milan,2023 , 2028,39000000,71000,1929
+B. Brobbey,21,Netherlands,ST,76,83,Ajax,2022 , 2027,15500000,13000,1808
+J. Kiwior,23,Poland,"CB, CDM",74,83,Arsenal,2023 , 2028,8500000,56000,1722
+J. Spileers,18,Belgium,CB,69,85,Club Brugge,2022 , 2026,3300000,3000,1600
+Neymar Jr,31,Brazil,LW,89,89,Al Hilal,2023 , 2025,85500000,115000,2165
+W. Zaha,30,Côte d'Ivoire,"LW, CF, LM",81,81,Galatasaray,2023 , 2026,25000000,58000,2011
+M. Ødegaard,24,Norway,"CAM, CM",87,90,Arsenal,2021 , 2028,109000000,170000,2188
+H. Martín,30,Mexico,ST,79,79,Mexico,Free,Free,0,0,1962
+C. Pulisic,24,United States,"LW, RW, LM",80,83,Milan,2023 , 2027,29000000,66000,1935
+A. Tchouaméni,23,France,"CDM, CM",84,89,Real Madrid,2022 , 2028,58500000,160000,2151
+M. Diaby,23,France,"RM, ST, CF",84,88,Aston Villa,2023 , 2028,60500000,105000,1953
+L. Openda,23,Belgium,ST,82,86,RB Leipzig,2023 , 2028,44000000,65000,1985
+M. Greenwood,21,England,"RM, ST",75,85,Getafe,"Jun 30, 2024",,12500000,61000,1909
+F. Balogun,21,United States,ST,79,86,Monaco,2023 , 2028,36000000,46000,1860
+J. Gvardiol,21,Croatia,"CB, LB",82,88,Manchester City,2023 , 2028,44500000,95000,2048
+Pedri,20,Spain,CM,86,92,FC Barcelona,2020 , 2026,105000000,165000,2138
+J. Frimpong,22,Netherlands,"RWB, RM",83,88,Bayer 04 Leverkusen,2021 , 2028,52000000,58000,2064
+S. Ricci,21,Italy,"CDM, CM",76,86,Torino,2022 , 2026,16000000,26000,1975
+N. Madueke,21,England,"RW, RM",77,85,Chelsea,2023 , 2030,23500000,72000,1882
+L. Netz,20,Germany,"LB, LM",74,80,Borussia Mönchengladbach,2021 , 2026,6000000,16000,1847
+C. Chukwuemeka,19,England,"CM, CAM, LW",65,82,Chelsea,2022 , 2028,1800000,12000,1701
+D. Udogie,20,Italy,"LB, LM",78,86,Tottenham Hotspur,2022 , 2027,29500000,49000,2047
+Sergio Ramos,37,Spain,CB,83,83,Sevilla,2023 , 2024,6500000,28000,2126
+Adama Traoré,27,Spain,"RW, RM, ST",76,76,Fulham,2023 , 2025,8000000,72000,1894
+L. Sané,27,Germany,"RM, LM",85,85,FC Bayern München,2020 , 2025,57500000,100000,2108
+O. Dembélé,26,France,"RW, LW",86,87,Paris Saint Germain,2023 , 2028,80000000,150000,2022
+C. Gallagher,23,England,"CM, CDM",78,83,Chelsea,2017 , 2025,21000000,81000,2054
+João Félix,23,Portugal,"CF, ST, LW",81,87,FC Barcelona,"Jun 30, 2024",,41000000,60000,2080
+O. Kökçü,22,Turkey,"CM, CAM",82,86,Benfica,2023 , 2028,44000000,18000,2177
+Bruno Guimarães,25,Brazil,"CM, CDM",84,87,Newcastle United,2022 , 2028,55500000,145000,2234
+S. Boey,22,France,RB,79,84,Galatasaray,2021 , 2025,25000000,37000,2031
+Nuno Mendes,21,Portugal,"LB, LWB",82,87,Paris Saint Germain,2021 , 2026,43500000,63000,2122
+Riquelme,23,Spain,"LM, CM, CAM",78,84,Atlético Madrid,2019 , 2028,22000000,44000,1925
+A. Broja,21,Albania,ST,75,83,Chelsea,2020 , 2028,12500000,64000,1744
+R. Drăgușin,21,Romania,CB,71,83,Genoa,2023 , 2027,4300000,10000,1645
+B. Meijer,20,Netherlands,"LB, LM, LWB",73,85,Club Brugge,2022 , 2026,7000000,12000,1936
+B. Barcola,20,France,"RW, LM, RM",76,84,Paris Saint Germain,2023 , 2028,16500000,51000,1861
+G. Restes,18,France,GK,72,87,Toulouse,2021 , 2028,4700000,1000,1052
+F. Redondo,20,Argentina,"CM, CDM",74,84,Argentinos Juniors,2021 , 2024,9000000,10000,1976
+A. Gray,17,England,"CDM, CM",67,85,Leeds United,2021 , 2024,2400000,600,1850
+B. Mbeumo,23,Cameroon,"RW, ST",79,82,Brentford,2019 , 2026,24000000,59000,2100
+J. David,23,Canada,ST,80,83,LOSC Lille,2020 , 2025,29000000,39000,1959
+H. Elliott,20,England,"CAM, CM, RW",77,85,Liverpool,2019 , 2027,23000000,65000,1869
+Fran García,23,Spain,LB,78,85,Real Madrid,2023 , 2027,27000000,100000,1945
+O. Kossounou,22,Côte d'Ivoire,"CB, RWB",77,84,Bayer 04 Leverkusen,2021 , 2026,20000000,37000,1732
+J. Branthwaite,21,England,CB,73,84,Everton,2020 , 2025,6500000,20000,1570
+R. Cherki,19,France,"CAM, LW, RW",75,86,Olympique Lyonnais,2019 , 2025,12000000,18000,1759
+A. Al Musrati,27,Libya,"CDM, CM",81,82,Sporting Braga,2020 , 2026,26500000,19000,1983
+A. Onana,21,Belgium,"CDM, CM",76,83,Everton,2022 , 2027,14500000,25000,1923
+B. El Khannouss,19,Morocco,"CAM, CM",72,86,Genk,2020 , 2027,5500000,7000,1719
+K. Aktürkoğlu,24,Turkey,"LM, LW",77,80,Galatasaray,2020 , 2026,14500000,35000,1895
+L. Sučić,20,Croatia,"CAM, CM",74,84,Salzburg,2019 , 2025,9500000,13000,1950
+Pablo Barrios,20,Spain,"CM, CDM",74,85,Atlético Madrid,2022 , 2028,9000000,29000,1923
+K. Sabbe,18,Belgium,"RB, LB",66,84,Club Brugge,2023 , 2025,2100000,2000,1690
+Sergio Ramos,37,Spain,CB,83,83,Sevilla,2023 , 2024,6500000,28000,2126
+R. Lewandowski,34,Poland,ST,90,90,FC Barcelona,2022 , 2026,58000000,340000,2221
+R. Sterling,28,England,"LW, RW, ST",83,83,Chelsea,2022 , 2027,36500000,155000,2080
+R. Guerreiro,29,Portugal,"LB, LM, CM",82,82,FC Bayern München,2023 , 2026,27000000,72000,2160
+João Cancelo,29,Portugal,"LB, RB, RM",86,86,FC Barcelona,"Jun 30, 2024",,59500000,195000,2250
+S. Amrabat,26,Morocco,"CDM, CM",80,83,Manchester United,"Jun 30, 2024",,25000000,56000,2101
+Mikel Merino,27,Spain,"CM, CAM",84,85,Real Sociedad,2018 , 2025,48000000,54000,2278
+O. Zinchenko,26,Ukraine,LB,81,83,Arsenal,2022 , 2027,29500000,105000,2177
+R. Nelson,23,England,"RW, LW",75,81,Arsenal,2016 , 2027,9000000,74000,1836
+L. Díaz,26,Colombia,"LW, LM",84,85,Liverpool,2022 , 2027,49500000,165000,2069
+Sergio Gómez,22,Spain,LB,74,83,Manchester City,2022 , 2026,9000000,64000,2052
+D. Vlahović,23,Serbia,ST,83,88,Juventus,2022 , 2026,55500000,125000,1979
+L. Modrić,37,Croatia,CM,87,87,Real Madrid,2012 , 2024,25000000,190000,2251
+K. De Bruyne,32,Belgium,"CM, CAM",91,91,Manchester City,2015 , 2025,103000000,350000,2317
+H. Çalhanoğlu,29,Turkey,"CM, CDM",85,85,Inter,2021 , 2027,52500000,130000,2206
+E. Can,29,Germany,"CDM, CB",83,83,Borussia Dortmund,2020 , 2026,31000000,63000,2261
+T. Abraham,25,England,ST,80,83,Roma,2021 , 2026,28500000,72000,1931
+R. Le Normand,26,Spain,CB,82,85,Real Sociedad,2016 , 2026,35500000,41000,1659
+A. Isak,23,Sweden,"ST, LW",82,86,Newcastle United,2022 , 2028,44000000,120000,2019
+A. Davies,22,Canada,"LB, LM",83,88,FC Bayern München,2019 , 2025,52000000,64000,2172
+T. Lamptey,22,Ghana,"RB, RWB, LB",75,80,Brighton & Hove Albion,2020 , 2025,8000000,49000,1826
+M. Kudus,22,Ghana,"RW, CAM",79,86,West Ham United,2023 , 2028,35500000,69000,2053
+N. Rovella,21,Italy,"CM, CDM",77,86,Lazio,"Jun 30, 2025",,23500000,62000,2098
+P. Kalulu,23,France,"CB, RB",78,85,Milan,2020 , 2027,26000000,47000,1960
+M. Thiaw,21,Germany,CB,77,85,Milan,2022 , 2027,22000000,36000,1853
+N. Weiper,18,Germany,ST,66,86,FSV Mainz 05,2022 , 2025,2400000,3000,1558
+L. Yoro,17,France,"CB, CDM",74,84,LOSC Lille,2022 , 2025,8000000,1000,1681
+L. Chávez,27,Mexico,"CM, CDM",79,80,Mexico,Free,Free,0,0,2131
+Marcos Llorente,28,Spain,"RM, CM, RB",84,84,Atlético Madrid,2019 , 2027,42500000,85000,2255
+C. Romero,25,Argentina,CB,83,87,Tottenham Hotspur,2022 , 2027,45500000,95000,1871
+T. Tomiyasu,24,Japan,"RB, LB",78,83,Arsenal,2021 , 2026,20000000,73000,1839
+D. Rice,24,England,"CDM, CM",85,87,Arsenal,2023 , 2028,63000000,130000,2106
+A. Hakimi,24,Morocco,"RB, RWB",84,86,Paris Saint Germain,2021 , 2026,50500000,90000,2243
+B. Kamara,23,France,"CDM, CM",81,84,Aston Villa,2022 , 2027,32000000,74000,1980
+R. James,23,England,"RB, RWB",83,85,Chelsea,2017 , 2028,43500000,105000,2261
+Éder Militão,25,Brazil,CB,86,89,Real Madrid,2019 , 2025,80000000,210000,2053
+N. Okafor,23,Switzerland,"ST, CAM",77,84,Milan,2023 , 2028,21500000,53000,1932
+R. Aït-Nouri,22,Algeria,"LB, LWB",76,81,Wolverhampton Wanderers,2021 , 2026,11000000,44000,1957
+Eric García,22,Spain,"CB, CDM",75,82,Girona,"Jun 30, 2024",,10500000,76000,1803
+R. Gravenberch,21,Netherlands,CM,79,87,Liverpool,2023 , 2028,39500000,76000,2094
+J. Ramsey,22,England,"LM, CM, RM",78,83,Aston Villa,2017 , 2027,21500000,66000,2084
+B. Johnson,22,Wales,"RW, ST",76,83,Tottenham Hotspur,2023 , 2028,15000000,63000,1880
+J. Enciso,19,Paraguay,"LM, CAM, RM",71,82,Brighton & Hove Albion,2022 , 2026,4000000,24000,1715
+F. Farías,20,Argentina,"CAM, CF",75,85,Inter Miami,2023 , 2026,12500000,7000,1955
+C. Alcaraz,20,Argentina,"CAM, CM, ST",73,84,Southampton,2023 , 2028,6500000,25000,1937
+E. Nuamah,19,Ghana,"RW, ST, RM",72,86,Olympique Lyonnais,"Jun 30, 2024",,5500000,10000,1699
+Lázaro,21,Brazil,"LM, RM, ST",75,84,Almería,2022 , 2028,12500000,18000,1839
+L. Miley,17,England,"CM, CDM, CAM",63,85,Newcastle United,2023 , 2024,1500000,2000,1661
+F. Chiarodia,18,Italy,CB,62,83,Borussia Mönchengladbach,2023 , 2027,1200000,1000,1497
+J. Bynoe-Gittens,18,England,LM,72,86,Borussia Dortmund,2022 , 2028,5500000,10000,1644
+T. Iroegbunam,20,England,"CDM, CM",67,81,Aston Villa,2021 , 2027,2300000,15000,1784
+G. Kuol,18,Australia,"LM, RM",64,82,FC Volendam,"Jun 30, 2024",,1500000,7000,1534
+E. Ben Seghir,18,France,"CF, ST",72,85,Monaco,2022 , 2025,5500000,14000,1757
+M. Balotelli,32,Italy,ST,75,75,Adana Demirspor,2023 , 2024,4600000,16000,1819
+Parejo,34,Spain,"CM, CDM",86,86,Villarreal,2020 , 2024,31500000,64000,2196
+J. Kimmich,28,Germany,"CDM, RB, CM",88,89,FC Bayern München,2015 , 2025,88000000,130000,2317
+G. Di Lorenzo,29,Italy,RB,85,85,Napoli,2019 , 2028,47500000,86000,2184
+Rúben Neves,26,Portugal,"CDM, CM",84,86,Al Hilal,2023 , 2026,47000000,62000,2169
+F. Dimarco,25,Italy,"LWB, LM, CB",82,85,Inter,2018 , 2026,37000000,82000,2165
+Gabriel,25,Brazil,CB,84,86,Arsenal,2020 , 2027,47000000,130000,1803
+N. Lang,24,Netherlands,LW,79,84,PSV,2023 , 2028,26500000,21000,2047
+N. González,25,Argentina,"RW, RM, LW",81,84,Fiorentina,2021 , 2026,34000000,68000,2003
+E. Elmas,23,North Macedonia,"CAM, CM, LW",80,86,Napoli,2019 , 2025,33500000,52000,2054
+P. Schuurs,23,Netherlands,CB,79,84,Torino,2022 , 2026,24000000,39000,2004
+M. Vandevoordt,21,Belgium,GK,75,85,Genk,2018 , 2024,11000000,8000,1163
+Samuel Lino,23,Brazil,"LM, LWB",77,84,Atlético Madrid,2022 , 2027,21000000,41000,1923
+W. Singo,22,Côte d'Ivoire,"CB, RWB, RM",76,84,Monaco,2023 , 2028,15500000,34000,1989
+Y. Musah,20,United States,"CM, RM, CDM",74,83,Milan,2023 , 2028,9000000,34000,1996
+F. Pellistri,21,Uruguay,"RW, LW",71,82,Manchester United,2020 , 2025,4200000,45000,1832
+P. Wimmer,22,Austria,"RW, CF",78,84,VfL Wolfsburg,2022 , 2027,22500000,44000,1957
+Vitinha,23,Portugal,CM,80,84,Paris Saint Germain,2022 , 2027,30000000,72000,2069
+Antony,23,Brazil,"RW, RM",80,86,Manchester United,2022 , 2027,33500000,110000,2040
+K. Sulemana,21,Ghana,"LW, LM, ST",74,82,Southampton,2023 , 2027,9500000,30000,1810
+E. Martel,21,Germany,"CDM, CB",74,84,FC Köln,2022 , 2026,9000000,16000,1823
+M. Stamenić,21,New Zealand,"CDM, CM",70,83,New Zealand,Free,Free,0,0,1884
+Filipe Relvas,23,Portugal,"CB, LB, CM",75,84,Portimonense,2020 , 2026,11500000,7000,1768
+Iker Bravo,18,Spain,"ST, LW, RW",67,83,Real Madrid,"Jun 30, 2024",,2600000,7000,1563
+Diogo Dalot,24,Portugal,"RB, LB",80,84,Manchester United,2018 , 2028,28000000,90000,2095
+G. Kobel,25,Switzerland,GK,87,90,Borussia Dortmund,2021 , 2028,81500000,64000,1270
+M. Sarr,24,France,"CB, LB",74,77,Chelsea,2020 , 2025,5000000,56000,1871
+T. Ndombele,26,France,"CM, CDM, CAM",78,80,Galatasaray,"Jun 30, 2024",,17500000,76000,2053
+V. Nelsson,24,Denmark,CB,77,81,Galatasaray,2021 , 2026,13500000,31000,1836
+U. Antuna,25,Mexico,"RM, LM, RW",75,76,Mexico,Free,Free,0,0,1780
+Pedro Neto,23,Portugal,"RW, LM, LW",78,83,Wolverhampton Wanderers,2019 , 2027,21000000,61000,1874
+G. Vicario,26,Italy,GK,83,86,Tottenham Hotspur,2023 , 2028,36500000,83000,1272
+A. Gomes,22,England,"CM, CDM, CAM",76,83,LOSC Lille,2020 , 2025,15000000,26000,2107
+Miranda,23,Spain,LB,77,83,Real Betis,2021 , 2024,15500000,19000,1987
+J. Koundé,24,France,"CB, RB",85,89,FC Barcelona,2022 , 2027,69500000,160000,1959
+J. Ferreira,22,United States,"ST, CAM",76,83,Dallas,2016 , 2025,15500000,9000,1981
+M. Simakan,23,France,"CB, RB",79,86,RB Leipzig,2021 , 2027,32500000,43000,1866
+E. Tapsoba,24,Burkina Faso,CB,81,85,Bayer 04 Leverkusen,2020 , 2026,33000000,49000,1926
+M. van Ewijk,22,Netherlands,"RWB, RB",75,82,Coventry City,2023 , 2027,11000000,31000,1947
+A. Velasco,20,Argentina,"LM, LW, CAM",75,84,Dallas,2022 , 2025,12500000,7000,1958
+K. Álvarez,24,Mexico,RB,75,79,Mexico,Free,Free,0,0,1887
+M. Beier,20,Germany,"ST, LM, RM",73,84,TSG Hoffenheim,2019 , 2027,6500000,22000,1753
+M. Cho,19,France,"ST, RM",72,83,Real Sociedad,2022 , 2027,5000000,14000,1681
+N. Collins,19,Germany,CB,63,82,Eintracht Frankfurt,2023 , 2028,1200000,3000,1448
+Hugo Novoa,20,Spain,"RW, RB",70,81,FC Utrecht,"Jun 30, 2024",,3500000,20000,1755
+N. Fagioli,22,Italy,"CM, CDM",77,87,Juventus,2019 , 2026,23500000,73000,2075
+F. Buonanotte,18,Argentina,"RM, CAM",69,82,Brighton & Hove Albion,2023 , 2026,3200000,11000,1626
+F. Chaïbi,20,Algeria,"LM, CM",75,86,Eintracht Frankfurt,2023 , 2028,12500000,24000,1993
+Y. Minteh,18,Gambia,"RW, LW",68,84,Feyenoord,"Jun 30, 2024",,3100000,14000,1578
+L. Bergvall,17,Sweden,CM,62,85,Djurgården,2023 , 2025,1200000,500,1659
+G. Orban,20,Nigeria,ST,75,84,Gent,2023 , 2027,12500000,18000,1802
+Jorginho,31,Italy,"CDM, CM",83,83,Arsenal,2023 , 2024,25500000,125000,2118
+L. Trossard,28,Belgium,"CF, LW",81,81,Arsenal,2023 , 2027,26500000,130000,1987
+M. Maignan,27,France,GK,87,90,Milan,2021 , 2026,78000000,90000,1520
+H. Lozano,27,Mexico,RW,81,81,PSV,2023 , 2028,27500000,27000,2017
+Joelinton,26,Brazil,"CM, LW",82,83,Newcastle United,2019 , 2025,35500000,125000,2187
+T. Chalobah,23,England,"CB, RB, CDM",76,81,Chelsea,2016 , 2026,10000000,64000,1800
+L. Martínez,25,Argentina,ST,87,89,Inter,2018 , 2026,101500000,150000,2173
+N. Molina,25,Argentina,"RWB, RB, RM",82,85,Atlético Madrid,2022 , 2027,37000000,59000,2092
+H. Son,30,Korea Republic,"LW, ST",87,87,Tottenham Hotspur,2015 , 2025,77000000,170000,2141
+M. Icardi,30,Argentina,ST,81,81,Galatasaray,2022 , 2026,25500000,58000,1931
+A. Rabiot,28,France,"CM, CDM",84,84,Juventus,2019 , 2024,42000000,150000,2254
+P. Dybala,29,Argentina,"CF, CAM",86,86,Roma,2022 , 2025,68000000,130000,2116
+A. Martial,27,France,ST,80,81,Manchester United,2015 , 2024,24500000,125000,1964
+T. Werner,27,Germany,ST,81,82,RB Leipzig,2022 , 2026,30000000,68000,1998
+J. Maddison,26,England,"CAM, RM, CM",85,86,Tottenham Hotspur,2023 , 2028,63500000,135000,2130
+D. van de Beek,26,Netherlands,"CM, CAM, CDM",76,79,Manchester United,2020 , 2025,9500000,87000,2063
+O. Watkins,27,England,ST,80,81,Aston Villa,2020 , 2028,24500000,95000,2021
+F. de Jong,26,Netherlands,"CM, CDM",87,90,FC Barcelona,2019 , 2026,103500000,240000,2244
+M. Akanji,27,Switzerland,CB,82,83,Manchester City,2022 , 2027,30500000,130000,1963
+Renato Sanches,25,Portugal,"CM, RM",78,81,Roma,"Jun 30, 2024",,18500000,68000,2165
+Brahim,23,Spain,"CAM, RW",80,85,Real Madrid,2019 , 2027,32000000,125000,1841
+T. Hernández,25,France,"LB, LM",85,88,Milan,2019 , 2026,66000000,90000,2214
+A. Afif,26,Qatar,"LM, CF, CAM",76,76,Qatar,Free,Free,0,0,1841
+L. Robertone,26,Argentina,"CM, CAM, CDM",79,81,Almería,2020 , 2028,21500000,32000,2224
+E. Eze,25,England,"CAM, CM, LM",80,85,Crystal Palace,2020 , 2025,31000000,48000,2024
+M. Guendouzi,24,France,"CM, CF",79,83,Lazio,"Jun 30, 2024",,25000000,38000,2143
+C. Gakpo,24,Netherlands,"CF, LW",83,87,Liverpool,2023 , 2028,52500000,130000,2073
+Pedro Porro,23,Spain,"RB, RWB",81,84,Tottenham Hotspur,2023 , 2028,32500000,74000,2174
+M. Ruiz,22,Mexico,"CM, CAM, CDM",75,82,Mexico,Free,Free,0,0,2013
+M. Solomon,23,Israel,"LW, RW",77,82,Tottenham Hotspur,2023 , 2028,16000000,68000,1891
+A. Bella Kotchap,21,Germany,CB,74,82,PSV,"Jun 30, 2024",,9000000,24000,1574
+M. Olise,21,France,"RW, RM",78,85,Crystal Palace,2021 , 2027,28500000,35000,1961
+M. Carnesecchi,23,Italy,GK,79,87,Atalanta,2019 , 2026,33500000,32000,1130
+A. Diallo,20,Côte d'Ivoire,"RW, CAM",74,84,Manchester United,2021 , 2025,9500000,63000,1745
+Nico González,21,Spain,"CDM, CM",76,83,Porto,2023 , 2028,14500000,9000,1964
+L. Romero,18,Argentina,RW,69,84,Milan,2023 , 2027,3200000,11000,1836
+O. Bukari,24,Ghana,"RW, ST",72,74,Ghana,Free,Free,0,0,1795
+V. Kristiansen,20,Denmark,LB,72,80,Bologna,"Jun 30, 2024",,4900000,20000,1894
+A. Scott,19,England,"CM, CAM",72,84,AFC Bournemouth,2023 , 2028,5500000,18000,1952
+N. Zalewski,21,Poland,"RM, LM",76,83,Roma,2020 , 2025,15000000,38000,1926
+L. Gechter,19,Germany,"CB, LB",68,81,Hertha BSC,2020 , 2025,2700000,3000,1529
+M. Soulé,20,Argentina,"RW, RM",73,86,Frosinone,"Jun 30, 2024",,7500000,53000,1827
+A. Giay,19,Argentina,"RWB, RM, CM",71,83,San Lorenzo,2020 , 2025,4300000,5000,1840
+A. Veliz,19,Argentina,ST,75,85,Tottenham Hotspur,2023 , 2029,12000000,41000,1746
+L. Koleosho,18,Italy,"LM, RM, RW",69,84,Burnley,2023 , 2027,3200000,7000,1641
+Pablo Torre,20,Spain,"CAM, LM, CM",71,85,Girona,"Jun 30, 2024",,4500000,48000,1806
+Q. Hartman,21,Netherlands,LB,75,84,Feyenoord,2020 , 2026,12000000,11000,1930
+S. Iling-Junior,19,England,LM,71,85,Juventus,2022 , 2025,4400000,28000,1759
+O. Gloukh,19,Israel,CAM,73,85,Salzburg,2023 , 2027,7000000,9000,1790
+K. Benzema,35,France,"CF, ST",90,90,Al Ittihad,2023 , 2026,51000000,95000,2152
+O. Giroud,36,France,ST,83,83,Milan,2021 , 2024,12500000,72000,1954
+ E. Hazard,31,Belgium,LW,81,81,Real Madrid,2019 , 2024,21500000,170000,2007
+C. Eriksen,31,Denmark,"CM, CDM",82,82,Manchester United,2022 , 2025,25000000,135000,1981
+J. Corona,30,Mexico,"RW, LW",80,80,Mexico,Free,Free,0,0,2173
+Sérgio Oliveira,31,Portugal,"CM, CDM",77,77,Galatasaray,2022 , 2026,8500000,40000,2046
+Casemiro,31,Brazil,CDM,88,88,Manchester United,2022 , 2026,64000000,230000,2248
+J. Stones,29,England,"CB, CDM, RB",85,86,Manchester City,2016 , 2026,49500000,180000,2013
+Marquinhos,29,Brazil,CB,87,88,Paris Saint Germain,2013 , 2028,73500000,140000,2078
+L. Goretzka,28,Germany,"CM, CDM",85,85,FC Bayern München,2018 , 2026,54000000,100000,2303
+Bruno Fernandes,28,Portugal,"CAM, CM, RW",88,88,Manchester United,2020 , 2026,92000000,260000,2323
+N. Kanté,32,France,"CDM, CM",86,86,Al Ittihad,2023 , 2026,45000000,73000,2107
+M. Acuña,31,Argentina,"LB, LM",85,85,Sevilla,2020 , 2025,39000000,46000,2309
+Diogo Jota,26,Portugal,"CF, LW",85,86,Liverpool,2020 , 2027,64500000,180000,2190
+F. Mendy,28,France,LB,82,82,Real Madrid,2019 , 2025,27500000,160000,2155
+D. Upamecano,24,France,CB,82,86,FC Bayern München,2021 , 2026,39500000,59000,1894
+L. Nmecha,24,Germany,ST,77,82,VfL Wolfsburg,2021 , 2025,16000000,41000,1930
+Rodri,27,Spain,"CDM, CM",89,91,Manchester City,2019 , 2027,112000000,250000,2219
+C. Nkunku,25,France,"CF, CAM, ST",86,88,Chelsea,2023 , 2029,86500000,185000,2184
+P. Schick,27,Czech Republic,ST,83,84,Bayer 04 Leverkusen,2020 , 2027,42500000,80000,2000
+F. Kadıoğlu,23,Turkey,"LB, RB",77,83,Fenerbahçe,2018 , 2026,15500000,26000,2069
+E. Ampadu,22,Wales,"CDM, CB, CM",75,81,Leeds United,2023 , 2027,8500000,31000,1827
+M. Kean,23,Italy,"ST, LW",78,85,Juventus,2023 , 2025,28500000,86000,1905
+S. McTominay,26,Scotland,"CDM, CM",79,81,Manchester United,2013 , 2025,19500000,100000,2066
+A. Mac Allister,24,Argentina,"CM, CAM, CDM",82,84,Liverpool,2023 , 2028,39500000,110000,2207
+A. Skov Olsen,23,Denmark,"RM, CAM, RW",78,85,Club Brugge,2022 , 2026,28000000,22000,1988
+Pau Torres,26,Spain,CB,83,86,Aston Villa,2023 , 2028,42000000,100000,1900
+J. Clarke,22,England,"LM, LWB",74,84,Sunderland,2022 , 2026,9500000,26000,1828
+Y. Adli,22,France,"CAM, CM",74,83,Milan,2021 , 2026,9500000,40000,2011
+J. Burkardt,22,Germany,"ST, CF",74,82,FSV Mainz 05,2018 , 2024,9500000,23000,1922
+Barrenetxea,21,Spain,"LW, RW, LM",75,84,Real Sociedad,2018 , 2027,12500000,23000,1716
+J. Durán,19,Colombia,ST,67,83,Aston Villa,2023 , 2028,2700000,15000,1593
+Tetê,23,Brazil,"RM, RW",76,82,Galatasaray,2023 , 2027,12000000,33000,1860
+André Almeida,23,Portugal,"CM, CAM",77,83,Valencia,2022 , 2028,16500000,29000,2029
+Renan Lodi,25,Brazil,"LB, LWB",79,82,Olympique de Marseille,2023 , 2028,21500000,38000,2123
+Q. Timber,22,Netherlands,"CM, CAM, CDM",75,84,Feyenoord,2022 , 2026,12500000,14000,2016
+Matheus Nunes,24,Portugal,"CM, LM",79,84,Manchester City,2023 , 2028,26500000,100000,2126
+P. Reyna,21,Peru,"LB, LM",71,80,Melgar,2019 , 2023,4000000,500,1844
+K. Taylor,21,Netherlands,"CM, CDM",74,82,Ajax,2018 , 2027,9500000,11000,1992
+Fábio Carvalho,20,Portugal,"CAM, CM, LM",74,85,RB Leipzig,"Jun 30, 2024",,9500000,53000,1793
+H. Mejbri,20,Tunisia,"CM, CAM",69,80,Manchester United,2020 , 2024,3000000,30000,1944
+Rodri,23,Spain,"LM, RM, CAM",77,85,Real Betis,2019 , 2028,23500000,21000,1847
+Gabriel Veron,20,Brazil,"RM, LM",75,84,Porto,2022 , 2027,12500000,10000,1739
+A. Nagalo,20,Burkina Faso,CB,71,84,Nordsjælland,2021 , 2025,4200000,6000,1626
+Q. Merlin,21,France,"LB, LWB",74,82,Nantes,2020 , 2026,9000000,14000,1961
+Miguel Gutiérrez,21,Spain,"LB, LWB, LM",76,84,Girona,2022 , 2027,16000000,17000,1931
+R. Onyedika,22,Nigeria,"CDM, CM",74,85,Club Brugge,2022 , 2027,9000000,16000,1918
+Vanderson,22,Brazil,"RB, RM, RWB",77,84,Monaco,2022 , 2027,20500000,37000,2024
+Vitinha,23,Portugal,ST,76,81,Olympique de Marseille,2023 , 2027,11500000,34000,1878
+A. Zakharyan,20,Russia,"LW, RW, CAM",75,86,Real Sociedad,2023 , 2029,12500000,23000,1961
+Pepe,40,Portugal,CB,81,81,Porto,2019 , 2024,0,12000,1882
+E. Džeko,37,Bosnia and Herzegovina,ST,83,83,Fenerbahçe,2023 , 2025,12500000,43000,1974
+Thiago,32,Spain,CM,84,84,Liverpool,2020 , 2024,33000000,150000,2172
+N. Otamendi,35,Argentina,CB,82,82,Benfica,2020 , 2025,8000000,14000,1926
+G. Kondogbia,30,Central African Republic,"CM, CDM",81,81,Olympique de Marseille,2023 , 2027,24500000,50000,2185
+L. Shaw,27,England,"LB, CB",82,82,Manchester United,2014 , 2027,29500000,120000,2149
+J. Grealish,27,England,"LW, LM",85,85,Manchester City,2021 , 2027,57500000,200000,2119
+H. Ziyech,30,Morocco,"RW, CAM",80,80,Galatasaray,"Jun 30, 2024",,20500000,120000,2061
+D. Alli,27,England,"CM, CAM",74,75,Everton,2022 , 2024,4800000,33000,2041
+S. Boufal,29,Morocco,"CF, LM, ST",76,76,Morocco,Free,Free,0,0,1873
+Marco Asensio,27,Spain,RW,83,83,Paris Saint Germain,2023 , 2026,38500000,115000,2053
+G. Rodríguez,28,Argentina,CDM,83,84,Real Betis,2020 , 2024,35000000,37000,1981
+G. Scamacca,24,Italy,ST,78,83,Atalanta,2023 , 2027,21500000,46000,1879
+F. Kessié,26,Côte d'Ivoire,"CDM, CM",82,84,Al Ahli Jeddah,2023 , 2026,34000000,46000,2209
+F. Tomori,25,England,CB,84,88,Milan,2021 , 2027,52500000,84000,1881
+Lucas Paquetá,25,Brazil,"CAM, CM, LM",81,84,West Ham United,2022 , 2027,34000000,78000,2178
+E. Álvarez,25,Mexico,"CDM, CB",81,84,West Ham United,2023 , 2028,31000000,71000,1995
+M. Gibbs-White,23,England,"CAM, CF, LW",77,83,Nottingham Forest,2022 , 2027,16500000,52000,2017
+E. Nketiah,24,England,ST,76,80,Arsenal,2016 , 2027,11000000,78000,1766
+P. Estupiñán,25,Ecuador,LB,80,82,Brighton & Hove Albion,2022 , 2027,24500000,77000,1970
+Cucurella,24,Spain,"LB, CB, LWB",79,83,Chelsea,2022 , 2028,23500000,80000,2104
+L. Martínez,25,Argentina,CB,84,87,Manchester United,2022 , 2027,49500000,140000,2164
+T. Reijnders,24,Netherlands,"CM, CAM",78,83,Milan,2023 , 2028,21000000,52000,2125
+T. Weah,23,United States,"RM, RWB, RB",74,81,Juventus,2023 , 2028,8500000,60000,2010
+Y. Bisseck,22,Germany,CB,74,84,Inter,2023 , 2028,9000000,42000,1813
+A. Dovbyk,26,Ukraine,"ST, RW",74,77,Girona,2023 , 2028,5500000,24000,1816
+A. Gordon,22,England,"LW, RW",77,84,Newcastle United,2023 , 2028,21500000,83000,1906
+A. Bayındır,25,Turkey,GK,76,79,Manchester United,2023 , 2027,7500000,60000,1151
+A. Bah,25,Denmark,RB,79,83,Benfica,2022 , 2027,22500000,15000,2119
+J. Todibo,23,France,CB,79,84,Nice,2021 , 2027,24000000,37000,1870
+B. Dia,26,Senegal,"ST, LW, CF",82,85,Salernitana,2023 , 2026,40500000,51000,1906
+Bryan Gil,22,Spain,"LW, LM",77,83,Tottenham Hotspur,2021 , 2026,17000000,68000,1767
+Thierry Correia,24,Portugal,"RB, RM",77,83,Valencia,2019 , 2026,15500000,26000,1939
+M. Wieffer,23,Netherlands,"CDM, CM",76,83,Feyenoord,2022 , 2027,14000000,13000,2024
+Sergio Camello,22,Spain,ST,75,85,Rayo Vallecano,2023 , 2027,12500000,18000,1792
+A. Vranckx,20,Belgium,"CM, CDM",73,82,VfL Wolfsburg,2021 , 2025,6500000,24000,1958
+S. Abdul Samed,23,Ghana,"CDM, CM",78,82,Lens,2022 , 2028,18500000,29000,1853
+E. Millot,20,France,"CAM, CM, CF",72,80,VfB Stuttgart,2021 , 2025,5000000,13000,1860
+W. Pacho,21,Ecuador,CB,75,84,Eintracht Frankfurt,2023 , 2028,12000000,21000,1712
+J. Šutalo,23,Croatia,CB,79,85,Ajax,2023 , 2028,25000000,16000,1775
+M. Tillman,21,United States,"CAM, CM, ST",74,83,PSV,"Jun 30, 2024",,9500000,32000,1934
+Fábio Vieira,23,Portugal,"CAM, CM",77,83,Arsenal,2022 , 2027,16500000,76000,1872
+Javi Guerra,20,Spain,"CM, CAM, CDM",73,84,Valencia,2021 , 2027,6500000,19000,1905
+B. Doak,17,Scotland,RW,63,85,Liverpool,2022 , 2026,1500000,4000,1506
+A. Zanoli,22,Italy,"RB, RM",71,80,Napoli,2020 , 2026,4000000,22000,1755
+A. Mazilu,17,Romania,"RW, ST, RM",67,84,SSC Farul,2022 , 2026,2500000,1000,1677
+D. Seimen,17,Germany,GK,61,84,VfB Stuttgart,2023 , 2027,925000,500,971
+João Gomes,22,Brazil,"CDM, CM",76,84,Wolverhampton Wanderers,2023 , 2028,16000000,44000,2019
+G. Ilenikhena,16,France,ST,64,84,Antwerp,2023 , 2027,1600000,1000,1561
+A. Diao Diaoune,17,Spain,"RM, LM",68,84,Real Betis,2022 , 2024,3000000,1000,1663
+K. Phillips,27,England,"CDM, CM",78,81,Manchester City,2022 , 2028,16000000,95000,2043
+J. Gallardo,28,Mexico,"LB, LM, LW",75,75,Mexico,Free,Free,0,0,2016
+M. Thuram,25,France,ST,79,82,Inter,2023 , 2028,23500000,80000,2011
+A. Wan-Bissaka,25,England,RB,80,83,Manchester United,2019 , 2024,25500000,100000,1951
+Oyarzabal,26,Spain,"LM, RM, LW",83,84,Real Sociedad,2014 , 2028,43000000,49000,2031
+M. Almirón,29,Paraguay,RW,81,81,Newcastle United,2019 , 2026,25500000,130000,2065
+L. Blas,25,France,"RW, RM, CAM",78,81,Rennes,2023 , 2027,18500000,49000,2088
+G. Montiel,26,Argentina,"RB, RWB",79,81,Nottingham Forest,"Jun 30, 2024",,20000000,29000,2068
+E. Palacios,24,Argentina,CM,80,84,Bayer 04 Leverkusen,2020 , 2028,30000000,51000,2117
+M. Škriniar,28,Slovakia,CB,84,84,Paris Saint Germain,2023 , 2028,36500000,110000,1851
+A. Elis,27,Honduras,"ST, RM",72,73,Bordeaux,2022 , 2026,2700000,8000,1844
+Douglas Luiz,25,Brazil,"CDM, CM",80,84,Aston Villa,2019 , 2026,26500000,77000,2161
+M. Senesi,26,Argentina,CB,76,78,AFC Bournemouth,2022 , 2026,8000000,40000,1830
+J. Kluivert,24,Netherlands,"RM, LM",77,82,AFC Bournemouth,2023 , 2028,16000000,41000,1919
+N. Milenković,25,Serbia,CB,79,82,Fiorentina,2017 , 2027,20500000,50000,1775
+W. McKennie,24,United States,"CM, CDM, RM",76,80,Juventus,2021 , 2025,10500000,68000,2144
+Abel Ruiz,23,Spain,ST,76,84,Sporting Braga,2020 , 2025,17000000,14000,1897
+D. Frattesi,23,Italy,CM,80,85,Inter,"Jun 30, 2024",,31500000,20000,2088
+M. Nzola,26,Angola,ST,78,79,Fiorentina,2023 , 2027,17000000,57000,1873
+Pedro Gonçalves,25,Portugal,"LW, RW, CM",82,85,Sporting CP,2020 , 2027,40500000,22000,2136
+V. Gyökeres,25,Sweden,ST,76,81,Sporting CP,2023 , 2028,11000000,14000,1925
+M. Taremi,30,Iran,"ST, CF",82,82,Porto,2020 , 2024,30000000,23000,1995
+M. Retegui,24,Italy,ST,77,84,Genoa,2023 , 2028,21500000,25000,1847
+A. Sambi Lokonga,23,Belgium,"CDM, CM",74,80,Luton Town,"Jun 30, 2024",,6000000,56000,1946
+L. Ferguson,23,Scotland,"CM, CDM, CAM",75,81,Bologna,2022 , 2027,9000000,25000,2098
+G. Busio,21,United States,"CM, CDM",73,83,Venezia,2021 , 2025,7000000,3000,1969
+Riqui Puig,23,Spain,"CM, CAM",75,82,LA Galaxy,2022 , 2025,11000000,8000,1877
+K. Nakamura,22,Japan,"LM, LW",75,83,Stade de Reims,2023 , 2028,12500000,19000,1911
+Hugo Duro,23,Spain,"ST, LM",75,80,Valencia,2022 , 2026,8500000,29000,1920
+B. Omeragić,21,Switzerland,"CB, RB, LM",70,83,Montpellier,2023 , 2028,3700000,9000,1770
+J. Teze,23,Netherlands,"RB, CB",76,82,PSV,2016 , 2025,11000000,14000,1878
+M. Kilman,26,England,CB,76,80,Wolverhampton Wanderers,2018 , 2028,9000000,51000,1766
+M. Daramy,21,Denmark,"LW, ST",72,82,Stade de Reims,2023 , 2028,5500000,14000,1754
+Fran Navarro,25,Spain,ST,78,83,Porto,2023 , 2028,21000000,16000,1866
+L. Stergiou,21,Switzerland,CB,70,82,VfB Stuttgart,"Jun 30, 2024",,3700000,5000,1667
+I. Maatsen,21,Netherlands,"LB, LWB",74,83,Chelsea,2018 , 2024,9000000,47000,1953
+W. Fofana,22,France,CB,79,84,Chelsea,2022 , 2028,24500000,80000,1767
+S. Dest,22,United States,"RB, LB",76,82,PSV,"Jun 30, 2024",,11500000,80000,1996
+J. Veerman,24,Netherlands,"CM, CDM, CAM",79,83,PSV,2022 , 2026,25000000,19000,2008
+A. Ounahi,23,Morocco,CM,76,82,Olympique de Marseille,2023 , 2027,12000000,30000,1936
+A. Adli,23,Morocco,"ST, LM",77,84,Bayer 04 Leverkusen,2021 , 2026,21500000,45000,1970
+L. Samardžić,21,Serbia,"CM, CAM",73,80,Udinese,2021 , 2026,6000000,11000,1917
+M. Dárdai,21,Germany,"CB, CDM",72,78,Hertha BSC,2020 , 2025,3400000,7000,1718
+H. Ekitike,21,France,ST,75,81,Paris Saint Germain,2023 , 2027,9000000,49000,1748
+N. Patterson,21,Scotland,"RB, RWB",72,82,Everton,2022 , 2027,5000000,18000,1809
+R. Reitz,21,Germany,CM,69,77,Borussia Mönchengladbach,2020 , 2026,3100000,9000,1867
+ G. Buffon,44,Italy,GK,77,77,Parma,2021 , 2024,1200000,3000,1244
+A. Young,37,England,"RB, LB",75,75,Everton,2023 , 2024,1200000,23000,2087
+Thiago Silva,38,Brazil,CB,84,84,Chelsea,2020 , 2024,7500000,100000,1995
+ L. Suárez,35,Uruguay,ST,84,84,Nacional,2022 , 2022,18000000,1000,2231
+M. Reus,34,Germany,"CAM, CF",83,83,Borussia Dortmund,2012 , 2024,17000000,66000,2121
+P. Aubameyang,34,Gabon,ST,80,80,Olympique de Marseille,2023 , 2026,10500000,51000,1970
+T. Müller,33,Germany,"CAM, CF, ST",84,84,FC Bayern München,2008 , 2024,26500000,90000,2098
+S. El Shaarawy,30,Italy,"LM, LW",78,78,Roma,2021 , 2025,13500000,59000,2000
+J. Ward-Prowse,28,England,"CM, CDM, CAM",78,78,West Ham United,2023 , 2027,14000000,68000,2104
+I. Ivušić,28,Croatia,GK,73,76,Croatia,Free,Free,0,0,1135
+L. Romo,28,Mexico,"CM, CDM",75,75,Mexico,Free,Free,0,0,2021
+B. Sosa,25,Croatia,LB,77,80,Ajax,2023 , 2028,13000000,15000,1993
+A. Laurienté,24,France,"LW, LM",80,83,Sassuolo,2022 , 2027,29000000,22000,1952
+Y. Fofana,24,France,"CDM, CM",80,84,Monaco,2020 , 2024,27500000,46000,2070
+L. Beltrán,22,Argentina,ST,76,83,Fiorentina,2023 , 2028,15500000,44000,1981
+L. Traoré,22,Burkina Faso,ST,74,82,Shakhtar Donetsk,2021 , 2026,9500000,900,1778
+F. Nmecha,22,Germany,"CM, LM",77,84,Borussia Dortmund,2023 , 2028,21500000,36000,2084
+T. Krauß,22,Germany,"CDM, CM",74,82,FSV Mainz 05,2023 , 2027,9000000,19000,1980
+C. De Ketelaere,22,Belgium,"CAM, ST",76,83,Atalanta,"Jun 30, 2024",,15000000,45000,2044
+S. Botman,23,Netherlands,CB,83,87,Newcastle United,2022 , 2027,47000000,105000,1801
+A. Colpani,24,Italy,"CM, CAM, CF",74,81,Monza,2022 , 2028,8500000,34000,1962
+F. Daniliuc,22,Austria,"CB, RB",73,79,Salernitana,2022 , 2026,4400000,20000,1681
+T. Pobega,23,Italy,CM,76,82,Milan,2019 , 2027,12000000,45000,2147
+K. Paredes,20,United States,"LW, LB",69,82,VfL Wolfsburg,2022 , 2026,3400000,16000,1708
+E. Caprile,21,Italy,GK,72,84,Empoli,"Jun 30, 2024",,5000000,15000,1100
+J. Doig,21,Scotland,"LWB, LM, LB",75,82,Hellas Verona,2022 , 2026,11000000,16000,1952
+Evanilson,23,Brazil,ST,78,84,Porto,2020 , 2027,22500000,15000,1816
+N. Seiwald,22,Austria,"CM, CDM",76,84,RB Leipzig,2023 , 2028,17000000,38000,2033
+D. Rensch,20,Netherlands,"RB, LB",74,82,Ajax,2019 , 2025,9000000,9000,1868
+K. Çalhanoğlu,20,Germany,"LWB, LB, LM",67,78,SpVgg Greuther Fürth,2023 , 2025,2100000,3000,1804
+L. Delap,20,England,ST,68,81,Hull City,"Jun 30, 2024",,2900000,30000,1663
+F. Rieder,21,Switzerland,"CAM, CM",74,84,Rennes,2023 , 2027,9500000,27000,1914
+Yang Hyun Jun,21,Korea Republic,"RW, ST",68,83,Celtic,2023 , 2028,3000000,16000,1748
+M. Kjaergaard,20,Denmark,CM,72,82,Salzburg,2019 , 2026,5000000,10000,2000
+K. Schade,21,Germany,"RW, ST, LW",72,82,Brentford,2023 , 2028,5500000,29000,1731
+I. Ndiaye,23,Senegal,"ST, CAM",74,81,Olympique de Marseille,2023 , 2028,8500000,30000,1871
+Hugo Bueno,20,Spain,"LB, LWB",72,82,Wolverhampton Wanderers,2021 , 2026,4900000,26000,1905
+J. Philogene,21,England,"RW, LW, RM",70,79,Hull City,2023 , 2027,3600000,9000,1718
+S. Biuk,20,Croatia,"LW, RW",70,82,Los Angeles FC,2023 , 2026,3800000,4000,1736
+C. Doyle,19,England,"CB, LB",71,83,Leicester City,"Jun 30, 2024",,4200000,28000,1708
+T. Bischof,18,Germany,CAM,66,86,TSG Hoffenheim,2021 , 2025,2400000,3000,1645
+V. Gómez,20,Argentina,"CB, LB",69,80,Vélez Sarsfield,2022 , 2024,2900000,5000,1662
+Álvaro Fernández,20,Spain,"LWB, LB",70,82,Granada,"Jun 30, 2024",,3700000,31000,1856
+Y. Chermiti,19,Portugal,ST,71,82,Everton,2023 , 2027,4100000,16000,1678
+Joan González,21,Spain,CM,69,83,Lecce,2022 , 2027,3400000,6000,1847
+M. Prati,19,Italy,"CDM, CM",71,84,Cagliari,2023 , 2028,4200000,8000,1911
+Andrey Santos,19,Brazil,"CM, CDM",70,84,Nottingham Forest,"Jun 30, 2024",,3800000,25000,1831
+Danilo,22,Brazil,"CDM, CM",76,82,Nottingham Forest,2023 , 2029,11000000,44000,1930
+André Gomes,18,Portugal,GK,63,83,Benfica,2022 , 2028,1200000,500,1065
+B. Rice,16,Scotland,CDM,59,85,Rangers,2021 , 2026,875000,500,1524
+P. Dorgu,18,Denmark,LB,65,83,Lecce,2022 , 2027,1700000,1000,1673
+Á. Di María,35,Argentina,"CF, RM",83,83,Benfica,2023 , 2024,15500000,19000,2146
+Koke,31,Spain,"CDM, CM",84,84,Atlético Madrid,2011 , 2024,29500000,74000,2204
+D. Burn,31,England,"CB, LB",79,79,Newcastle United,2022 , 2025,12000000,95000,1756
+C. Bakambu,32,Congo DR,ST,75,75,Galatasaray,2023 , 2025,4600000,39000,1857
+Nacho Fernández,33,Spain,"CB, LB, RB",83,83,Real Madrid,2010 , 2024,17500000,170000,1896
+K. Koulibaly,32,Senegal,CB,84,84,Al Hilal,2023 , 2026,27500000,62000,1887
+S. Mané,31,Senegal,"LM, RM, CF",86,86,Al Nassr,2023 , 2027,56500000,80000,2145
+N. Aké,28,Netherlands,"CB, LB",81,82,Manchester City,2020 , 2027,24500000,125000,2022
+Fred,30,Brazil,"CM, CDM",81,81,Fenerbahçe,2023 , 2027,24500000,44000,2206
+J. Hofmann,30,Germany,"CAM, RM, LM",83,83,Bayer 04 Leverkusen,2023 , 2027,35000000,74000,2135
+P. Zieliński,29,Poland,"CM, CAM",83,83,Napoli,2016 , 2026,35500000,78000,2152
+M. Flekken,30,Netherlands,GK,81,81,Brentford,2023 , 2027,17000000,51000,1239
+R. De Paul,29,Argentina,CM,84,84,Atlético Madrid,2021 , 2026,41000000,85000,2256
+C. Akpom,27,England,"ST, CAM",76,76,Ajax,2023 , 2028,8000000,18000,1825
+T. Lemar,27,France,"CM, LM",82,82,Atlético Madrid,2018 , 2027,32000000,68000,2216
+Angeliño,26,Spain,"LB, LM",79,81,Galatasaray,"Jun 30, 2024",,20000000,50000,2165
+Pablo Maffeo,25,Spain,"RWB, LWB",78,81,Mallorca,2022 , 2026,17000000,25000,1943
+V. Lindelöf,28,Sweden,CB,79,80,Manchester United,2017 , 2024,16500000,105000,1951
+U. Çiftçi,31,Turkey,LB,67,67,Sivasspor,2018 , 2027,750000,6000,1783
+J. Bowen,26,England,"RM, RW",79,80,West Ham United,2020 , 2030,20500000,72000,1993
+J. Larsson,26,Sweden,"RW, ST",73,74,København,2023 , 2027,3600000,21000,1929
+Akieme,25,Spain,"LB, LWB, LM",75,80,Almería,2021 , 2026,7500000,21000,1840
+L. García,25,Trinidad and Tobago,"ST, RM",77,80,AEK Athens,2020 , 2028,14000000,2000,2000
+D. Zakaria,26,Switzerland,"CDM, CM",79,82,Monaco,2023 , 2028,20500000,50000,2041
+Welington Dano,23,Brazil,"LB, LM, LW",81,81,Atlético Mineiro,2023 , 2026,27000000,37000,2074
+Arthur,26,Brazil,"CM, CDM",78,79,Fiorentina,"Jun 30, 2024",,16500000,90000,2080
+N. Dorsch,25,Germany,"CDM, CM",76,81,FC Augsburg,2021 , 2026,10000000,23000,2058
+L. Jović,25,Serbia,ST,77,81,Milan,2023 , 2024,15000000,58000,1895
+D. Kamada,26,Japan,"CAM, CM, CF",81,82,Lazio,2023 , 2027,30500000,60000,2059
+Zubeldia,26,Spain,CB,80,84,Real Sociedad,2015 , 2029,26000000,36000,2074
+I. Sarr,25,Senegal,"RM, LM, RW",76,79,Olympique de Marseille,2023 , 2028,10000000,34000,1861
+E. Barco,24,Argentina,"CAM, LM",77,80,River Plate,"Dec 31, 2023",,14500000,9000,1885
+E. Ndicka,23,Côte d'Ivoire,CB,78,83,Roma,2023 , 2028,19000000,47000,1937
+C. Stengs,24,Netherlands,"CAM, CM, RW",75,79,Feyenoord,2023 , 2027,8000000,14000,1910
+D. Raum,25,Germany,"LB, LM",78,82,RB Leipzig,2022 , 2027,18000000,43000,2067
+T. Souček,28,Czech Republic,"CDM, CM, CAM",79,80,West Ham United,2020 , 2028,17000000,69000,2029
+V. Castellanos,24,Argentina,ST,79,83,Lazio,2023 , 2028,25500000,51000,1994
+M. Johnston,24,Republic of Ireland,"LW, RW",70,75,Republic of Ireland,Free,Free,0,0,1701
+C. Hudson-Odoi,22,England,"LW, RW",75,80,Nottingham Forest,2023 , 2026,8500000,51000,1908
+S. Tonali,23,Italy,"CDM, CM",86,89,Newcastle United,2023 , 2028,84000000,140000,2279
+D. Livaković,28,Croatia,GK,82,84,Fenerbahçe,2023 , 2028,26000000,38000,1353
+C. Baumgartner,23,Austria,"CAM, CM, CF",79,84,RB Leipzig,2023 , 2028,26500000,48000,1955
+P. Daka,24,Zambia,ST,74,79,Leicester City,2021 , 2026,6500000,35000,1813
+B. Johnson,23,England,"RB, LB, CB",74,80,West Ham United,2017 , 2024,6000000,40000,1774
+O. Solet,23,France,CB,76,84,Salzburg,2020 , 2025,15500000,15000,1806
+C. Jones,22,England,CM,77,83,Liverpool,2018 , 2027,17000000,76000,2015
+J. Vagnoman,22,Germany,"RB, RM, RWB",73,79,VfB Stuttgart,2022 , 2026,4600000,16000,1928
+I. Meslier,23,France,GK,75,82,Leeds United,2020 , 2026,9500000,24000,1220
+L. Ramazani,22,Belgium,"RM, LM, ST",73,81,Almería,2020 , 2025,7000000,18000,1794
+A. Buongiorno,24,Italy,CB,77,85,Torino,2018 , 2028,22000000,33000,1849
+R. Giles,23,England,"LWB, LB",74,79,Luton Town,2023 , 2027,6000000,31000,1935
+Reguilón,26,Spain,"LB, LWB",77,80,Manchester United,"Jun 30, 2024",,12500000,65000,1992
+K. Furuhashi,28,Japan,ST,77,77,Celtic,2021 , 2027,11000000,59000,2017
+P. De la Vega,22,Argentina,"RM, LM",75,84,Lanús,2018 , 2025,12500000,13000,1991
+ G. Plata,21,Ecuador,"RM, RW",77,86,Real Valladolid,2022 , 2027,23500000,18000,1925
+Emerson Royal,24,Brazil,"RB, RWB",78,80,Tottenham Hotspur,2021 , 2026,17000000,59000,2016
+C. Cowell,19,United States,"LM, ST, RM",68,82,San Jose Earthquakes,2019 , 2025,2900000,2000,1747
+I. Gruev,23,Bulgaria,"CDM, CM",72,78,Leeds United,2023 , 2027,3400000,23000,1768
+N. Collins,22,Republic of Ireland,"CB, RB",76,83,Brentford,2023 , 2029,14000000,38000,1625
+L. Vázquez,22,Argentina,ST,71,78,Anderlecht,2023 , 2028,3800000,15000,1766
+Beto,25,Portugal,ST,81,83,Everton,2023 , 2027,33000000,56000,1876
+L. Krejčí,24,Czech Republic,"CB, CDM, CM",77,84,Sparta Praha,2019 , 2025,19500000,950,2013
+J. Kamiński,21,Poland,"LW, LB",75,84,VfL Wolfsburg,2022 , 2027,12500000,32000,1844
+S. Appelkamp,22,Germany,"CAM, LM, CM",72,81,Fortuna Düsseldorf,2019 , 2026,5500000,16000,1674
+E. Touré,21,Mali,ST,71,80,Atalanta,2023 , 2027,4200000,22000,1695
+R. Hatate,25,Japan,CM,78,82,Celtic,2022 , 2028,19500000,53000,2039
+F. Pereira,23,Uruguay,"CB, RB",72,82,Liverpool,2019 , 2027,4900000,600,1769
+S. Simón,21,Argentina,"RB, RM, CM",72,79,River Plate,2021 , 2024,4500000,9000,1965
+A. Dedić,20,Bosnia and Herzegovina,"RB, LB",73,83,Salzburg,2020 , 2027,6500000,10000,1929
+Toti Gomes,24,Portugal,"CB, LB",75,81,Wolverhampton Wanderers,2020 , 2027,8000000,42000,1844
+J. van Hecke,23,Netherlands,CB,73,79,Brighton & Hove Albion,2020 , 2026,4400000,42000,1728
+M. Vitík,20,Czech Republic,"CB, RB",73,81,Sparta Praha,2019 , 2026,6000000,600,1658
+ Kayky,19,Brazil,RW,66,86,Paços de Ferreira,"Jun 30, 2023",,2400000,17000,1562
+E. Fernández,20,Argentina,"CDM, CM",73,81,Boca Juniors,2021 , 2025,6500000,10000,1851
+M. Cancellieri,20,Italy,"RM, CF",72,82,Empoli,"Jun 30, 2024",,5000000,22000,1889
+Diego López,21,Spain,"LM, RM, CAM",73,82,Valencia,2021 , 2026,7000000,19000,1799
+C. Zafeiris,20,Norway,"CM, CDM",74,82,Slavia Praha,2023 , 2027,9000000,900,2030
+Luiz Henrique,22,Brazil,"RM, LM",77,85,Real Betis,2022 , 2028,23500000,21000,1939
+Mosquera,19,Spain,"CB, RB",70,83,Valencia,2021 , 2025,3500000,8000,1603
+E. Jelert,20,Denmark,"RB, LB",72,82,København,2021 , 2027,4900000,11000,1917
+T. Morton,20,England,"CDM, CM",68,79,Hull City,"Jun 30, 2024",,2500000,21000,1833
+T. Rothe,18,Germany,LWB,66,83,Holstein Kiel,"Jun 30, 2024",,2100000,3000,1651
+ Vinícius Tobías,18,Brazil,"RB, RM",65,83,Real Madrid,"Jun 30, 2023",,1700000,500,1640
+A. Sylla,20,Côte d'Ivoire,CB,70,84,Strasbourg,2023 , 2028,3600000,9000,1664
+Y. Asprilla,19,Colombia,"CAM, CM",67,80,Watford,2022 , 2026,2400000,7000,1703
+B. Tahirović,20,Bosnia and Herzegovina,CDM,70,84,Ajax,2023 , 2028,3600000,6000,1687
+C. Casadei,20,Italy,"CM, CAM",67,83,Leicester City,"Jun 30, 2024",,2700000,20000,1876
+C. Uzun,17,Turkey,"CAM, ST",65,82,Nürnberg,2023 , 2026,1800000,500,1599
+A. Oxlade-Chamberlain,29,England,"CM, CAM",77,77,Beşiktaş,2023 , 2026,10500000,28000,2089
+G. Xhaka,30,Switzerland,"CM, CDM",82,82,Bayer 04 Leverkusen,2023 , 2028,29000000,68000,2085
+E. Dier,29,England,CB,77,77,Tottenham Hotspur,2014 , 2024,9000000,68000,1937
+V. van Dijk,31,Netherlands,CB,89,89,Liverpool,2018 , 2025,70500000,220000,2098
+B. Samba,29,France,GK,82,84,Lens,2022 , 2028,25000000,40000,1291
+A. Lozano,30,Honduras,"ST, LM",73,73,Getafe,2023 , 2026,3000000,23000,1842
+K. Ayhan,28,Turkey,"CB, CDM",73,73,Galatasaray,2023 , 2026,2600000,29000,1925
+B. Cristante,28,Italy,"CDM, CM",81,82,Roma,2019 , 2027,25000000,71000,2067
+Lucas Vázquez,32,Spain,"RB, RW",81,81,Real Madrid,2015 , 2024,18000000,140000,2156
+R. Quioto,31,Honduras,ST,74,74,CF Montréal,2019 , 2023,3600000,9000,1865
+D. Berardi,28,Italy,"RW, RM",85,85,Sassuolo,2012 , 2027,54500000,40000,2085
+J. Brandt,27,Germany,"CAM, RM, CM",84,85,Borussia Dortmund,2019 , 2026,48500000,72000,2112
+ D. Valdés,27,Chile,"CAM, CM",74,74,América,2022 , 2026,4500000,37000,1950
+P. Højbjerg,27,Denmark,"CDM, CM",84,85,Tottenham Hotspur,2020 , 2025,43000000,110000,2123
+J. Giménez,28,Uruguay,CB,83,85,Atlético Madrid,2013 , 2025,36500000,71000,1829
+Rafa,30,Portugal,"CF, RM",83,83,Benfica,2016 , 2024,35500000,25000,2044
+H. Traoré,31,Mali,RB,80,80,Real Sociedad,2023 , 2026,15500000,36000,2040
+D. Sánchez,27,Colombia,CB,77,78,Galatasaray,2023 , 2027,10500000,37000,1757
+L. Acosta,29,Argentina,CAM,78,78,Cincinnati,2021 , 2023,14000000,11000,1936
+B. Embolo,26,Switzerland,ST,78,80,Monaco,2022 , 2026,17500000,54000,2013
+S. Becker,28,Suriname,"ST, RM",78,78,FC Union Berlin,2019 , 2025,14500000,41000,1970
+Pedro Chirivella,26,Spain,"CDM, CM",76,79,Nantes,2020 , 2026,9000000,21000,1897
+R. Kent,26,England,"LW, CF, RW",76,76,Fenerbahçe,2023 , 2027,8000000,34000,1951
+O. Boscagli,25,France,CB,76,80,PSV,2019 , 2025,9500000,15000,1959
+E. Buendía,26,Argentina,"RM, CAM",80,81,Aston Villa,2021 , 2026,25000000,88000,2134
+K. Tierney,26,Scotland,LB,80,82,Real Sociedad,"Jun 30, 2024",,24000000,100000,2067
+A. Zendejas,25,United States,"RM, RW, LM",73,75,United States,Free,Free,0,0,1869
+R. Bentancur,26,Uruguay,"CM, CDM",82,85,Tottenham Hotspur,2022 , 2026,39500000,100000,2158
+V. Pavlidis,24,Greece,ST,79,82,AZ Alkmaar,2021 , 2025,24500000,14000,1997
+G. Mancini,27,Italy,CB,83,85,Roma,2020 , 2027,38500000,80000,1790
+J. Ryerson,25,Norway,"LB, RB",77,79,Borussia Dortmund,2023 , 2026,12000000,36000,1963
+A. Disasi,25,France,CB,79,84,Chelsea,2023 , 2029,23000000,89000,1675
+D. Lukébakio,25,Belgium,"RW, ST, LW",79,80,Sevilla,2023 , 2028,21000000,33000,1896
+X. Schlager,25,Austria,"CDM, CM",81,84,RB Leipzig,2022 , 2026,31000000,54000,2088
+Gedson Fernandes,24,Portugal,"CM, CDM, CAM",78,83,Beşiktaş,2022 , 2027,21000000,25000,2171
+A. Danjuma,26,Netherlands,ST,80,81,Everton,"Jun 30, 2024",,25000000,42000,2054
+R. Brewster,23,England,ST,68,76,Sheffield United,2020 , 2025,2700000,13000,1666
+J. Larsen,23,Norway,ST,74,82,Celta de Vigo,2022 , 2028,9500000,19000,1791
+R. Baku,25,Germany,"RB, RW",78,82,VfL Wolfsburg,2020 , 2025,18000000,40000,2127
+M. Olivera,25,Uruguay,"LB, LWB",78,81,Napoli,2022 , 2027,17000000,44000,1929
+G. Chiellini,38,Italy,CB,80,80,Los Angeles FC,2022 , 2023,3800000,8000,1782
+G. Ochoa,37,Mexico,GK,81,81,Salernitana,2023 , 2025,2900000,21000,1257
+M. Neuer,37,Germany,GK,87,87,FC Bayern München,2011 , 2024,9000000,55000,1502
+J. Evans,35,Northern Ireland,CB,75,75,Manchester United,2023 , 2024,1500000,54000,1625
+D. Mertens,36,Belgium,CAM,80,80,Galatasaray,2022 , 2024,7000000,37000,1929
+İ. Gündoğan,32,Germany,"CM, CDM",86,86,FC Barcelona,2023 , 2025,53500000,220000,2200
+K. Walker,33,England,RB,84,84,Manchester City,2017 , 2026,22000000,155000,2190
+Alex Sandro,32,Brazil,"CB, LB",77,77,Juventus,2015 , 2024,7000000,77000,2085
+R. Lukaku,30,Belgium,ST,84,84,Roma,"Jun 30, 2024",,41500000,165000,2039
+ De Gea,31,Spain,GK,87,87,Manchester United,2011 , 2023,42000000,150000,1302
+Villalibre,25,Spain,ST,73,76,Athletic Club,2015 , 2025,4100000,21000,1831
+L. Insigne,32,Italy,"LW, CF, LM",81,81,Toronto,2022 , 2026,20500000,14000,1983
+A. Oxlade-Chamberlain,29,England,"CM, CAM",77,77,Beşiktaş,2023 , 2026,10500000,28000,2089
+D. Neil,21,England,"CDM, CM",70,82,Sunderland,2019 , 2026,3700000,12000,1913
+C. Riad,20,Morocco,"CB, RB",68,81,Real Betis,"Jun 30, 2024",,2700000,26000,1535
+I. Ilić,22,Serbia,"CM, CF",76,84,Torino,2023 , 2027,17000000,34000,2034
+Arribas,21,Spain,"CAM, RM, LM",71,81,Almería,2023 , 2029,4200000,12000,1661
+L. Barry,20,England,"LM, LW, ST",64,77,Stockport County,"Jun 30, 2024",,1400000,11000,1636
+J. Zemura,23,Zimbabwe,"LWB, LB, LM",70,77,Udinese,2023 , 2027,3000000,8000,1662
+A. Sima,22,Senegal,"ST, CF, LW",71,77,Rangers,"Jun 30, 2024",,3000000,40000,1829
+Francisco Conceição,20,Portugal,"RM, RW, LW",74,83,Porto,"Jun 30, 2024",,9500000,11000,1726
+M. Aydın,21,Turkey,RB,69,79,Trabzonspor,"Jun 30, 2024",,3000000,4000,1870
+L. Mbete,19,England,CB,62,78,Manchester City,2020 , 2027,975000,8000,1506
+A. Omobamidele,21,Republic of Ireland,CB,70,81,Nottingham Forest,2023 , 2028,3300000,20000,1547
+S. Raebiger,18,Germany,"CM, CAM",62,82,Eintracht Frankfurt,2023 , 2024,1100000,2000,1708
+B. Yılmaz,23,Turkey,"RM, LM",72,79,Galatasaray,2021 , 2027,4700000,23000,1901
+Z. Sertdemir,18,Denmark,CM,62,80,Nordsjælland,2023 , 2026,1000000,900,1676
+J. Sarmiento,21,Ecuador,"RM, LM, CAM",67,81,West Bromwich Albion,"Jun 30, 2024",,2500000,16000,1653
+Miguel Maga,20,Portugal,"RWB, RB, RM",72,82,Vitória SC,2020 , 2027,4900000,6000,1796
+Andrew,22,Brazil,GK,75,84,Gil Vicente,2021 , 2024,11000000,7000,1134
+S. Edozie,20,England,"LW, LM, RW",67,82,Southampton,2022 , 2027,2500000,12000,1581
+A. Ezzalzouli,21,Morocco,"LM, RM",73,83,Real Betis,2023 , 2028,7000000,14000,1673
+S. Bamba,19,Germany,LW,62,80,Borussia Dortmund II,2023 , 2024,1000000,700,1447
+F. Afena-Gyan,20,Ghana,ST,72,82,Cremonese,2022 , 2026,5000000,3000,1815
+L. Querfeld,19,Austria,CB,68,82,Rapid Wien,2021 , 2025,2700000,4000,1574
+N. Tresoldi,18,Germany,"ST, CF",62,81,Hannover 96,2021 , 2026,1000000,2000,1462
+Ó. Zambrano,19,Ecuador,"CDM, CM",69,82,LDU Quito,2022 , 2024,3100000,500,1790
+J. Belocian,18,France,"LB, CB",68,83,Rennes,2021 , 2025,2700000,4000,1756
+K. Lisztes,18,Hungary,"CAM, ST",66,84,Ferencváros,2022 , 2024,2200000,500,1610
+P. Aning,19,Netherlands,"LB, LW",62,82,Borussia Dortmund II,2022 , 2026,1100000,500,1604
+J. N'Duquidi,18,France,CDM,63,81,Metz,2021 , 2024,1200000,1000,1708
+Bryan,21,Spain,"RM, LM",71,83,Granada,2021 , 2027,4600000,10000,1740
+N. Labrović,23,Croatia,GK,72,79,Croatia,Free,Free,0,0,1172
+G. Ambrosino,19,Italy,ST,65,82,Catanzaro,"Jun 30, 2024",,1900000,7000,1713
+Renato Veiga,19,Portugal,"CDM, LB, CB",69,82,Basel,2023 , 2027,3100000,4000,1756
+Marvel,20,Spain,CB,63,79,Real Madrid,2022 , 2025,1200000,15000,1476
+R. Vata,18,Republic of Ireland,"RW, LW",64,82,Celtic,2021 , 2024,1500000,5000,1581
+A. Bobek,19,Poland,GK,65,81,ŁKS Łódź,2020 , 2025,1600000,500,965
+T. Land,17,Netherlands,CM,62,84,PSV,2022 , 2025,1200000,500,1691
+L. Miller,16,Scotland,CM,59,85,Motherwell,2022 , 2025,900000,500,1621
+C. Huerta,22,Mexico,"LW, LM",74,80,Mexico,Free,Free,0,0,1911
+Hugo Guillamón,23,Spain,"CDM, CM, CB",74,81,Valencia,2018 , 2026,8000000,22000,1845
+M. Caqueret,23,France,"CM, CDM, CAM",77,80,Olympique Lyonnais,2018 , 2026,14500000,30000,2019
+Aihen Muñoz,25,Spain,LB,74,77,Real Sociedad,2017 , 2027,5000000,23000,1923
+S. Koita,23,Mali,"ST, CAM",75,83,Salzburg,2019 , 2024,12500000,18000,1971
+Ibañez,24,Brazil,CB,80,84,Al Ahli Jeddah,2023 , 2027,27000000,34000,1733
+D. Kulusevski,23,Sweden,RW,81,85,Tottenham Hotspur,2023 , 2028,37000000,90000,2092
+G. Ávila,21,Argentina,"CB, LB",71,82,Ajax,2023 , 2028,3900000,7000,1830
+L. Unbehaun,22,Germany,GK,64,74,Verl,2023 , 2024,1100000,500,1059
+Moncayola,25,Spain,"CM, CDM, RB",78,83,Osasuna,2017 , 2031,20500000,29000,1969
+T. Anjorin,21,England,CAM,66,76,Portsmouth,"Jun 30, 2024",,1900000,17000,1802
+J. Greaves,22,England,"CB, LB",71,80,Hull City,2017 , 2026,3900000,10000,1710
+M. Diarra,22,Mali,"LB, CB, CM",71,79,Toulouse,2019 , 2024,4000000,12000,1658
+J. Stanišić,23,Croatia,"RB, CB",75,81,Bayer 04 Leverkusen,"Jun 30, 2024",,8500000,36000,1761
+A. Stiller,22,Germany,"CM, CDM",73,79,VfB Stuttgart,2023 , 2027,4900000,17000,1898
+R. Zalazar,23,Uruguay,"CM, CAM",74,80,Sporting Braga,2023 , 2028,6500000,12000,2013
+C. Summerville,21,Netherlands,"RM, LM",74,82,Leeds United,2020 , 2026,9500000,27000,1804
+R. Yılmaz,22,Turkey,LB,74,82,Rangers,2022 , 2027,9000000,34000,1905
+Tiago Djaló,23,Portugal,CB,76,82,LOSC Lille,2019 , 2024,11000000,24000,1808
+T. Harwood-Bellis,21,England,CB,74,83,Southampton,"Jun 30, 2024",,9000000,53000,1724
+A. Aouchiche,20,France,"LM, CAM, CM",70,77,Sunderland,2023 , 2028,3200000,14000,1827
+M. Azeez,20,England,"CM, CDM",62,76,Arsenal,2019 , 2024,950000,11000,1757
+Talles Magno,21,Brazil,"CF, ST, LM",73,82,New York City,2021 , 2026,7000000,6000,1769
+L. Hjelde,19,Norway,"LB, CB",65,79,Leeds United,2021 , 2025,1600000,5000,1568
+E. Just,23,New Zealand,"RW, CF, LW",65,73,New Zealand,Free,Free,0,0,1704
+Z. Debast,19,Belgium,CB,71,83,Anderlecht,2019 , 2025,4200000,8000,1817
+Francés,20,Spain,CB,73,82,Real Zaragoza,2019 , 2025,6000000,6000,1784
+M. Arezo,20,Uruguay,ST,72,82,Peñarol,2022 , 2026,5000000,800,1847
+S. Pavlović,22,Serbia,CB,75,83,Salzburg,2022 , 2027,12000000,15000,1711
+O. Dorley,24,Liberia,"CM, LB, LM",76,81,Slavia Praha,2019 , 2027,11500000,1000,2056
+T. Moffi,24,Nigeria,ST,77,81,Nice,2023 , 2027,15500000,39000,1784
+M. Bogarde,21,Netherlands,"CB, RWB, CDM",65,76,TSG Hoffenheim,2019 , 2024,1500000,5000,1563
+T. Lemperle,21,Germany,ST,65,78,SpVgg Greuther Fürth,"Jun 30, 2024",,1800000,6000,1618
+O. Marmoush,24,Egypt,"ST, LM",76,80,Eintracht Frankfurt,2023 , 2027,11000000,33000,1886
+L. Colombo,21,Italy,ST,72,83,Monza,"Jun 30, 2024",,5500000,31000,1698
+Tiago Tomás,21,Portugal,"ST, RW, LW",74,82,VfL Wolfsburg,2023 , 2027,9500000,29000,1854
+I. Doukouré,19,France,"CDM, CM, CB",72,84,Strasbourg,2022 , 2026,5500000,8000,1742
+Álex Baena,21,Spain,"CM, ST, LM",76,83,Villarreal,2019 , 2028,15000000,22000,2079
+A. Virginius,20,France,RM,68,81,LOSC Lille,2022 , 2027,2900000,9000,1583
+A. Elanga,21,Sweden,"RW, ST, LW",73,82,Nottingham Forest,2023 , 2028,7000000,38000,1811
+S. Mara,20,France,ST,70,80,Southampton,2022 , 2026,3500000,19000,1647
+K. Fujimoto,24,Japan,"CAM, CM",74,81,Gil Vicente,2020 , 2025,8500000,10000,1893
+I. Touré,20,France,CB,70,82,Lorient,2023 , 2028,3600000,9000,1558
+M. Stroeykens,18,Belgium,"CAM, CF, ST",67,83,Anderlecht,2020 , 2026,2600000,3000,1691
+Kaio Jorge,21,Brazil,ST,71,81,Frosinone,"Jun 30, 2024",,4200000,41000,1697
+Z. Amdouni,22,Switzerland,"ST, CAM",74,83,Burnley,2023 , 2028,9500000,37000,1913
+S. Banza,26,Congo DR,ST,78,79,Sporting Braga,2022 , 2027,17000000,19000,1810
+Y. Yazıcı,26,Turkey,"CAM, RM, ST",74,76,LOSC Lille,2019 , 2024,5000000,27000,1952
+ FakePlayer,27,China PR,"ST, CAM",69,71,China PR,Free,Free,0,0,1716
+Isi Palazón,28,Spain,RM,82,82,Rayo Vallecano,2020 , 2028,30500000,32000,2012
+R. Orsolini,26,Italy,"RM, CF, RW",78,79,Bologna,2019 , 2027,16500000,35000,1958
+E. Reynoso,27,Argentina,"CAM, LM",79,80,Minnesota United,2020 , 2025,20000000,12000,1997
+J. Ikoné,25,France,"RW, RM",77,80,Fiorentina,2022 , 2026,14000000,51000,1914
+H. Aouar,25,Algeria,"CAM, LM, CM",76,80,Roma,2023 , 2028,10500000,50000,2042
+F. Neuhaus,26,Germany,CM,79,82,Borussia Mönchengladbach,2017 , 2027,23000000,34000,2036
+C. Früchtl,23,Germany,GK,68,74,Austria Wien,2022 , 2025,1500000,4000,962
+S. Özcan,25,Turkey,"CDM, CM",78,81,Borussia Dortmund,2022 , 2026,17000000,39000,2055
+Y. En-Nesyri,26,Morocco,ST,82,83,Sevilla,2020 , 2025,36500000,42000,1940
+J. Bellegarde,25,France,"CM, CDM, LW",75,79,Wolverhampton Wanderers,2023 , 2028,8000000,51000,2033
+J. Asoro,24,Sweden,"RM, ST",70,76,Metz,2023 , 2027,2500000,9000,1754
+R. Sessegnon,23,England,"LB, LWB",75,80,Tottenham Hotspur,2019 , 2025,8000000,49000,1960
+Brais Méndez,26,Spain,"CM, CAM, RM",81,82,Real Sociedad,2022 , 2028,30000000,42000,2132
+S. Szymański,24,Poland,"CAM, LW",78,83,Fenerbahçe,2023 , 2027,21000000,31000,1987
+Reinildo,29,Mozambique,"LB, CB",81,81,Atlético Madrid,2022 , 2025,22500000,60000,2026
+O. Ejaria,25,England,"CAM, LM",68,70,Reading,2020 , 2024,1500000,3000,1855
+Y. Bissouma,26,Mali,"CDM, CM",80,83,Tottenham Hotspur,2022 , 2026,25000000,81000,2111
+S. Longstaff,25,England,CM,78,81,Newcastle United,2015 , 2025,18500000,89000,2002
+J. Willock,23,England,CM,78,83,Newcastle United,2021 , 2027,21000000,81000,2085
+ J. Cumming,22,England,GK,66,75,Milton Keynes Dons,"Jun 30, 2023",,1700000,14000,1152
+A. Haidara,25,Mali,"CM, CDM, RM",78,82,RB Leipzig,2019 , 2025,19500000,48000,2048
+L. Østigård,23,Norway,CB,73,82,Napoli,2022 , 2026,6500000,28000,1677
+N. Casale,25,Italy,CB,79,82,Lazio,2022 , 2027,20500000,46000,1955
+J. Moder,24,Poland,"CM, CDM, LM",73,78,Brighton & Hove Albion,2020 , 2025,4600000,47000,2000
+S. Kalajdžić,25,Austria,ST,77,79,Wolverhampton Wanderers,2022 , 2027,13500000,63000,1827
+T. Koopmeiners,25,Netherlands,"CM, CDM, CAM",80,83,Atalanta,2021 , 2025,27500000,53000,2184
+Y. Atal,27,Algeria,"RB, RWB, RW",73,74,Nice,2018 , 2024,3200000,28000,2012
+O. Skipp,22,England,"CDM, CM",77,82,Tottenham Hotspur,2018 , 2027,15000000,56000,1848
+C. Bassey,23,Nigeria,"CB, LB",74,82,Fulham,2023 , 2027,8500000,46000,1878
+M. Damsgaard,22,Denmark,"CAM, LW, CM",75,82,Brentford,2022 , 2027,11500000,40000,1949
+Mauro Júnior,24,Brazil,"LB, RB, CAM",74,80,PSV,2017 , 2025,6000000,12000,2030
+J. Sands,22,United States,"CDM, CM, CB",72,80,New York City,2017 , 2027,5000000,5000,1716
+M. Frendrup,22,Denmark,"CDM, CM",73,82,Genoa,2022 , 2026,6500000,16000,1898
+A. Saelemaekers,24,Belgium,"RM, RW",78,82,Bologna,"Jun 30, 2024",,20000000,52000,2019
+J. Scally,20,United States,RB,74,80,Borussia Mönchengladbach,2021 , 2027,6000000,16000,1830
+N. Radonjić,27,Serbia,"CF, LW, RW",75,76,Torino,2023 , 2025,6500000,41000,1824
+A. Lunin,24,Ukraine,GK,74,81,Real Madrid,2018 , 2024,7000000,59000,1117
+L. Majer,25,Croatia,"CM, RM",79,83,VfL Wolfsburg,2023 , 2028,24500000,48000,2073
+T. Teuma,29,Malta,"CM, CAM",79,79,Stade de Reims,2023 , 2027,17000000,31000,2169
+Luís Maximiano,24,Portugal,GK,78,82,Almería,"Jun 30, 2024",,16000000,29000,1186
+J. Bogle,22,England,"RWB, RB",73,79,Sheffield United,2020 , 2024,4600000,22000,1870
+Vinícius,28,Brazil,ST,75,75,Fulham,2022 , 2025,6000000,71000,1849
+Miguel Morro,22,Spain,GK,65,75,Villarreal II,"Jun 30, 2024",,1400000,3000,1013
+H. White,21,England,"CDM, CM",62,73,Stevenage,2023 , 2025,850000,1000,1786
+Adrià Pedrosa,25,Spain,LB,76,81,Sevilla,2023 , 2028,10000000,22000,2020
+C. Huerta,22,Mexico,"LW, LM",74,80,Mexico,Free,Free,0,0,1911
+ Quaresma,37,Portugal,RW,76,76,Vitória SC,2020 , 2022,2400000,10000,1860
+ Z. Ibrahimović,40,Sweden,ST,80,80,Sweden,Free,Free,0,0,1935
+K. Schmeichel,36,Denmark,GK,81,81,Anderlecht,2023 , 2024,2900000,17000,1332
+C. Bravo,40,Chile,GK,80,80,Real Betis,2020 , 2024,2300000,13000,1482
+ M. Özil,33,Germany,"CAM, RM",77,77,İstanbul Başakşehir,2022 , 2023,6500000,37000,1760
+Fernando,35,Brazil,"CDM, CB",82,82,Sevilla,2019 , 2024,8500000,25000,2036
+K. Trippier,32,England,RB,85,85,Newcastle United,2022 , 2025,37500000,150000,2223
+ Hulk,33,Brazil,"RW, ST",80,80,Shanghai Port,2017 , 2023,13000000,20000,2134
+Muniain,30,Spain,"CAM, LM",81,81,Athletic Club,2009 , 2024,25000000,36000,2052
+Marcos Alonso,32,Spain,"LB, CB",79,79,FC Barcelona,2022 , 2024,12000000,115000,2149
+H. Mkhitaryan,34,Armenia,"CAM, CM, CDM",81,81,Inter,2022 , 2024,12000000,87000,2133
+A. Lacazette,32,France,ST,82,82,Olympique Lyonnais,2022 , 2025,24500000,55000,2083
+Danilo,31,Brazil,"CB, RB",81,81,Juventus,2019 , 2025,17500000,100000,2140
+M. Verratti,30,Italy,"CM, CDM",86,86,Paris Saint Germain,2012 , 2026,65000000,135000,2176
+F. Acerbi,35,Italy,CB,83,83,Inter,2023 , 2025,9500000,67000,1863
+L. Dunk,31,England,CB,81,81,Brighton & Hove Albion,2010 , 2026,17500000,86000,1835
+Cristian Tello,31,Spain,"LW, CAM",76,76,Al Fateh,2023 , 2024,6000000,32000,1964
+N. Pope,31,England,GK,84,84,Newcastle United,2022 , 2026,22500000,110000,1310
+Iñigo Martínez,32,Spain,CB,82,82,FC Barcelona,2023 , 2025,20000000,145000,2002
+B. Mendy,28,France,LB,73,73,Lorient,2023 , 2025,2800000,18000,1917
+F. Thauvin,30,France,"CF, ST, RM",73,73,Udinese,2023 , 2025,3000000,16000,1968
+S. Umtiti,29,France,CB,79,79,LOSC Lille,2023 , 2025,14500000,37000,1993
+L. Paredes,29,Argentina,"CM, CDM",77,77,Roma,2023 , 2025,10500000,58000,2087
+J. Martínez,30,Venezuela,ST,75,75,Inter Miami,2023 , 2023,5500000,10000,1851
+Y. Carrasco,29,Belgium,"LW, LWB, LM",84,84,Al Shabab,2023 , 2026,41500000,69000,2161
+Ricardo Horta,28,Portugal,"CAM, CF, RM",82,82,Sporting Braga,2017 , 2026,30500000,24000,2094
+J. Correa,28,Argentina,"CF, ST",77,77,Olympique de Marseille,"Jun 30, 2024",,11000000,74000,1909
+A. Mitrović,28,Serbia,ST,79,79,Al Hilal,2023 , 2026,18000000,52000,1846
+S. Fofana,28,Côte d'Ivoire,CM,82,82,Al Nassr,2023 , 2026,30500000,59000,2145
+S. Lobotka,28,Slovakia,"CM, CDM",84,84,Napoli,2020 , 2027,42000000,86000,2141
+G. Simeone,27,Argentina,ST,78,78,Napoli,2023 , 2026,15000000,55000,1971
+Sandro,27,Spain,"ST, LM",75,75,Las Palmas,2023 , 2026,6000000,21000,1885
+T. Bakayoko,28,France,"CDM, CM",73,73,Lorient,2023 , 2025,2700000,18000,1800
+R. Tapia,27,Peru,"CDM, CM, CB",78,79,Celta de Vigo,2020 , 2024,14500000,24000,2078
+L. Hernández,27,France,"CB, LB",84,85,Paris Saint Germain,2023 , 2028,42500000,105000,2011
+L. Torreira,27,Uruguay,"CDM, CM",82,83,Galatasaray,2022 , 2026,31000000,53000,2163
+N. Kreuzer,30,Germany,"RB, RW",67,67,Hallescher FC,2021 , 2026,875000,1000,1893
+N. Pépé,28,Côte d'Ivoire,"RM, LM, LW",78,78,Trabzonspor,2023 , 2024,14000000,53000,1978
+Aritz Elustondo,29,Spain,"CB, RB",80,81,Real Sociedad,2014 , 2024,19500000,37000,1796
+Nélson Semedo,29,Portugal,"RB, RWB",78,78,Wolverhampton Wanderers,2020 , 2025,12500000,61000,1992
+E. Ávila,29,Argentina,"ST, RM, LM",80,80,Osasuna,2019 , 2026,21000000,40000,2037
+André Silva,27,Portugal,ST,80,80,Real Sociedad,"Jun 30, 2024",,23000000,63000,2066
+Mario Hermoso,28,Spain,CB,82,83,Atlético Madrid,2019 , 2024,29000000,65000,2007
+A. Lookman,25,Nigeria,"ST, RM, RW",81,83,Atalanta,2022 , 2026,33000000,62000,1963
+C. Traorè,18,Côte d'Ivoire,LW,62,81,Milan,2023 , 2028,1000000,4000,1537
+Newerton,18,Brazil,"LM, RM",64,84,Shakhtar Donetsk,2023 , 2028,1600000,500,1423
+Murillo,20,Brazil,CB,69,81,Nottingham Forest,2023 , 2028,3200000,17000,1657
+J. Donley,18,England,"CAM, ST",62,83,Tottenham Hotspur,2022 , 2027,1300000,4000,1567
+P. Nebel,20,Germany,"CAM, CM",69,80,Karlsruher SC,"Jun 30, 2024",,3100000,9000,1660
+C. Tengstedt,23,Denmark,ST,68,76,Benfica,2023 , 2028,2700000,5000,1745
+I. Zabarnyi,20,Ukraine,CB,73,81,AFC Bournemouth,2023 , 2028,6000000,23000,1661
+J. Lawrence,20,Germany,CB,66,76,Magdeburg,"Jun 30, 2024",,1800000,9000,1419
+M. Hilgers,22,Netherlands,CB,74,83,FC Twente,2020 , 2026,9000000,9000,1704
+Terrats,22,Spain,"CM, CDM",75,82,Villarreal,2023 , 2026,11500000,24000,1906
+M. Ruggeri,20,Italy,"LWB, LM, CB",71,82,Atalanta,2020 , 2026,3900000,17000,1791
+N. Ohio,20,Netherlands,ST,67,78,Standard Liège,2022 , 2026,2300000,5000,1627
+K. Gordon,18,England,"RW, LW",62,81,Liverpool,2021 , 2024,1000000,7000,1454
+I. Hien,24,Sweden,CB,75,83,Hellas Verona,2022 , 2026,11500000,20000,1644
+M. Uzuni,28,Albania,"ST, LM, RM",77,77,Granada,2022 , 2025,11000000,24000,1938
+C. Okoli,21,Italy,CB,72,82,Frosinone,"Jun 30, 2024",,4900000,20000,1548
+Antonio Blanco,22,Spain,"CDM, CM",73,82,Deportivo Alavés,2023 , 2027,6500000,15000,1795
+M. Estève,21,France,CB,74,82,Montpellier,2021 , 2025,9000000,14000,1591
+Kaiky,19,Brazil,CB,71,82,Almería,2022 , 2028,3800000,8000,1607
+H. Haraldsson,20,Iceland,"CF, LM",70,83,LOSC Lille,2023 , 2028,3900000,14000,1932
+Sergi Cardona,23,Spain,"LB, LM",74,80,Las Palmas,2020 , 2024,6000000,14000,1754
+P. Lervik,18,Norway,GK,56,78,Molde,2021 , 2024,400000,500,983
+E. Bitshiabu,18,France,CB,68,83,RB Leipzig,2023 , 2028,2600000,5000,1505
+Diogo Monteiro,18,Portugal,CB,60,81,Leeds United,2023 , 2026,750000,2000,1414
+M. Viti,21,Italy,CB,72,81,Sassuolo,"Jun 30, 2024",,4900000,18000,1621
+M. Satriano,22,Uruguay,ST,72,81,Brest,"Jun 30, 2024",,5500000,42000,1709
+H. Vale,19,England,"CAM, RW, LB",63,80,Bristol Rovers,2020 , 2025,1200000,1000,1737
+Matheus França,19,Brazil,"CAM, LM, RM",68,85,Crystal Palace,2023 , 2028,3100000,9000,1758
+Ilias,19,Spain,"RW, RM, LW",71,82,Villarreal,2023 , 2026,4000000,12000,1579
+C. Çanak,18,Belgium,"CAM, CM, RM",66,83,Standard Liège,2021 , 2026,2200000,2000,1687
+A. Lowry,20,Scotland,"CAM, CF, LW",65,82,Hearts,"Jun 30, 2024",,1900000,9000,1567
+S. Ngoma,17,United States,"RM, ST",58,80,New York RB,2022 , 2025,650000,500,1509
+C. McNeill,19,England,ST,61,78,Stevenage,"Jun 30, 2024",,850000,10000,1561
+H. Ahmed,23,Qatar,LB,68,74,Qatar,Free,Free,0,0,1728
+U. Tohumcu,18,Germany,"CAM, CM",64,84,TSG Hoffenheim,2022 , 2026,1600000,3000,1575
+W. Amey,17,Italy,CB,61,82,Bologna,2021 , 2025,975000,500,1514
+O. Óskarsson,18,Iceland,ST,65,80,København,2022 , 2025,1700000,3000,1674
+J. Gauto,19,Argentina,"LM, RM, ST",69,83,Basel,2023 , 2028,3300000,4000,1694
+D. Huseinbašić,21,Germany,"CM, CDM",69,80,FC Köln,2022 , 2025,3100000,9000,1777
+Simo,18,Spain,CB,65,82,Espanyol,2022 , 2026,1700000,750,1526
+L. Langoni,21,Argentina,"RM, ST, RW",72,83,Boca Juniors,2022 , 2026,5500000,10000,1809
+Mateus Fernandes,18,Portugal,"CM, CAM",68,83,Estoril,"Jun 30, 2024",,2800000,2000,1832
+L. Harris,18,Wales,CAM,61,84,Fulham,2022 , 2025,1000000,4000,1534
+Fran Pérez,20,Spain,"RM, LM",72,81,Valencia,2020 , 2026,5000000,17000,1741
+R. Pukštas,18,United States,"CM, CAM, RM",68,82,Hajduk Split,2020 , 2025,2800000,500,1893
+J. Beadle,18,England,GK,64,80,Oxford United,"Jun 30, 2024",,1300000,1000,1093
+A. Matturro,18,Uruguay,CB,65,82,Genoa,2023 , 2026,1700000,2000,1522
+R. Walters,18,England,"RB, CB",61,79,Arsenal,2022 , 2024,800000,4000,1447
+K. Konaté,19,Côte d'Ivoire,"ST, CAM",67,81,Salzburg,2022 , 2027,2400000,4000,1719
+S. Magassa,19,France,"CB, CDM",69,80,Monaco,2022 , 2024,2800000,10000,1707
+B. Acosta,29,Honduras,"CDM, CM",71,71,Portland Timbers,2023 , 2024,1600000,6000,1991
+D. Man,24,Romania,"RM, LM, RW",74,77,Parma,2021 , 2025,6000000,5000,1929
+N. De la Cruz,26,Uruguay,"CM, RM",78,78,River Plate,2017 , 2025,15000000,22000,2177
+L. Ranieri,24,Italy,"CB, LB",72,77,Fiorentina,2017 , 2026,3200000,26000,1776
+H. Traorè,23,Côte d'Ivoire,"LM, LW, CAM",76,80,AFC Bournemouth,2023 , 2028,11000000,38000,1982
+A. Alese,22,England,"LB, CB",67,78,Sunderland,2022 , 2025,2200000,9000,1597
+Junior Firpo,26,Spain,"LB, LWB",73,74,Leeds United,2021 , 2025,3300000,31000,1917
+Igor,25,Brazil,CB,76,81,Brighton & Hove Albion,2023 , 2028,10000000,58000,1670
+R. Massimo,22,Germany,RM,68,75,VfB Stuttgart,2018 , 2024,2500000,9000,1732
+C. Führich,25,Germany,"LM, LW, CAM",74,77,VfB Stuttgart,2021 , 2025,5500000,21000,1896
+O. Solbakken,24,Norway,"RM, RW, LW",73,76,Norway,Free,Free,0,0,1803
+B. Hussein,23,Sweden,CM,68,75,Hertha BSC,2023 , 2026,2400000,6000,1880
+A. Cicâldău,25,Romania,"CM, CAM",71,73,Konyaspor,"Jun 30, 2024",,2300000,23000,1964
+N. Williams,22,Wales,"RWB, RB, LWB",74,81,Nottingham Forest,2022 , 2026,8000000,39000,1818
+D. McNeil,23,England,LM,76,81,Everton,2022 , 2027,11500000,33000,1953
+B. Mumba,21,England,"LM, LWB, RWB",71,79,Plymouth Argyle,2023 , 2027,4200000,9000,1870
+Chiquinho,27,Portugal,"CM, CAM",76,76,Benfica,2019 , 2024,8000000,14000,2020
+D. Spence,22,England,"RB, RWB",74,82,Leeds United,"Jun 30, 2024",,9000000,46000,1756
+Hong Hyeon Seok,24,Korea Republic,"CAM, CM, CF",74,79,Gent,2022 , 2025,6500000,17000,2003
+A. Rrahmani,29,Kosovo,CB,81,81,Napoli,2020 , 2027,21500000,61000,1817
+V. Gendrey,23,France,RB,73,82,Lecce,2021 , 2024,6500000,11000,1723
+Arthur Cabral,25,Brazil,ST,80,84,Benfica,2023 , 2028,29500000,19000,1912
+M. Bidstrup,22,Denmark,"CDM, CM",73,80,Salzburg,2023 , 2028,6000000,12000,1893
+R. Sottil,24,Italy,"LW, LM",76,81,Fiorentina,2018 , 2026,11500000,44000,1785
+B. Diakité,22,France,"RB, CB",76,82,LOSC Lille,2022 , 2026,11500000,24000,1829
+Álvaro Valles,25,Spain,GK,78,82,Las Palmas,2018 , 2024,15500000,16000,1181
+A. Pelmard,23,France,CB,72,83,Clermont,2023 , 2027,4900000,11000,1801
+A. Rus,27,Romania,"CB, CDM",67,69,Romania,Free,Free,0,0,1714
+D. Köhn,24,Germany,LWB,72,79,Hannover 96,2022 , 2025,4500000,16000,1932
+R. Nteka,25,France,"ST, CAM",71,76,Rayo Vallecano,2021 , 2026,2800000,13000,1961
+A. Soñora,24,United States,"CM, CAM, RM",71,73,Huracán,2023 , 2024,2400000,8000,1984
+I. Jakobs,23,Senegal,"LB, LM",74,79,Monaco,2021 , 2026,6000000,30000,1870
+K. Kozłowski,19,Poland,"LM, CAM",69,84,Vitesse,"Jun 30, 2024",,3300000,18000,1865
+J. O'Brien,22,Republic of Ireland,CB,68,77,Olympique Lyonnais,2023 , 2027,2500000,10000,1496
+D. Sarmiento,20,Argentina,"RW, LW",67,82,Manchester City,2021 , 2026,2500000,26000,1679
+Matheus Henrique,25,Brazil,"CM, CDM",75,78,Sassuolo,2022 , 2026,7500000,16000,1941
+L. Badé,23,France,CB,77,84,Sevilla,2023 , 2027,19500000,21000,1655
+S. Hezze,21,Argentina,"CDM, CM",75,83,Huracán,2020 , 2024,12000000,9000,1917
+M. Ramírez,22,Ecuador,GK,75,82,Independiente del Valle,2018 , 2023,9500000,650,1056
+Ö. Beyaz,19,Turkey,"CAM, CM",62,75,Hatayspor,"May 31, 2024",,950000,2000,1612
+W. Fish,20,England,CB,68,78,Hibernian,"Jun 30, 2024",,2500000,22000,1559
+A. Truffert,21,France,LB,76,83,Rennes,2019 , 2026,14500000,27000,1941
+N. Hedl,22,Austria,GK,70,81,Rapid Wien,2020 , 2027,3100000,7000,984
+A. Grønbæk,22,Denmark,"CAM, CM",71,81,Bodø / Glimt,2022 , 2027,4200000,5000,1955
+O. Pineda,27,Mexico,"CAM, LM, CM",77,78,AEK Athens,2023 , 2027,12000000,1000,2088
+Álex Berenguer,27,Spain,"LM, RM",80,80,Athletic Club,2020 , 2024,22500000,33000,2127
+N. Amiri,26,Germany,"CAM, CM",77,78,Bayer 04 Leverkusen,2019 , 2024,12500000,47000,2019
+David García,29,Spain,CB,82,83,Osasuna,2013 , 2026,28000000,39000,1799
+A. Golovin,27,Russia,"CF, LM",80,80,Monaco,2018 , 2026,23000000,63000,2126
+K. Iheanacho,26,Nigeria,ST,76,77,Leicester City,2017 , 2024,9000000,45000,1931
+U. Çakır,27,Turkey,GK,78,80,Trabzonspor,2014 , 2027,13000000,38000,1332
+V. Janssen,29,Netherlands,ST,77,77,Antwerp,2022 , 2026,10500000,35000,1997
+J. Bacuna,25,Curacao,"CDM, CM",70,74,Birmingham City,2022 , 2025,2000000,9000,2003
+ A. Rossi,26,Argentina,GK,79,83,Al Nassr,"Jun 30, 2023",,19000000,16000,1303
+E. Konsa,25,England,"CB, RB",80,83,Aston Villa,2019 , 2028,25000000,77000,1876
+Nuno Santos,28,Portugal,"LW, LWB",80,80,Sporting CP,2020 , 2027,21000000,20000,2163
+L. Pellegrini,27,Italy,"CAM, CM, CF",83,84,Roma,2017 , 2026,42000000,88000,2263
+J. Reine-Adélaïde,25,France,"CM, RM, CAM",72,74,RWDM,2023 , 2024,2900000,14000,1895
+M. Svanberg,24,Sweden,"CM, CDM",76,80,VfL Wolfsburg,2022 , 2027,10500000,35000,1954
+S. Sensi,27,Italy,"CM, CAM",78,78,Inter,2020 , 2024,15000000,70000,2040
+Lucas Mantela,23,Brazil,GK,82,82,Palmeiras,2023 , 2026,26000000,33000,1298
+J. Makengo,25,France,"CM, CDM",73,77,Lorient,2023 , 2027,4200000,18000,1983
+C. Bassogog,27,Cameroon,"ST, RM, RW",70,70,Shanghai Shenhua,2021 , 2023,1700000,10000,1879
+J. Lucumí,25,Colombia,CB,74,81,Bologna,2022 , 2025,7500000,24000,1668
+Diogo Gonçalves,26,Portugal,"RW, CM",73,74,København,2023 , 2026,3600000,21000,2023
+L. Kelly,24,England,"CB, LB",73,78,AFC Bournemouth,2019 , 2024,4200000,28000,1774
+K. Davis,25,England,ST,71,75,Udinese,2023 , 2027,2600000,12000,1769
+Y. Karamoh,24,France,"CF, LM",73,77,Torino,2022 , 2025,4400000,31000,1795
+F. Aursnes,27,Norway,"CM, LM, RB",79,80,Benfica,2022 , 2027,20000000,17000,2147
+R. Malinovskyi,30,Ukraine,"CF, CAM",78,78,Genoa,"Jun 30, 2024",,14000000,43000,2185
+L. Malagón,26,Mexico,GK,74,79,Mexico,Free,Free,0,0,982
+T. Adams,24,United States,"CDM, CM",78,80,AFC Bournemouth,2023 , 2028,16500000,40000,1940
+A. Vega,25,Mexico,"LW, ST, LM",78,81,Mexico,Free,Free,0,0,1969
+L. Sinisterra,24,Colombia,"LM, RM, CAM",78,82,AFC Bournemouth,"Jun 30, 2024",,20000000,41000,2003
+B. Jatta,25,Gambia,RW,71,73,Hamburger SV,2016 , 2024,2400000,19000,1831
+C. Fassnacht,29,Switzerland,"RM, CM",76,76,Norwich City,2023 , 2025,7500000,36000,1884
+R. Yates,25,England,"CDM, CM",75,80,Nottingham Forest,2016 , 2025,7500000,46000,1855
+R. Marin,27,Romania,"CM, CDM",76,77,Empoli,"Jun 30, 2024",,8500000,25000,2095
+Pol Lirola,25,Spain,"RB, RM, RWB",72,75,Frosinone,"Jun 30, 2024",,2900000,22000,1935
+A. Claude-Maurice,25,France,"CM, LW, LM",75,77,Nice,2019 , 2024,7000000,35000,2091
+Cucho Hernández,24,Colombia,"ST, RM, LM",77,82,Columbus Crew,2022 , 2025,16000000,10000,1994
+R. Alvarado,24,Mexico,"RM, LM",75,78,Mexico,Free,Free,0,0,1991
+K. Dewsbury-Hall,24,England,"CM, CDM",77,80,Leicester City,2016 , 2024,14500000,39000,2053
+M. Demiral,25,Turkey,CB,77,81,Al Ahli Jeddah,2023 , 2026,13000000,31000,1712
+K. Diatta,24,Senegal,RM,75,80,Monaco,2021 , 2025,8500000,36000,1955
+R. Vargas,24,Switzerland,"LM, RM, CF",74,77,FC Augsburg,2019 , 2025,6000000,21000,1943
+E. Dennis,25,Nigeria,"ST, LW",75,79,İstanbul Başakşehir,"Jun 30, 2024",,8000000,56000,1889
+Jeong Woo Yeong,23,Korea Republic,"CAM, CF",72,76,VfB Stuttgart,2023 , 2026,3400000,15000,1763
+D. de Wit,25,Netherlands,"CAM, CM",75,77,AZ Alkmaar,2019 , 2024,7000000,11000,2086
+Jordi Mboula,24,Spain,"RM, RW, CF",72,78,Hellas Verona,2023 , 2027,3700000,16000,1773
+N. Raskin,22,Belgium,"CM, CDM",75,84,Rangers,2023 , 2028,12500000,40000,2050
+C. Biraghi,30,Italy,LB,80,80,Fiorentina,2018 , 2025,18000000,56000,2170
+L. Kurzawa,30,France,LB,73,73,Paris Saint Germain,2015 , 2024,2600000,46000,1975
+Roberto Firmino,31,Brazil,"CF, ST",82,82,Al Ahli Jeddah,2023 , 2026,25500000,55000,2149
+Deulofeu,29,Spain,"CF, ST",80,80,Udinese,2021 , 2026,21000000,26000,2009
+W. Orban,30,Hungary,CB,83,83,RB Leipzig,2015 , 2027,30000000,67000,1720
+M. Sabitzer,29,Austria,"CM, CAM, CDM",80,80,Borussia Dortmund,2023 , 2027,20500000,54000,2205
+Carvajal,31,Spain,RB,82,82,Real Madrid,2013 , 2025,22000000,155000,2097
+P. Gazzaniga,31,Argentina,GK,79,79,Girona,2023 , 2025,9500000,23000,1451
+L. Ocampos,28,Argentina,"RW, LW",80,80,Sevilla,2019 , 2024,21000000,38000,2186
+S. Gnabry,27,Germany,"RM, ST, LM",84,84,FC Bayern München,2017 , 2026,45000000,90000,2059
+S. Kolašinac,30,Bosnia and Herzegovina,"CB, LB",78,78,Atalanta,2023 , 2025,11500000,44000,1982
+J. Veltman,31,Netherlands,"RB, CB",78,78,Brighton & Hove Albion,2020 , 2025,10000000,69000,1864
+Saúl,28,Spain,"CM, LM, LWB",81,81,Atlético Madrid,2013 , 2026,25500000,65000,2159
+Fabinho,29,Brazil,CDM,84,84,Al Ittihad,2023 , 2026,36000000,65000,2119
+A. Romagnoli,28,Italy,CB,83,83,Lazio,2022 , 2027,31500000,68000,1785
+M. Sanson,28,France,"CM, CAM, LM",76,76,Nice,"Jun 30, 2024",,7500000,69000,2098
+Bruma,28,Portugal,"LM, LW, RW",77,77,Sporting Braga,2023 , 2027,10500000,17000,1908
+M. Elneny,30,Egypt,"CDM, CM",75,75,Arsenal,2016 , 2024,4700000,71000,1910
+André Gomes,29,Portugal,"CDM, CM",76,76,Everton,2019 , 2024,6500000,36000,1981
+P. Frankowski,28,Poland,"RWB, RM, LWB",79,79,Lens,2021 , 2028,16000000,39000,2133
+R. Gagliardini,29,Italy,"CDM, CM",74,74,Monza,2023 , 2024,3600000,37000,1911
+R. Loftus-Cheek,27,England,"CM, CDM, RWB",78,79,Milan,2023 , 2027,16000000,59000,2010
+A. Miranchuk,27,Russia,"CF, CAM",77,77,Atalanta,2020 , 2024,11500000,49000,1897
+P. Díaz,28,Chile,CB,75,75,River Plate,2019 , 2024,4800000,17000,1996
+D. Zapata,32,Colombia,ST,81,81,Torino,"Jun 30, 2024",,21000000,65000,1917
+Ayoze Pérez,29,Spain,"LM, RM, CAM",79,79,Real Betis,2023 , 2027,17000000,30000,2057
+A. Sørloth,27,Norway,ST,79,80,Villarreal,2023 , 2028,20500000,40000,1955
+M. Dahoud,27,Germany,"CM, CDM",78,78,Brighton & Hove Albion,2023 , 2027,15000000,76000,2039
+J. Amavi,29,France,LB,71,71,Brest,"Jun 30, 2024",,1600000,21000,1902
+C. Tolisso,28,France,"CDM, CM",77,77,Olympique Lyonnais,2022 , 2027,9500000,34000,2097
+M. Vecino,31,Uruguay,"CM, CDM",77,77,Lazio,2022 , 2025,8500000,45000,2074
+Y. Mina,28,Colombia,CB,77,78,Fiorentina,2023 , 2024,10000000,47000,1667
+Pau López,28,Spain,GK,80,82,Olympique de Marseille,2022 , 2026,18000000,37000,1421
+Wu Lei,31,China PR,"ST, LW",72,72,Shanghai Port,2022 , 2027,2000000,18000,1918
+D. Calvert-Lewin,26,England,ST,77,80,Everton,2016 , 2025,14000000,44000,1889
+R. Karsdorp,28,Netherlands,"RM, RWB",78,78,Roma,2017 , 2025,14000000,62000,2125
+O. Tufan,28,Turkey,"CM, CAM, CDM",73,73,Hull City,2022 , 2025,3000000,16000,2091
+David Soria,30,Spain,GK,80,80,Getafe,2018 , 2026,14000000,26000,1283
+M. Lopez,25,France,"CM, CDM",78,81,Fiorentina,"Jun 30, 2024",,18500000,19000,2077
+K. Toko Ekambi,30,Cameroon,"LM, LW, ST",76,76,Abha,2023 , 2025,7000000,15000,1897
+J. Boga,26,Côte d'Ivoire,"LM, LW, CF",75,76,Nice,2023 , 2027,6500000,36000,1916
+M. Wolf,28,Germany,"RB, RM",78,78,Borussia Dortmund,2018 , 2024,12500000,42000,2097
+K. Laimer,26,Austria,"CDM, CM, RB",83,84,FC Bayern München,2023 , 2027,38000000,75000,2162
+I. Hagi,24,Romania,"CAM, RM",74,79,Deportivo Alavés,"Jun 30, 2024",,6500000,37000,1863
+ Iniesta,37,Spain,"CAM, CM",79,79,Vissel Kobe,2018 , 2024,5500000,10000,1918
+ L. Thuram,35,France,CB,83,87,FC Barcelona,2008,,0,0,1540
+ Xabi Alonso,34,Spain,"CDM, CM",82,82,FC Bayern München,2014 , 2017,6000000,100000,2049
+S. Davis,38,Northern Ireland,CM,72,72,Northern Ireland,Free,Free,0,0,1904
+T. Heaton,37,England,GK,72,72,Manchester United,2021 , 2024,250000,30000,1267
+Falcao,37,Colombia,ST,75,75,Rayo Vallecano,2021 , 2024,1900000,16000,1871
+Joselu,33,Spain,ST,82,82,Real Madrid,"Jun 30, 2024",,19500000,19000,1918
+E. Capoue,34,France,"CM, CDM",81,81,Villarreal,2021 , 2024,12000000,42000,2099
+M. Hummels,34,Germany,CB,83,83,Borussia Dortmund,2019 , 2024,12000000,60000,2015
+S. Kjær,34,Denmark,CB,81,81,Milan,2020 , 2024,8500000,68000,1859
+Willian,34,Brazil,"LM, RM",77,77,Fulham,2022 , 2024,4900000,71000,1968
+M. Arnautović,34,Austria,ST,80,80,Inter,"Jun 30, 2024",,10500000,44000,2090
+F. Borini,32,Italy,"LW, LM, ST",77,77,Sampdoria,2023 , 2025,8500000,6000,1988
+J. Steele,32,England,GK,73,73,Brighton & Hove Albion,2018 , 2026,1500000,40000,1229
+G. Bonaventura,33,Italy,"CAM, CM",79,79,Fiorentina,2020 , 2024,11000000,58000,2159
+Coutinho,31,Brazil,"CAM, LW",79,79,Aston Villa,2022 , 2026,14500000,83000,2009
+Sergio Busquets,34,Spain,CDM,83,83,Inter Miami,2023 , 2025,12500000,14000,1983
+Iago Aspas,35,Spain,ST,85,85,Celta de Vigo,2015 , 2025,23000000,38000,2089
+R. Pereyra,32,Argentina,"CM, RM, CF",78,78,Udinese,2023 , 2024,11000000,20000,2109
+J. Guilavogui,32,France,"CB, CDM",75,75,FSV Mainz 05,2023 , 2024,3600000,23000,1895
+ J. Rodríguez,29,Colombia,"RW, CAM, CM",81,81,Everton,2020 , 2022,25500000,105000,2091
+ N. Schulz,29,Germany,"LB, LM",73,73,Borussia Dortmund,2019 , 2024,2700000,30000,1877
+Juan Jesus,32,Brazil,CB,75,75,Napoli,2021 , 2025,3600000,39000,1675
+ J. Murillo,30,Colombia,CB,69,69,Sampdoria,2020 , 2023,1100000,9000,1732
+L. Spinazzola,30,Italy,"LWB, LM",80,80,Roma,2019 , 2024,18000000,63000,2091
+Y. Medina,18,Ecuador,"LWB, LM, LW",66,80,Independiente del Valle,2022 , 2025,1900000,500,1713
+X. Mbuyamba,21,Netherlands,CB,69,80,FC Volendam,2022 , 2025,2900000,3000,1539
+M. Sonko,18,Sweden,"RW, LW",61,83,Häcken,2022 , 2025,1000000,600,1455
+S. Armstrong,20,Republic of Ireland,"ST, LW",63,80,Queens Park Rangers,2020 , 2024,1300000,3000,1618
+B. Gruda,19,Germany,"CF, RM",65,83,FSV Mainz 05,2022 , 2026,1900000,5000,1688
+M. Monamay,17,Belgium,"CB, CDM",60,83,Bayer 04 Leverkusen,2023 , 2025,725000,500,1504
+N. Zézé,18,France,CB,64,82,Nantes,2022 , 2026,1400000,1000,1374
+E. Cabrera,20,Argentina,"CM, CAM",68,79,Vélez Sarsfield,2022 , 2025,2600000,5000,1816
+Jeffinho,23,Brazil,"LW, LM",73,80,Olympique Lyonnais,2023 , 2027,6000000,25000,1693
+P. Dahbo,17,Sweden,"RW, LW",61,82,Häcken,2022 , 2025,1000000,500,1564
+R. Brajković,17,Croatia,"RW, LW, ST",62,81,Hajduk Split,2022 , 2024,1000000,500,1584
+D. Downs,18,United States,"ST, CF",62,82,FC Köln,2023 , 2026,1100000,2000,1496
+Arthur,20,Brazil,"RWB, RM",69,82,Bayer 04 Leverkusen,2023 , 2028,3200000,13000,1696
+R. Vermant,19,Belgium,"ST, CF",65,82,Club Brugge,2023 , 2026,1900000,4000,1627
+S. Nhaga,17,Portugal,"LB, LWB",65,81,Paris Saint Germain,2023 , 2025,1700000,650,1686
+B. Parkinson,18,England,"RW, ST",57,77,Newcastle United,2023 , 2024,450000,6000,1492
+Víctor Barberá,18,Spain,ST,66,83,Club Brugge,2023 , 2027,2200000,3000,1611
+F. van Breemen,20,Netherlands,CB,61,72,Basel,2023 , 2027,675000,2000,1430
+G. Ranos,19,Armenia,ST,63,80,Borussia Mönchengladbach,2023 , 2027,1300000,4000,1579
+O. Diakité,19,Côte d'Ivoire,ST,67,80,Stade de Reims,2023 , 2028,2400000,5000,1616
+K. Best,17,England,"LWB, LB, CB",62,78,Preston North End,2023 , 2025,950000,500,1674
+F. Jörgensen,21,Denmark,GK,73,80,Villarreal,2020 , 2025,5500000,12000,1088
+M. Braunöder,21,Austria,"CM, CDM",69,78,Austria Wien,2020 , 2025,3100000,6000,1857
+Obrador,19,Spain,LB,65,80,Real Madrid,2021 , 2024,1600000,13000,1518
+E. Agbadou,26,Côte d'Ivoire,CB,75,79,Stade de Reims,2022 , 2027,7000000,20000,1660
+G. Koutsias,19,Greece,"ST, RW, LW",64,81,Chicago Fire,2023 , 2026,1500000,1000,1556
+Nathan,21,Brazil,"RB, RWB, CB",70,81,Famalicão,2023 , 2024,3400000,4000,1718
+T. Arokodare,22,Nigeria,ST,69,80,Genk,2023 , 2027,3200000,8000,1635
+C. Archer,21,England,ST,73,79,Sheffield United,2023 , 2027,4900000,23000,1736
+H. Roberts,21,England,"LB, CB",65,73,Bristol City,2023 , 2026,1500000,6000,1753
+M. Lovato,23,Italy,CB,71,80,Salernitana,2022 , 2027,3900000,15000,1593
+J. Castillo,22,Peru,"CDM, CM",69,78,Gil Vicente,2023 , 2027,3000000,5000,1732
+S. Coulibaly,19,France,CB,68,80,Antwerp,"Jun 30, 2024",,2700000,8000,1627
+N. Atubolu,21,Germany,GK,70,81,SC Freiburg,2021 , 2027,3100000,7000,1081
+A. Zorgane,23,Algeria,"CM, CDM",75,81,Sporting Charleroi,2021 , 2027,9000000,13000,2013
+Vinicius Souza,24,Brazil,"CDM, CM, CB",75,82,Sheffield United,2023 , 2027,10500000,25000,1825
+M. Fall,21,Senegal,"CB, RB",70,80,FC Barcelona,"Jun 30, 2024",,3300000,3000,1620
+B. Knight,21,England,RW,60,74,Manchester City,2018 , 2025,600000,12000,1480
+D. Williams,19,England,"LB, LWB",61,76,Chelsea,2022 , 2025,750000,7000,1504
+Pablo Felipe,19,Brazil,"RM, ST, RW",68,81,Famalicão,2019 , 2027,2900000,2000,1686
+J. McAtee,20,England,"CAM, CM",70,80,Sheffield United,"Jun 30, 2024",,3500000,37000,1721
+Guille Bueno,20,Spain,"LB, LW",64,75,Borussia Dortmund II,2021 , 2026,1200000,900,1621
+J. Norris,20,England,LB,60,77,Tranmere Rovers,2021 , 2024,625000,2000,1480
+E. Sali,17,Romania,"LW, RW",62,79,SSC Farul,2021 , 2025,1000000,550,1474
+M. Akliouche,21,France,CAM,70,81,Monaco,2020 , 2026,3600000,18000,1767
+F. Lemaréchal,19,France,"CM, RM",67,83,Cercle Brugge,"Jun 30, 2024",,2600000,8000,1764
+F. Fagúndez,22,Uruguay,"CAM, ST, CF",70,79,Nacional,2020 , 2024,3600000,500,1778
+Saúl Coco,24,Equatorial Guinea,CB,75,83,Las Palmas,2020 , 2025,11500000,15000,1817
+K. De Winter,21,Belgium,"CB, RB",67,82,Genoa,"Jun 30, 2024",,2400000,17000,1621
+J. Rowe,20,England,"LM, RM",68,76,Norwich City,2021 , 2025,2600000,10000,1743
+G. Álvarez,23,Uruguay,"LB, CB, LWB",74,81,Getafe,2023 , 2028,8000000,18000,1677
+Éderson,23,Brazil,"CM, CAM",77,82,Atalanta,2022 , 2026,16000000,39000,2039
+F. Gatti,25,Italy,CB,76,80,Juventus,2022 , 2027,9500000,68000,1648
+M. Lazetić,19,Serbia,"ST, LM",65,81,Fortuna Sittard,"Jun 30, 2024",,1900000,9000,1669
+Henrique Araújo,21,Portugal,ST,71,84,Famalicão,"Jun 30, 2024",,4600000,7000,1691
+T. O'Reilly,19,Republic of Ireland,"CM, CAM, RM",61,79,Aston Villa,2020 , 2025,850000,6000,1671
+K. Arriaga,25,Honduras,CDM,67,71,Minnesota United,2022 , 2023,1300000,3000,1727
+M. Meerdink,19,Netherlands,ST,65,82,AZ Alkmaar,2020 , 2027,1900000,2000,1591
+A. Ojeda,19,Argentina,"RW, LW",69,81,Racing Club,2022 , 2025,3300000,6000,1712
+D. Boloca,24,Romania,"CM, CDM",73,77,Sassuolo,2023 , 2028,4300000,12000,1832
+D. Coppola,19,Italy,CB,71,80,Hellas Verona,2021 , 2027,3800000,8000,1585
+G. Oristanio,20,Italy,"CF, CAM, ST",70,82,Cagliari,"Jun 30, 2024",,3900000,28000,1847
+M. El Arouch,19,France,CAM,67,82,Olympique Lyonnais,2022 , 2025,2400000,6000,1793
+G. Rukavina,19,Croatia,"LW, LM, RW",65,81,Dinamo Zagreb,2021 , 2028,1800000,500,1530
+G. Fabbian,20,Italy,"CM, CAM",69,82,Bologna,2023 , 2028,3300000,11000,1845
+Adu Ares,21,Spain,"LM, RM",68,79,Athletic Club,2022 , 2024,2700000,7000,1680
+S. Alvero,21,France,CDM,69,80,Olympique Lyonnais,2023 , 2028,3000000,10000,1741
+I. Sulemana,20,Ghana,"CDM, CM",70,81,Cagliari,2023 , 2027,3300000,9000,1921
+D. Martínez,17,Venezuela,"LW, CAM, RW",65,82,Monagas,2022 , 2023,1800000,500,1489
+J. Anthony,23,England,"LM, LW",73,78,Leeds United,"Jun 30, 2024",,4600000,31000,1801
+D. Ballard,23,Northern Ireland,CB,71,80,Sunderland,2022 , 2027,3900000,17000,1552
+A. Gallo,23,Italy,LB,71,79,Lecce,2019 , 2026,4000000,9000,1837
+P. Musa,25,Croatia,ST,75,80,Benfica,2022 , 2027,8500000,14000,1879
+M. Salisu,24,Ghana,CB,76,81,Monaco,2023 , 2028,10000000,34000,1629
+O. Sahraoui,22,Norway,LM,73,83,SC Heerenveen,2023 , 2026,7000000,7000,1774
+L. Agoumé,21,France,"CDM, CM",71,80,Inter,2019 , 2025,4000000,25000,1827
+E. Ólafsson,23,Iceland,GK,66,74,Iceland,Free,Free,0,0,1118
+R. Bellanova,23,Italy,"RWB, RM",73,78,Torino,2023 , 2027,4300000,25000,1708
+Unai Vencedor,22,Spain,"CM, CDM",74,78,SD Eibar,"Jun 30, 2024",,6000000,19000,2028
+Edgar,26,Spain,"CB, CDM",78,81,Almería,2023 , 2028,16500000,26000,1796
+J. Ngakia,22,England,"RB, RWB",70,78,Watford,2020 , 2024,3400000,15000,1618
+S. Esposito,20,Italy,"ST, CAM",69,78,Sampdoria,"Jun 30, 2024",,3100000,24000,1824
+P. Ekwah,21,France,"CDM, CM",67,77,Sunderland,2023 , 2027,2200000,8000,1716
+Z. Aboukhlal,23,Morocco,"RM, LM",75,81,Toulouse,2022 , 2026,9000000,19000,1903
+M. Aké,22,France,"LM, LW",69,76,Udinese,2022 , 2025,2800000,7000,1757
+N. Huggins,22,Wales,"LB, RB",61,70,Sunderland,2021 , 2025,700000,5000,1643
+N. Lang,21,Germany,"CB, RB",65,79,1860 München,2019 , 2026,1700000,1000,1408
+A. Ueda,24,Japan,"ST, CAM",73,78,Feyenoord,2023 , 2028,4700000,13000,1795
+A. Rouault,22,France,CB,74,82,VfB Stuttgart,"Jun 30, 2024",,9000000,16000,1657
+Nico Melamed,22,Spain,"CAM, LM",74,82,Espanyol,2019 , 2024,9500000,9000,1888
+L. Ivanušec,24,Croatia,"LW, CAM",77,82,Feyenoord,2023 , 2028,16000000,17000,2076
+H. Hackney,21,England,"CM, CDM",70,82,Middlesbrough,2019 , 2027,3900000,12000,1896
+B. Ocampo,24,Uruguay,"LM, RM",72,78,Cádiz,2022 , 2026,3700000,18000,1906
+G. Simeone,20,Argentina,ST,72,84,Deportivo Alavés,"Jun 30, 2024",,5500000,26000,1802
+T. Mengi,21,England,CB,67,77,Luton Town,2023 , 2027,2100000,10000,1631
+N. Woltemade,21,Germany,"ST, CAM",67,78,Werder Bremen,2019 , 2024,2300000,7000,1639
+C. Cresswell,20,England,CB,70,81,Leeds United,2019 , 2027,3300000,15000,1509
+B. Białek,21,Poland,ST,68,79,AS Eupen,"Jun 30, 2024",,2700000,13000,1638
+S. Turati,21,Italy,GK,73,82,Frosinone,"Jun 30, 2024",,6000000,7000,1051
+B. Koumetio,20,France,CB,63,75,Dunkerque,"Jun 30, 2024",,1100000,11000,1431
+D. Dike,23,United States,ST,71,80,West Bromwich Albion,2022 , 2026,4200000,21000,1576
+B. Wdowik,22,Poland,"LM, LWB, LB",65,72,Jagiellonia Białystok,2020 , 2025,1500000,2000,1731
+F. Díaz,20,Uruguay,"CM, CDM",72,83,Liverpool,2019 , 2023,5000000,550,1982
+Z. Suzuki,20,Japan,GK,64,73,Sint-Truiden,2020 , 2027,1100000,2000,1067
+T. Tessmann,21,United States,"CDM, CM",69,81,Venezia,2021 , 2025,3200000,2000,1819
+F. Torres,23,Uruguay,"RM, LM, CAM",73,81,Orlando City,2022 , 2025,7000000,7000,1810
+M. Fofana,18,Belgium,"LM, CAM",68,83,Gent,2020 , 2026,2800000,3000,1651
+D. Cirkin,21,England,"LB, CB",68,80,Sunderland,2021 , 2024,2800000,9000,1724
+W. Bondo,19,France,"CM, RM",63,79,Monza,2022 , 2025,1200000,5000,1765
+J. Juranović,27,Croatia,"RWB, LWB",77,77,FC Union Berlin,2023 , 2027,10000000,31000,2094
+J. Sforza,21,Argentina,"CDM, CM",70,84,Newell's Old Boys,2020 , 2024,3700000,6000,1884
+C. Özkacar,22,Turkey,"CB, LB",72,79,Valencia,2023 , 2028,4400000,18000,1674
+E. Matazo,21,Belgium,"CDM, CM",73,80,Monaco,2019 , 2026,6000000,23000,1933
+A. Ramsdale,25,England,GK,84,87,Arsenal,2021 , 2026,43000000,105000,1416
+H. Onyekuru,26,Nigeria,LM,74,75,Al Fayha,2023 , 2025,5000000,23000,1829
+I. Radu,26,Romania,GK,72,74,AFC Bournemouth,"Jun 30, 2024",,2200000,32000,1124
+Carlos Soler,26,Spain,CM,78,79,Paris Saint Germain,2022 , 2027,16500000,71000,2141
+N. Alho,30,Finland,"RB, RWB, RM",67,67,Finland,Free,Free,0,0,1829
+Evander,25,Brazil,"CAM, CM",75,77,Portland Timbers,2023 , 2026,7000000,9000,2053
+J. Mæhle,26,Denmark,"LB, LW, RW",77,79,VfL Wolfsburg,2023 , 2027,12000000,39000,1961
+V. Rosier,26,France,RB,76,77,Beşiktaş,2021 , 2025,8000000,23000,1959
+V. Janelt,25,Germany,"CDM, CM, LB",76,80,Brentford,2020 , 2026,9500000,42000,1990
+E. Sánchez,23,Mexico,"CM, CDM",75,79,Mexico,Free,Free,0,0,2074
+Y. Diouf,23,France,GK,77,83,Stade de Reims,2019 , 2027,13500000,15000,1149
+ Lucas Veríssimo,26,Brazil,CB,76,79,Benfica,2021 , 2026,8500000,12000,1743
+Santi Comesaña,26,Spain,"CDM, CM",77,80,Villarreal,2023 , 2027,12500000,29000,1913
+ E. Atuesta,25,Colombia,"CDM, CM",75,82,Colombia,Free,Free,0,0,1976
+D. Giannoulis,27,Greece,LB,72,72,Norwich City,2021 , 2024,2300000,22000,1804
+H. Darling,23,England,CB,70,77,Swansea City,2022 , 2025,3000000,13000,1725
+Z. Youssouf,23,France,"CM, CDM, RM",74,80,Famalicão,2022 , 2026,6500000,8000,1940
+ M. Rojas,26,Paraguay,"RW, RM, CM",76,76,Racing Club,2019 , 2023,8000000,21000,1995
+C. Luyindama,29,Congo DR,CB,68,68,Galatasaray,2019 , 2024,1000000,14000,1469
+D. Muñoz,27,Colombia,RB,78,79,Genk,2020 , 2024,15000000,18000,2047
+S. Bueno,24,Uruguay,CB,77,82,Wolverhampton Wanderers,2023 , 2028,14500000,47000,1615
+D. Sterling,23,England,"RB, LB",68,73,Rangers,2023 , 2027,1700000,15000,1691
+A. Sigurðsson,24,Iceland,"LM, CAM, CF",73,78,Blackburn Rovers,2018 , 2024,4600000,30000,1821
+Michael,27,Brazil,"RM, LM",77,77,Al Hilal,2022 , 2024,11000000,39000,1806
+Rodrigo Becão,27,Brazil,CB,78,80,Fenerbahçe,2023 , 2028,15000000,33000,1638
+A. Matusiwa,25,Netherlands,"CDM, CM",76,80,Stade de Reims,2021 , 2027,9500000,20000,1844
+P. Struijk,23,Netherlands,"CB, LB",73,78,Leeds United,2018 , 2027,4200000,27000,1743
+P. Köhn,25,Switzerland,GK,74,78,Monaco,2023 , 2028,4600000,27000,1153
+M. Antonucci,24,Italy,"CAM, ST",69,76,Spezia,2023 , 2027,2800000,2000,1827
+R. Kouamé,26,Mali,"CM, CDM",74,76,Cádiz,2023 , 2026,5000000,25000,1935
+M. Aarons,23,England,RB,73,78,AFC Bournemouth,2023 , 2027,4300000,28000,1820
+L. Zidane,25,France,GK,70,76,SD Eibar,2022 , 2024,2000000,5000,1037
+Carles Pérez,25,Spain,"RM, CF",76,79,Celta de Vigo,2023 , 2027,10000000,22000,1897
+Unai Núñez,26,Spain,CB,77,81,Celta de Vigo,"Jun 30, 2024",,13000000,25000,1566
+Dani Raba,27,Spain,"RM, ST",72,72,Leganés,2022 , 2024,2500000,10000,1791
+A. Pereira,23,Norway,"LB, LWB",67,72,Rosenborg,2021 , 2025,1400000,2000,1820
+K. Mavropanos,25,Greece,"CB, RB",78,82,West Ham United,2023 , 2028,17500000,57000,1807
+K. Thorstvedt,24,Norway,"CM, CAM",72,76,Sassuolo,2022 , 2027,3300000,11000,1955
+L. Balerdi,24,Argentina,CB,76,81,Olympique de Marseille,2021 , 2026,10000000,27000,1753
+L. Pellegrini,24,Italy,"LB, LWB, LM",74,78,Lazio,"Jun 30, 2025",,5500000,54000,1871
+J. Ekkelenkamp,23,Netherlands,"CAM, CM",72,77,Antwerp,2022 , 2026,3500000,18000,1962
+B. Williams,22,England,"LB, RB, LWB",72,77,Ipswich Town,"Jun 30, 2024",,3400000,49000,1880
+K. Lewis-Potter,22,England,"LW, LM",72,80,Brentford,2022 , 2028,5500000,33000,1822
+A. Marušić,30,Montenegro,"LB, RB",80,80,Lazio,2017 , 2025,18000000,51000,2101
+R. Henry,25,England,"LB, LWB",78,79,Brentford,2016 , 2026,15500000,48000,1890
+O. Aina,26,Nigeria,"LB, LM, RM",73,74,Nottingham Forest,2023 , 2024,3300000,41000,1941
+C. Chaplin,26,England,"CAM, RW",71,72,Ipswich Town,2021 , 2024,2200000,13000,1881
+R. Oxford,24,England,"CB, CDM",74,79,FC Augsburg,2019 , 2025,6000000,19000,1689
+S. McKenna,26,Scotland,CB,73,76,Nottingham Forest,2020 , 2024,3500000,41000,1528
+Trezeguet,28,Egypt,"LW, LM, RM",75,75,Trabzonspor,2022 , 2026,5500000,48000,1861
+G. Martínez,30,Argentina,"RM, CAM",74,74,River Plate,2023 , 2024,4100000,17000,1868
+C. Roldan,28,United States,"RM, CM, CAM",74,74,Seattle Sounders,2015 , 2027,4200000,9000,2086
+B. Osayi-Samuel,25,Nigeria,"RB, RM",75,77,Fenerbahçe,2021 , 2025,6500000,26000,1993
+L. Martínez Quarta,27,Argentina,CB,77,80,Fiorentina,2020 , 2025,12000000,45000,1968
+M. Vargas,26,Argentina,"RW, LW, LM",72,72,Shanghai Port,2022 , 2024,2600000,18000,1911
+S. Amallah,26,Morocco,"CAM, CM, LM",74,77,Valencia,"Jun 30, 2024",,5500000,11000,2051
+W. Anton,26,Germany,CB,75,78,VfB Stuttgart,2020 , 2025,6500000,21000,1799
+M. Jensen,27,Denmark,CM,76,76,Brentford,2019 , 2026,8000000,49000,2011
+B. Chilwell,26,England,"LB, LWB",80,83,Chelsea,2020 , 2027,25500000,100000,2080
+J. Aidoo,27,Ghana,CB,79,81,Celta de Vigo,2019 , 2026,18500000,26000,1637
+S. Serdar,26,Germany,CM,76,79,Hellas Verona,"Jun 30, 2024",,9500000,16000,2072
+Oswaldinato,31,Brazil,ST,81,81,Flamengo,2023 , 2026,22000000,54000,1886
+Fredditinho,35,Brazil,ST,78,78,Palmeiras,2023 , 2026,6000000,33000,1949
+M. Diakhaby,26,Guinea,"CB, CDM",76,79,Valencia,2018 , 2027,8500000,29000,1675
+R. Perraud,25,France,"LB, LWB",75,78,Nice,"Jun 30, 2024",,7000000,35000,2080
+Javi Galán,28,Spain,"LB, LWB",82,82,Atlético Madrid,2023 , 2026,27500000,65000,2089
+U. Sadiq,26,Nigeria,ST,77,80,Real Sociedad,2022 , 2028,14000000,34000,1790
+D. James,25,Wales,"RM, LM, ST",75,76,Leeds United,2021 , 2026,6500000,38000,1909
+Bernardo,28,Brazil,"CB, LB",71,73,VfL Bochum 1848,2023 , 2025,1900000,15000,1886
+J. Pereyra,24,Argentina,"CM, LM",74,80,Atlético Tucumán,2023 , 2025,6500000,10000,1934
+Aleñá,25,Spain,"CM, LM, RM",74,79,Getafe,2021 , 2026,6000000,22000,1881
+B. Brereton Díaz,24,Chile,"LM, ST",74,79,Villarreal,2023 , 2027,6500000,23000,1937
+D. Turnbull,23,Scotland,"CM, CAM",73,75,Celtic,2020 , 2024,3900000,34000,1927
+T. Hübers,26,Germany,CB,77,79,FC Köln,2021 , 2026,11500000,26000,1763
+K. Volland,30,Germany,"ST, CAM, CF",79,79,FC Union Berlin,2023 , 2026,17000000,44000,2101
+J. Schlupp,30,Ghana,"LM, CDM, CM",76,76,Crystal Palace,2017 , 2024,7000000,37000,2067
+Danilo Pereira,31,Portugal,"CB, CDM",81,81,Paris Saint Germain,2020 , 2025,17500000,81000,1986
+F. Rønnow,30,Denmark,GK,79,79,FC Union Berlin,2021 , 2024,11500000,30000,1150
+J. Tarkowski,30,England,CB,79,79,Everton,2022 , 2026,14500000,43000,1821
+M. Elyounoussi,28,Norway,"LW, RW, CM",73,73,København,2023 , 2027,3100000,21000,1993
+J. Lascelles,29,England,CB,76,76,Newcastle United,2014 , 2024,6500000,78000,1544
+L. Karius,30,Germany,GK,72,72,Newcastle United,2022 , 2024,1600000,43000,1231
+S. Arias,31,Colombia,"RB, RM",75,75,Cincinnati,2023 , 2023,4100000,8000,1964
+Moi Gómez,29,Spain,"CM, LM, RM",79,79,Osasuna,2022 , 2027,17000000,35000,2012
+William Carvalho,31,Portugal,"CDM, CAM",81,81,Real Betis,2018 , 2026,18000000,30000,1994
+M. Ginter,29,Germany,CB,84,84,SC Freiburg,2022 , 2026,35500000,47000,1961
+A. Januzaj,28,Belgium,"RW, LW",77,77,Sevilla,2022 , 2026,10500000,30000,1866
+R. Gauld,27,Scotland,"CF, CAM",76,76,Vancouver Whitecaps,2021 , 2024,8000000,10000,1996
+J. Quintero,30,Colombia,"CAM, RW",77,77,Racing Club,2023 , 2025,10000000,20000,1929
+K. Mbabu,28,Switzerland,"RB, RM",76,76,FC Augsburg,"Jun 30, 2024",,7000000,63000,1945
+E. Marcondes,28,Denmark,"CAM, CM",70,70,AFC Bournemouth,2021 , 2024,1600000,25000,1838
+C. Nørgaard,29,Denmark,CDM,77,77,Brentford,2019 , 2025,9000000,50000,1964
+C. Mbemba,28,Congo DR,CB,79,80,Olympique de Marseille,2022 , 2025,16500000,42000,1919
+M. Dembélé,26,France,ST,76,77,Al Ettifaq,2023 , 2027,9000000,32000,1854
+R. Bazoer,26,Netherlands,"CB, CDM, CM",75,76,AZ Alkmaar,2022 , 2025,6000000,10000,2064
+P. Onuachu,29,Nigeria,ST,74,74,Trabzonspor,"Jun 30, 2024",,4200000,42000,1773
+M. Lemina,29,Gabon,"CDM, CM",78,78,Wolverhampton Wanderers,2023 , 2025,12000000,61000,2096
+R. Christie,28,Scotland,"RM, CAM",74,74,AFC Bournemouth,2021 , 2024,4200000,41000,2042
+J. Gbamin,27,Côte d'Ivoire,"CDM, CM",74,74,Everton,2019 , 2024,4000000,30000,1957
+Á. Correa,28,Argentina,"ST, RM",82,82,Atlético Madrid,2014 , 2026,31000000,77000,2169
+L. López,33,Argentina,CB,74,74,Al Khaleej,2023 , 2024,2000000,12000,1729
+Kenedy,27,Brazil,"LM, RM, ST",75,75,Real Valladolid,2022 , 2027,6000000,12000,1993
+Y. Sabaly,30,Senegal,"RB, RM",77,77,Real Betis,2021 , 2026,9000000,22000,1914
+K. Baldé,28,Senegal,"ST, LM",74,74,Espanyol,2022 , 2025,4300000,12000,1893
+A. Jahanbakhsh,29,Iran,RW,73,73,Feyenoord,2021 , 2024,3000000,15000,1972
+L. Shankland,27,Scotland,"ST, CF, CAM",74,74,Hearts,2022 , 2025,4600000,10000,1831
+J. Cooper,28,England,CB,74,75,Millwall,2017 , 2024,4000000,24000,1572
+A. Blake,32,Jamaica,GK,78,78,Philadelphia Union,2014 , 2024,7000000,8000,1236
+Cafú,30,Portugal,"CDM, CAM",67,67,Rotherham United,2023 , 2024,850000,6000,1876
+Diego Carlos,30,Brazil,CB,81,81,Aston Villa,2022 , 2026,21000000,86000,1880
+N. Figal,29,Argentina,"CB, RB",76,76,Boca Juniors,2022 , 2024,6500000,18000,1821
+L. Waldschmidt,27,Germany,"CF, ST",74,75,FC Köln,"Jun 30, 2024",,4900000,38000,1849
+ M. Diagne,30,Senegal,ST,75,75,Fatih Karagümrük,2022 , 2023,5500000,26000,1698
+D. Brooks,25,Wales,"RM, RW",75,76,AFC Bournemouth,2018 , 2026,6500000,40000,1904
+Aarón,27,Spain,GK,74,77,Las Palmas,2023 , 2025,4100000,13000,1234
+J. Brownhill,27,England,"CM, CAM, CDM",75,76,Burnley,2020 , 2024,6500000,42000,2067
+M. Oršić,30,Croatia,"LM, RM, CM",75,75,Trabzonspor,2023 , 2025,5500000,43000,2054
+J. Riedewald,26,Netherlands,"CDM, CM",73,74,Crystal Palace,2017 , 2024,3200000,28000,1897
+A. Armstrong,26,England,"ST, LW, CM",72,74,Southampton,2021 , 2025,2900000,32000,1877
+H. Lewis,25,England,GK,65,71,Bradford City,2022 , 2024,875000,4000,1259
+Malcom,26,Brazil,"RM, CAM",81,82,Al Hilal,2023 , 2027,30500000,52000,2002
+Z. Kalmár,28,Hungary,"CAM, LM",74,74,Hungary,Free,Free,0,0,1896
+V. Rongier,28,France,"CDM, CM",80,80,Olympique de Marseille,2019 , 2026,18500000,45000,2105
+Pepe Reina,40,Spain,GK,76,76,Villarreal,2022 , 2024,825000,13000,1296
+ Fernando Torres,34,Spain,ST,77,77,Sagan Tosu,2018 , 2019,4700000,8000,1852
+Nani,36,Portugal,"LW, RW, LM",73,73,Adana Demirspor,2023 , 2024,1000000,11000,1916
+ A. Turan,34,Turkey,"LM, RM, CM",69,69,Galatasaray,2020 , 2022,650000,23000,1902
+Santi Cazorla,38,Spain,"CM, CAM, LM",77,77,Real Oviedo,2023 , 2024,3300000,9000,2063
+ S. Agüero,33,Argentina,ST,87,87,FC Barcelona,2021 , 2023,51000000,260000,2066
+S. Carson,37,England,GK,65,65,Manchester City,2021 , 2024,80000,11000,1088
+G. İnler,39,Switzerland,"CDM, CM",70,70,Beşiktaş,2023 , 2024,325000,8000,1877
+ G. Higuaín,34,Argentina,ST,75,75,Inter Miami,2020 , 2022,2700000,10000,1765
+J. Vertonghen,36,Belgium,CB,79,79,Anderlecht,2022 , 2024,3100000,20000,1991
+A. Ayew,33,Ghana,"ST, RW, LW",73,73,Ghana,Free,Free,0,0,1984
+ Marcelo,33,Brazil,LB,79,79,Real Madrid,2007 , 2022,9000000,125000,2134
+M. Fellaini,35,Belgium,"ST, CAM, CDM",73,73,Shandong Taishan,2019 , 2025,1300000,15000,1962
+ Bojan,30,Spain,"CF, ST, CAM",67,67,Vissel Kobe,2021 , 2023,1000000,4000,1673
+J. Hernández,35,Mexico,ST,77,77,LA Galaxy,2020 , 2023,4500000,8000,1859
+ Diego Costa,33,Spain,ST,75,75,Wolverhampton Wanderers,2022 , 2023,3600000,69000,1863
+Yuri Berchiche,33,Spain,LB,79,79,Athletic Club,2018 , 2024,9000000,29000,2146
+J. Henderson,33,England,"CM, CDM",80,80,Al Ettifaq,2023 , 2026,13000000,39000,2141
+L. Bonucci,36,Italy,CB,80,80,FC Union Berlin,2023 , 2024,3800000,28000,1899
+José Callejón,36,Spain,"LM, ST, RM",75,75,Granada,2022 , 2024,1800000,14000,1951
+ Luiz Gustavo,34,Brazil,"CDM, CM",76,76,Al Nassr,2022 , 2023,2600000,33000,1963
+A. Ramsey,32,Wales,"CM, CAM",74,74,Cardiff City,2023 , 2025,3300000,17000,1947
+A. Budimir,31,Croatia,ST,77,77,Osasuna,2021 , 2027,9000000,31000,1730
+J. Shelvey,31,England,"CM, CDM",75,75,Rizespor,"Jun 30, 2024",,4600000,53000,1939
+S. Zuber,31,Switzerland,"ST, LM",76,76,AEK Athens,2022 , 2025,6500000,1000,2092
+De Marcos,34,Spain,RB,80,80,Athletic Club,2009 , 2024,7500000,31000,2082
+Canales,32,Spain,"RM, CAM, LM",83,83,Spain,Free,Free,0,0,2240
+M. Antonio,33,Jamaica,ST,78,78,West Ham United,2015 , 2024,9000000,71000,2070
+D. Blind,33,Netherlands,"CB, LB, CDM",78,78,Girona,2023 , 2025,6500000,26000,2036
+C. Wood,31,New Zealand,ST,75,75,Nottingham Forest,2023 , 2025,4800000,58000,1841
+M. Götze,31,Germany,"CAM, CF, LM",82,82,Eintracht Frankfurt,2022 , 2025,25000000,53000,2090
+M. Rojas,31,New Zealand,"LW, LM, RW",69,69,New Zealand,Free,Free,0,0,1746
+ A. Mooy,31,Australia,"CM, CDM",75,75,Australia,Free,Free,0,0,2043
+J. Tavernier,31,England,RB,78,78,Rangers,2015 , 2027,10000000,51000,2206
+P. Pogba,30,France,"CM, CDM",82,82,Juventus,2022 , 2026,29000000,120000,2147
+M. Ducksch,29,Germany,ST,77,77,Werder Bremen,2021 , 2026,10500000,30000,1932
+J. Matip,31,Cameroon,CB,80,80,Liverpool,2016 , 2024,14500000,100000,1863
+D. Alaba,31,Austria,"CB, LB",85,85,Real Madrid,2021 , 2026,37000000,200000,2277
+Jonathan Viera,33,Spain,"CAM, CM, LM",80,80,Las Palmas,2021 , 2026,13000000,27000,2138
+A. Najar,30,Honduras,"RM, RB, CB",69,69,DC United,2021 , 2023,1300000,4000,1947
+R. Barkley,29,England,"CAM, CM",74,74,Luton Town,2023 , 2024,4100000,41000,1955
+M. Gregoritsch,29,Austria,ST,79,79,SC Freiburg,2022 , 2027,17500000,38000,1926
+Sergi Roberto,31,Spain,"RB, CM",80,80,FC Barcelona,2013 , 2024,15500000,125000,2086
+D. Praet,29,Belgium,"CM, CAM",75,75,Leicester City,2019 , 2024,5500000,41000,1977
+D. Peretz,22,Israel,GK,72,81,FC Bayern München,2023 , 2028,4600000,21000,1063
+Nico Paz,18,Spain,"CM, CAM",63,80,Real Madrid,2023 , 2027,1200000,8000,1642
+S. Sazonov,21,Georgia,CB,75,83,Torino,2023 , 2027,12000000,25000,1736
+I. Mohammad,33,Qatar,"RB, RM",68,68,Qatar,Free,Free,0,0,1826
+B. Al Rawi,25,Qatar,"CB, RB",67,71,Qatar,Free,Free,0,0,1828
+M. Barsham,25,Qatar,GK,67,73,Qatar,Free,Free,0,0,1013
+D. Jean-Jacques,23,Haiti,"CDM, CM",70,81,Metz,2022 , 2027,3300000,9000,1818
+Tiago Gouveia,22,Portugal,"RM, LM",74,84,Benfica,2020 , 2028,9500000,11000,1737
+O. Moxon,25,England,CM,67,71,Carlisle United,2022 , 2024,1400000,3000,1867
+L. Zeefuik,18,Netherlands,"ST, CAM",62,78,FC Volendam,2021 , 2024,1000000,750,1527
+Samuel Soares,21,Portugal,GK,67,81,Benfica,2021 , 2027,2200000,2000,1260
+F. Israel,23,Uruguay,GK,72,80,Sporting CP,2022 , 2027,4500000,6000,1040
+W. Odobert,18,France,"LW, LM, RM",68,81,Burnley,2023 , 2028,2800000,8000,1534
+Duk,23,Cape Verde Islands,"ST, LM, LW",72,79,Aberdeen,2022 , 2025,4700000,7000,1807
+J. Lewicki,17,Poland,"LM, LB",58,72,Jagiellonia Białystok,2022 , 2025,475000,500,1538
+Diego Callai,18,Brazil,GK,65,81,Sporting CP,2022 , 2027,1600000,500,877
+J. Corfitzen,18,Denmark,RW,60,81,Lecce,2023 , 2025,775000,1000,1491
+Luis Bilbao,20,Spain,"LM, RM",63,74,Athletic Club,2022 , 2024,1100000,4000,1634
+M. Usor,21,Nigeria,RM,70,76,LASK Linz,"Dec 31, 2023",,2600000,550,1807
+L. Ullrich,19,Germany,LB,62,82,Borussia Mönchengladbach,2023 , 2027,1100000,2000,1565
+M. Olakigbe,19,England,"LW, RW",62,81,Brentford,2022 , 2026,1000000,6000,1557
+T. Lo-Tutala,20,France,GK,63,80,Hull City,2022 , 2025,1100000,2000,912
+L. D'Andrea,18,Italy,"RM, RW",68,83,Catanzaro,"Jun 30, 2024",,2800000,2000,1701
+K. Keben,19,Cameroon,"RB, CB",68,81,Toulouse,2022 , 2025,2700000,5000,1545
+M. Tarek,22,Qatar,CM,60,71,Qatar,Free,Free,0,0,1625
+T. Cannon,20,Republic of Ireland,ST,69,80,Leicester City,2023 , 2028,3100000,16000,1691
+B. Humphreys,20,England,CB,65,80,Swansea City,"Jun 30, 2024",,1600000,13000,1556
+C. Mawissa Elebi,18,France,"CB, LB, RB",64,82,Toulouse,2022 , 2026,1400000,1000,1445
+R. Květ,25,Czech Republic,"CAM, CDM",71,75,Sivasspor,"Jun 30, 2024",,2600000,700,1937
+J. Low,21,Wales,CB,62,69,Wycombe Wanderers,2023 , 2025,750000,1000,1321
+J. Domina,17,Argentina,ST,66,80,Unión Santa Fe,2023 , 2025,2000000,900,1706
+R. Esse,18,England,"CAM, RM",60,82,Millwall,2022 , 2026,775000,2000,1599
+G. Gineitis,19,Lithuania,"CM, CDM",61,80,Torino,2022 , 2026,850000,4000,1667
+O. Perea,17,Colombia,LW,65,83,Atlético Nacional,2023 , 2025,1800000,500,1489
+E. González,18,Paraguay,"RM, RW",62,82,Wolverhampton Wanderers,2023 , 2029,1100000,4000,1484
+Mario Martín,19,Spain,CM,62,81,Real Madrid,2021 , 2026,1000000,11000,1616
+M. Ouro-Tagba,18,United States,"ST, LM",60,78,1860 München,2023 , 2024,625000,500,1515
+J. Zivkovic,17,Austria,"ST, RM",59,81,Rapid Wien,2023 , 2026,700000,750,1515
+R. van Bommel,18,Netherlands,LW,66,83,AZ Alkmaar,2023 , 2027,2200000,1000,1563
+D. Dilmen,18,Turkey,GK,64,79,İstanbul Başakşehir,2021 , 2024,1200000,500,912
+C. Echeverri,17,Argentina,LM,65,83,River Plate,2023 , 2025,1800000,600,1599
+F. Marshall,17,Scotland,"CAM, CM, RM",57,82,Aberdeen,2023 , 2026,525000,500,1496
+S. Desplanches,20,Italy,GK,68,83,Palermo,2023 , 2028,2500000,1000,1097
+O. Bobb,19,Norway,RW,66,82,Manchester City,2019 , 2026,2200000,17000,1605
+L. Sauer,17,Slovakia,"LW, CAM",64,82,Feyenoord,2023 , 2026,1500000,800,1622
+S. Amo-Ameyaw,16,England,"LW, RW",60,80,Southampton,2023 , 2026,675000,1000,1493
+E. Soglo,17,England,"LB, CM",64,78,Olympique de Marseille,2022 , 2027,1300000,500,1699
+M. Winkler,20,Germany,"LM, RM, ST",68,81,Hertha BSC,2021 , 2027,2900000,5000,1643
+D. Jebbison,19,England,ST,66,79,Sheffield United,2021 , 2024,2000000,7000,1656
+André Franco,25,Portugal,"CAM, CM, RM",73,78,Porto,2022 , 2027,4500000,11000,1832
+Turrientes,21,Spain,"CM, CDM",68,80,Real Sociedad,2022 , 2027,3000000,9000,1785
+K. Corredor,22,France,"ST, RM, RW",65,74,Rodez,2022 , 2025,1600000,2000,1630
+N. Weißhaupt,21,Germany,"LM, CF",69,77,SC Freiburg,2021 , 2027,3100000,9000,1646
+C. Rushworth,21,England,GK,68,79,Swansea City,"Jun 30, 2024",,2300000,13000,1179
+L. Coulibaly,20,Ghana,"RM, ST",67,82,Randers,"Jun 30, 2024",,2500000,4000,1654
+Paulo Bernardo,21,Portugal,CM,67,79,Celtic,"Jun 30, 2024",,2500000,3000,1800
+ G. Amanda,23,Canada,"ST, LM",60,65,Austria Klagenfurt,2021 , 2023,375000,2000,1448
+A. Kamara,18,Guinea,"CM, CDM",62,79,Borussia Dortmund,2021 , 2024,1000000,2000,1672
+F. Ebosele,20,Republic of Ireland,"RWB, RM, RB",70,78,Udinese,2022 , 2027,3300000,6000,1797
+Brenno,24,Brazil,GK,70,77,Bari 1908,2020 , 2024,2700000,2000,1156
+T. Goodrham,19,Republic of Ireland,"RW, RM",63,76,Oxford United,2021 , 2024,1100000,2000,1593
+J. Mvuka,20,Norway,"RM, LM",69,79,Lorient,2023 , 2027,3100000,8000,1697
+Gonçalo Esteves,19,Portugal,"RWB, RB",69,81,Sporting CP,2021 , 2024,3200000,3000,1723
+A. Moran,19,Republic of Ireland,"CAM, LM",63,79,Blackburn Rovers,"Jun 30, 2024",,1200000,8000,1703
+Diego Moreno,22,Spain,"RB, RWB, CB",67,78,Mirandés,"Jun 30, 2024",,2200000,7000,1614
+T. Fukui,18,Japan,"CM, CAM",59,74,FC Bayern München,2023 , 2025,525000,3000,1517
+G. Lagerbielke,23,Sweden,CB,67,78,Celtic,2023 , 2028,2100000,13000,1498
+J. Castrop,19,Germany,"CAM, RB",67,78,Nürnberg,2023 , 2027,2200000,3000,1784
+I. Koné,21,Canada,CM,67,79,Watford,2023 , 2025,2500000,9000,1755
+B. Kanuric,20,Austria,"CM, CDM",62,77,Ingolstadt,2023 , 2026,950000,1000,1687
+M. Løvik,19,Norway,LWB,63,78,Molde,2021 , 2026,1100000,750,1552
+Daniel Penha,24,Brazil,"CAM, CM, LM",70,75,Western United,2023 , 2024,2400000,2000,1755
+ A. Bencze,20,Hungary,GK,62,79,Vitória SC,2020 , 2025,925000,950,854
+H. Leonard,19,England,ST,64,76,Blackburn Rovers,2021 , 2025,1400000,6000,1559
+Pedro Benito,23,Spain,"ST, RM, LM",62,71,Albacete,2023 , 2025,900000,2000,1570
+J. James,18,Wales,"CM, RM",63,75,Birmingham City,2020 , 2025,1100000,1000,1678
+M. Dackers,20,Wales,ST,56,62,Salford City,2021 , 2024,220000,3000,1353
+F. Missori,19,Italy,RB,62,80,Sassuolo,2023 , 2025,1000000,1000,1492
+Jutglà,24,Spain,ST,75,80,Club Brugge,2022 , 2027,8500000,21000,1885
+Tomás Araújo,21,Portugal,CB,70,83,Benfica,2019 , 2028,3700000,5000,1515
+J. Fazzini,20,Italy,"CM, CAM",67,83,Empoli,2020 , 2027,2700000,3000,1831
+Ó. Cortés,19,Colombia,"RW, LW",68,80,Lens,2023 , 2028,2900000,9000,1760
+T. Adaramola,19,Republic of Ireland,LB,58,72,Crystal Palace,2020 , 2024,475000,3000,1550
+N. Valentini,22,Argentina,CB,72,80,Boca Juniors,2019 , 2024,4900000,11000,1662
+R. Sanchez,19,Uruguay,"RW, LW, CF",65,78,Nacional,2022 , 2026,1700000,500,1622
+P. Quispe,21,Peru,"CAM, CM",71,76,Universitario,2021 , 2025,2900000,650,1852
+G. Vidović,19,Croatia,"LW, CAM",67,83,Dinamo Zagreb,2022 , 2025,2600000,500,1569
+I. Maestro Puch,19,Argentina,ST,66,80,Atlético Tucumán,2022 , 2025,2000000,2000,1586
+D. Pizarro,18,Chile,ST,65,79,Colo-Colo,2022 , 2025,1700000,1000,1555
+D. Gore,18,England,"CM, CAM",61,81,Manchester United,2021 , 2024,900000,5000,1648
+J. Feeney,18,England,CB,57,80,Aston Villa,2021 , 2028,500000,3000,1316
+F. Baschirotto,26,Italy,"CB, RB",75,77,Lecce,2022 , 2025,6000000,15000,1861
+G. Hernández,25,Argentina,CB,75,80,San Lorenzo,2022 , 2024,7500000,13000,1663
+J. Bennette,19,Costa Rica,LM,66,78,Sunderland,2022 , 2026,2000000,6000,1543
+A. Molinas,22,Argentina,"CAM, CM",73,81,Tigre,"Dec 31, 2023",,7000000,14000,1814
+K. de la Fuente,21,United States,LM,70,74,SD Eibar,"Jun 30, 2024",,2300000,14000,1646
+K. Bowie,20,Scotland,"ST, RM",61,72,Northampton Town,"Jun 30, 2024",,725000,9000,1591
+S. Diomandé,22,Côte d'Ivoire,CB,73,77,Olympique Lyonnais,2019 , 2025,4000000,21000,1765
+B. Thomas,22,England,CB,68,76,Coventry City,2023 , 2027,2500000,13000,1530
+T. Pembélé,20,France,"RB, RWB",70,79,Sunderland,2023 , 2028,3300000,12000,1798
+Y. Ayari,19,Sweden,"CM, CAM",63,80,Coventry City,"Jun 30, 2024",,1200000,8000,1668
+Jaume Cuéllar,21,Bolivia,"RM, LM",65,77,FC Barcelona,2021 , 2024,1800000,19000,1654
+J. Adamu,22,Austria,ST,70,79,SC Freiburg,2023 , 2027,3600000,14000,1700
+M. Johnston,19,Scotland,"RWB, RB",66,80,Sturm Graz,2023 , 2027,1900000,2000,1649
+M. Manhoef,21,Netherlands,"RM, LM",71,81,Vitesse,2020 , 2025,4200000,7000,1939
+J. Aude,20,Argentina,"LB, CDM",67,81,LA Galaxy,2023 , 2027,2300000,2000,1724
+J. Oosterwolde,22,Netherlands,"LB, CB, LM",70,80,Fenerbahçe,2023 , 2027,3400000,13000,1797
+O. Lingr,24,Czech Republic,"CAM, LW, RW",75,80,Feyenoord,"Jun 30, 2024",,8500000,1000,2065
+B. Arrey-Mbi,20,Germany,CB,66,79,Hannover 96,2023 , 2025,1900000,5000,1547
+E. Dinkçi,21,Germany,RM,67,77,Heidenheim,"Jun 30, 2024",,2300000,6000,1674
+I. Grbić,27,Croatia,GK,75,79,Atlético Madrid,2020 , 2024,6000000,31000,1112
+C. Matsima,21,France,CB,70,80,Monaco,2019 , 2026,3300000,16000,1528
+Zarraga,24,Spain,"CM, RM",73,78,Udinese,2023 , 2027,4600000,12000,1931
+T. Siersleben,23,Germany,CB,71,75,Heidenheim,2023 , 2026,2400000,15000,1559
+O. Nwobodo,26,Nigeria,"CDM, CM",72,75,Cincinnati,2022 , 2024,2800000,6000,1962
+F. Dele-Bashiru,22,Nigeria,"CAM, CM",68,75,Hatayspor,2023 , 2025,2500000,6000,1841
+M. Monsalve,19,Colombia,"CAM, LM",69,82,Independiente Medellín,2020 , 2026,3300000,1000,1572
+David Costa,22,Portugal,LW,74,80,Lens,2020 , 2024,7000000,28000,1713
+Rodrigo Gomes,19,Portugal,"LW, LM, RM",68,81,Estoril,"Jun 30, 2024",,2900000,4000,1749
+M. Al Tamari,26,Jordan,"RM, RWB",74,75,Montpellier,2023 , 2026,5000000,21000,1832
+M. John,21,Germany,"LWB, LM",71,82,TSG Hoffenheim,2020 , 2025,4000000,13000,1794
+R. Duncan,19,Scotland,"CAM, CM, RW",61,81,Aberdeen,2020 , 2024,925000,900,1600
+D. Svensson,21,Sweden,"CM, LB, LWB",66,78,Nordsjælland,2020 , 2025,2100000,3000,1794
+I. Matanović,20,Germany,ST,65,79,Karlsruher SC,"Jun 30, 2024",,1700000,7000,1572
+M. Hoppe,22,United States,"ST, LW",67,75,San Jose Earthquakes,"Dec 31, 2023",,2300000,9000,1616
+C. Araújo,22,Uruguay,"CDM, CM",69,79,Orlando City,2022 , 2024,3000000,3000,1679
+T. Civeja,21,Albania,CM,63,76,Saarbrücken,2023 , 2026,1200000,1000,1681
+Jesús Vázquez,20,Spain,"LB, LWB, LM",70,79,Valencia,2020 , 2025,3300000,11000,1800
+O. Hutchinson,19,Jamaica,"CAM, RM, RW",64,80,Ipswich Town,2022 , 2025,1500000,3000,1631
+D. Nene,20,Mali,"ST, LM, CAM",67,77,Salzburg,2021 , 2025,2300000,6000,1763
+M. Rogers,20,England,"LM, ST, LW",67,80,Middlesbrough,2023 , 2027,2500000,7000,1692
+P. Aaronson,19,United States,CAM,67,79,Eintracht Frankfurt,2023 , 2027,2400000,7000,1639
+Urko González,22,Spain,"CB, CDM",66,77,Real Sociedad,2020 , 2028,1800000,7000,1579
+A. Forson,20,Ghana,"RM, LB, CM",67,78,Salzburg,2021 , 2027,2200000,5000,1763
+A. Costa,23,Argentina,"LB, LWB, CB",72,76,Independiente,2020 , 2025,3100000,9000,1791
+I. Miramón,20,Argentina,"CDM, CM",70,80,LOSC Lille,2023 , 2028,3300000,11000,1852
+T. Conway,20,Scotland,ST,66,80,Bristol City,2021 , 2025,2100000,8000,1517
+K. Kesler-Hayden,20,England,"RWB, RB, LB",65,79,Plymouth Argyle,"Jun 30, 2024",,1600000,11000,1656
+K. Mier,23,Colombia,GK,74,82,Atlético Nacional,2019 , 2025,8000000,4000,1085
+T. Arconte,19,France,"ST, RM",65,79,Rodez,"Jun 30, 2024",,1700000,3000,1633
+P. Yazbek,21,Australia,"CDM, CM",65,77,Viking,2023 , 2026,1700000,950,1742
+M. Sankoh,19,Netherlands,ST,64,79,Heracles Almelo,"Jun 30, 2024",,1400000,4000,1523
+W. Mikelbrencis,19,France,RB,64,78,Hamburger SV,2022 , 2026,1300000,3000,1619
+M. Lotka,22,Poland,GK,68,78,Borussia Dortmund,2022 , 2024,2300000,9000,919
+M. Karbownik,22,Poland,LB,73,81,Hertha BSC,2023 , 2026,6500000,10000,1838
+T. Ballo,21,Austria,"CAM, RM, CM",66,75,Wolfsberger AC,2022 , 2024,1900000,3000,1735
+D. Simeu,21,England,CB,63,73,Southampton,2021 , 2024,1000000,6000,1463
+E. Mosquera,22,Colombia,LM,67,76,Atlanta United,2022 , 2026,2300000,3000,1565
+C. Grameni,20,Romania,CM,68,80,SSC Farul,2021 , 2027,2900000,4000,1893
+D. Bakwa,20,France,"RW, LM, RM",69,81,Strasbourg,2023 , 2027,3400000,9000,1686
+L. Greiml,21,Austria,CB,67,78,Schalke 04,2022 , 2025,2100000,3000,1493
+C. Boyce-Clarke,20,Jamaica,GK,61,73,Reading,2020 , 2025,700000,650,897
+José Gragera,23,Spain,"CDM, CM, CB",72,80,Espanyol,2023 , 2028,4900000,7000,1815
+Iago,26,Brazil,"LB, LM",75,78,FC Augsburg,2019 , 2024,7000000,23000,1944
+F. Jäkel,22,Germany,CB,68,75,Elversberg,"Jun 30, 2024",,2300000,14000,1470
+F. Azaz,22,Republic of Ireland,"RM, LM, CAM",69,77,Plymouth Argyle,"Jun 30, 2024",,3100000,27000,1865
+Eduardo Quaresma,21,Portugal,CB,69,79,Sporting CP,2019 , 2025,2900000,4000,1497
+R. Ruiz Rodríguez,23,Argentina,"ST, LM",70,79,Atlético Tucumán,2019 , 2024,3600000,7000,1808
+H. Ekdal,24,Sweden,CB,73,79,Burnley,2023 , 2027,4400000,28000,1624
+J. Knight,22,Republic of Ireland,"CM, CAM, RB",70,75,Bristol City,2023 , 2027,2400000,16000,1910
+R. Zerrouki,25,Algeria,"CM, CDM",76,79,Feyenoord,2023 , 2027,10000000,16000,2022
+J. Leweling,22,Germany,"ST, RW",72,81,VfB Stuttgart,"Jun 30, 2024",,5500000,22000,1794
+ S. Alexandropoulos,20,Greece,"CDM, CM",71,80,Sporting CP,2022 , 2027,3900000,6000,1843
+Fer Niño,22,Spain,ST,71,78,Burgos,2023 , 2026,3800000,6000,1743
+M. Whittaker,22,England,"RM, RW",67,76,Plymouth Argyle,2023 , 2026,2300000,6000,1699
+C. Ramsay,19,Scotland,"RWB, RB",65,79,Preston North End,"Jun 30, 2024",,1600000,10000,1695
+N. Mbuku,21,France,"CF, RM, CAM",71,80,FC Augsburg,2023 , 2027,4200000,14000,1793
+H. Boudaoui,23,Algeria,"CM, RM, CDM",76,79,Nice,2019 , 2027,10000000,33000,2057
+G. Kyriakopoulos,27,Greece,"LWB, LM, LB",73,74,Monza,"Jun 30, 2024",,3200000,13000,1805
+S. Greenwood,21,England,"CAM, CM",69,80,Middlesbrough,"Jun 30, 2024",,3100000,14000,1887
+A. Kalimuendo,21,France,ST,76,81,Rennes,2022 , 2027,11500000,34000,1838
+D. Yongwa,22,Cameroon,"LB, LWB",70,79,Lorient,2022 , 2026,3400000,10000,1755
+C. Campbell,20,Wales,LM,64,79,Charlton Athletic,"Jun 30, 2024",,1400000,10000,1677
+L. Shaw,22,England,"CM, CDM",66,76,Wigan Athletic,"Jun 30, 2024",,1900000,12000,1785
+Y. Suzuki,21,Japan,"ST, CAM, LM",61,70,Brøndby,2023 , 2027,750000,2000,1662
+D. Maldonado,25,Honduras,"CB, RB",69,76,Los Angeles FC,2022 , 2024,2500000,4000,1479
+E. Martínez,23,Uruguay,CDM,73,80,Midtjylland,2022 , 2027,5500000,17000,1848
+K. Saito,21,Japan,LM,71,82,Sparta Rotterdam,2021 , 2025,4200000,6000,1747
+D. Zima,22,Czech Republic,CB,73,80,Torino,2021 , 2025,5500000,25000,1713
+Pacheco,22,Spain,CB,71,83,Real Sociedad,2021 , 2027,4300000,15000,1476
+G. Thomason,22,England,"CM, CDM",64,73,Bolton Wanderers,2020 , 2027,1300000,3000,1680
+Y. Keitel,23,Germany,"CDM, CM",71,76,SC Freiburg,2020 , 2024,2600000,13000,1792
+E. Longelo,22,England,"LB, LWB",65,74,Birmingham City,2023 , 2026,1500000,4000,1747
+A. Kuol,21,Australia,ST,61,70,Central Coast Mariners,2023 , 2026,750000,650,1529
+Y. Mosquera,22,Colombia,CB,68,77,Cincinnati,"Dec 31, 2023",,2500000,17000,1478
+J. Bijol,24,Slovenia,CB,75,82,Udinese,2022 , 2027,10500000,13000,1872
+V. Mykolenko,24,Ukraine,"LB, LWB",75,79,Everton,2022 , 2026,7500000,28000,1760
+S. van Hooijdonk,23,Netherlands,ST,72,79,Bologna,2021 , 2025,4700000,21000,1756
+Y. Takaoka,27,Japan,GK,73,74,Vancouver Whitecaps,2023 , 2024,2600000,6000,1024
+ K. Velasco,25,Colombia,LM,75,78,Deportivo Cali,2018 , 2022,7500000,5000,1947
+Jiang Shenglong,22,China PR,"CB, CDM",67,79,Shanghai Shenhua,2018 , 2023,2400000,5000,1669
+A. Moreno,24,Argentina,"CDM, CM",76,79,Racing Club,2021 , 2025,9500000,15000,2021
+J. Atanasov,23,North Macedonia,"CM, CDM",70,77,Cracovia Kraków,2023 , 2026,3200000,6000,1903
+P. Beruatto,24,Italy,LB,74,80,Pisa,2022 , 2026,6000000,5000,1745
+A. Traoré,28,Mali,"RW, CAM",75,75,Ferencváros,2022 , 2025,5500000,1000,1714
+A. Mocsi,23,Hungary,CB,63,74,Rizespor,2023 , 2027,1000000,2000,1339
+T. Parrott,21,Republic of Ireland,"ST, RM",67,80,Excelsior,"Jun 30, 2024",,2500000,18000,1800
+M. Tilio,21,Australia,"RW, LW",67,77,Celtic,2023 , 2028,2300000,14000,1764
+S. Sosa,24,Argentina,"CDM, CM",71,78,Atlanta United,2021 , 2024,3500000,5000,1778
+M. Palacios,21,Argentina,"CAM, CM",67,76,Al Ain,2022 , 2026,2300000,500,1739
+ Fidalgo,24,Spain,"CAM, CDM, CM",73,78,América,2021 , 2025,4600000,30000,1925
+J. Zwarts,24,Netherlands,ST,66,71,1860 München,2023 , 2025,1300000,2000,1591
+Javi Mier,24,Spain,"CM, ST, CAM",66,73,Huesca,2023 , 2024,1700000,3000,1920
+A. Okonkwo,21,England,GK,66,75,Wrexham,"Jun 30, 2024",,1700000,11000,1009
+K. Hoever,21,Netherlands,"RB, RWB",67,76,Stoke City,"Jun 30, 2024",,2200000,12000,1776
+T. Buchanan,24,Canada,"RM, LM, RB",72,78,Club Brugge,2021 , 2025,3700000,14000,1907
+G. Gaetano,23,Italy,"CAM, CM",71,79,Napoli,2016 , 2025,4200000,25000,1827
+T. Čvančara,22,Czech Republic,"ST, RW",75,80,Borussia Mönchengladbach,2023 , 2028,8500000,24000,1834
+B. Kouyaté,26,Mali,CB,73,76,Montpellier,2023 , 2026,3500000,17000,1624
+B. Aaronson,22,United States,"CAM, RM, CM",74,82,FC Union Berlin,"Jun 30, 2024",,9500000,32000,1918
+O. Deman,23,Belgium,"LM, RM",70,76,Werder Bremen,2023 , 2026,2500000,12000,1925
+D. Olaru,25,Romania,"CM, CAM",72,77,FCSB,2020 , 2024,3400000,12000,2094
+M. Murillo,27,Panama,RB,72,72,Olympique de Marseille,2023 , 2026,2300000,23000,1934
+P. Pomykal,23,United States,"CM, LM",69,77,Dallas,2016 , 2023,3100000,4000,1876
+M. Roerslev,24,Denmark,"RWB, RB",71,75,Brentford,2019 , 2026,2500000,24000,1743
+O. Brynhildsen,24,Norway,ST,70,75,Midtjylland,2023 , 2027,2400000,14000,1882
+D. Zagadou,24,France,CB,74,79,VfB Stuttgart,2022 , 2026,6000000,17000,1596
+H. Wright,25,United States,ST,72,75,Coventry City,2023 , 2027,3100000,31000,1710
+M. Gómez,26,Uruguay,ST,77,78,Cádiz,"Jun 30, 2024",,12500000,52000,1883
+P. Płacheta,25,Poland,"LM, RM",69,72,Norwich City,2020 , 2024,1800000,15000,1693
+M. Cuisance,23,France,"CM, CAM",71,78,Osnabrück,"Jun 30, 2024",,3700000,3000,1937
+A. Madibo,26,Qatar,"CDM, CM",65,68,Qatar,Free,Free,0,0,1698
+Danilo,24,Brazil,"ST, CF",74,78,Rangers,2023 , 2028,6000000,41000,1804
+O. Kabak,23,Turkey,CB,75,81,TSG Hoffenheim,2022 , 2026,8000000,24000,1707
+Y. Akgün,22,Turkey,"RM, CAM, RW",72,77,Leicester City,"Jun 30, 2024",,3600000,23000,1778
+A. Boupendza,26,Gabon,"LM, LW, ST",76,76,Cincinnati,2023 , 2025,8000000,9000,1942
+E. Shomurodov,28,Uzbekistan,"ST, CF",72,72,Cagliari,"Jun 30, 2024",,2400000,42000,1843
+O. Alderete,26,Paraguay,CB,76,78,Getafe,2023 , 2028,8000000,24000,1869
+E. Vignato,22,Italy,"CAM, CM, LW",72,80,Pisa,2023 , 2026,5500000,4000,1748
+S. Baptiste,25,Grenada,"CM, CDM",70,73,Brentford,2020 , 2024,2100000,26000,1893
+Dai Weijun,23,China PR,"CM, RM",65,70,Shanghai Shenhua,2023 , 2026,1100000,4000,1753
+N. Phillips,26,England,CB,73,76,Celtic,"Jun 30, 2024",,3500000,60000,1523
+Junior Messias,32,Brazil,"RM, RW",78,78,Genoa,"Jun 30, 2024",,11000000,59000,1968
+N. Tsaroulla,24,Cyprus,"LWB, LB, LM",63,68,Crawley Town,2020 , 2024,675000,2000,1687
+Gorosabel,26,Spain,RB,76,77,Deportivo Alavés,2023 , 2024,8000000,21000,1887
+J. Mbom,23,Germany,"CM, RWB, CDM",68,74,Viborg,2023 , 2026,1900000,5000,1838
+S. Odey,25,Nigeria,ST,68,73,Randers,2021 , 2024,1800000,6000,1718
+P. Rajković,27,Serbia,GK,78,81,Mallorca,2022 , 2026,14000000,21000,1086
+H. Morita,28,Japan,"CM, CDM",78,78,Sporting CP,2022 , 2026,14000000,16000,1990
+S. Córdova,26,Mexico,"CAM, CM",75,78,Mexico,Free,Free,0,0,2014
+L. Recalde,27,Argentina,CB,67,69,Deportivo Cuenca,2023 , 2023,1100000,500,1464
+G. Magnani,27,Italy,CB,74,76,Hellas Verona,2021 , 2025,4500000,21000,1576
+A. Eisa,27,Sudan,"LM, ST",62,62,Grimsby Town,2023 , 2024,425000,3000,1626
+Pejiño,26,Spain,"RM, LM",73,73,Las Palmas,2020 , 2026,3300000,16000,1829
+E. Williamson,26,United States,"CDM, CM",69,71,Portland Timbers,2018 , 2023,1500000,4000,1857
+R. Faivre,24,France,"RM, CM, CAM",77,80,Lorient,"Jun 30, 2024",,14500000,41000,2086
+T. Blackmon,26,United States,"CB, RB",68,70,Vancouver Whitecaps,2022 , 2023,1300000,3000,1761
+C. Doucouré,23,Mali,"CDM, CM",78,83,Crystal Palace,2022 , 2026,19500000,34000,1957
+I. Koné,24,Mali,ST,70,77,Almería,2023 , 2028,3200000,13000,1692
+D. Afolayan,25,England,"LM, CF",70,71,St. Pauli,2023 , 2026,1900000,10000,1843
+K. Sessa,22,Germany,"RM, CM",70,75,Heidenheim,2018 , 2024,2400000,14000,1875
+ K. Agudelo,23,Colombia,"CAM, CM",71,77,Spezia,2022 , 2026,3000000,10000,1827
+I. Poveda,23,England,"RM, CAM",69,76,Leeds United,2020 , 2024,2800000,17000,1592
+Óscar Valentín,28,Spain,CDM,76,76,Rayo Vallecano,2019 , 2027,6500000,19000,1825
+P. Maghoma,22,England,"CDM, CM",65,73,Bolton Wanderers,"Jun 30, 2024",,1500000,10000,1769
+J. Łabojko,25,Poland,"CDM, CM",66,70,Ternana,2023 , 2026,1100000,1000,1758
+D. Philipp,23,Germany,CF,64,70,Viktoria Köln,2021 , 2025,925000,2000,1656
+A. Bakir,22,Germany,"CAM, LM",63,71,MSV Duisburg,2021 , 2024,1100000,850,1610
+Jovane Cabral,25,Cape Verde Islands,"LM, CF, ST",75,78,Salernitana,"Jun 30, 2024",,7500000,12000,1948
+K. Paal,26,Suriname,"LB, LWB",71,73,Queens Park Rangers,2022 , 2025,2100000,11000,1917
+ T. Deng,25,Australia,CB,65,67,Australia,Free,Free,0,0,1620
+H. Choudhury,25,England,"CDM, RB",72,74,Leicester City,2015 , 2027,2600000,26000,1861
+A. Hanche-Olsen,26,Norway,CB,75,78,FSV Mainz 05,2023 , 2026,6500000,23000,1758
+Ó. Estupiñán,26,Colombia,ST,72,75,Metz,"Jun 30, 2024",,3100000,15000,1786
+Xande Silva,26,Portugal,"LM, ST",67,68,Atlanta United,2022 , 2025,1200000,3000,1689
+B. van den Boomen,27,Netherlands,"CM, CDM",78,78,Ajax,2023 , 2027,15000000,18000,2070
+S. Gartenmann,26,Denmark,CB,70,73,Aberdeen,"Jun 30, 2024",,1800000,14000,1677
+A. Barboza,28,Argentina,CB,75,76,Libertad,2021 , 2023,5500000,1000,1859
+Adryan Zonta,31,Brazil,"LWB, LB",81,81,Bragantino,2023 , 2026,18500000,23000,2142
+Jason Bardeira,23,Brazil,ST,78,78,Corinthians,2023 , 2026,16500000,31000,1836
+R. Manaj,26,Albania,ST,72,75,Sivasspor,2023 , 2025,3100000,15000,1697
+J. Aribo,26,Nigeria,"CM, CAM",73,74,Southampton,2022 , 2026,3600000,34000,2009
+E. Mor,25,Turkey,"RW, LW, CAM",74,75,Fenerbahçe,2022 , 2025,5000000,29000,1865
+ Ayrton,24,Brazil,"LB, LM",75,79,Spartak Moskva,2019 , 2026,7500000,37000,1969
+A. Tuanzebe,25,England,CB,73,77,Ipswich Town,2023 , 2024,3800000,15000,1773
+A. Lafont,24,France,GK,78,82,Nantes,2021 , 2024,16000000,16000,1246
+M. Wöber,25,Austria,"CB, LB",76,80,Borussia Mönchengladbach,"Jun 30, 2024",,9500000,36000,1916
+M. van Bergen,23,Netherlands,"RW, LW",71,76,FC Twente,2023 , 2027,2800000,8000,1729
+R. Williams,26,England,"LWB, RM",64,66,Bolton Wanderers,2023 , 2025,675000,3000,1810
+M. Grujić,27,Serbia,"CM, CDM",77,78,Porto,2020 , 2026,12000000,15000,2048
+F. Uduokhai,25,Germany,CB,75,79,FC Augsburg,2020 , 2025,7000000,22000,1678
+K. Nakamura,28,Japan,GK,76,78,Portimonense,2021 , 2025,6500000,8000,1133
+D. Doekhi,25,Netherlands,CB,78,80,FC Union Berlin,2022 , 2026,15500000,32000,1784
+M. Arambarri,27,Uruguay,"CDM, CM",80,81,Getafe,2018 , 2028,21500000,32000,2082
+R. Aliendro,32,Argentina,"CM, CDM",76,76,River Plate,2022 , 2026,6000000,19000,2123
+A. Murić,24,Kosovo,GK,75,80,Burnley,2022 , 2026,7000000,26000,1281
+J. Sánchez,25,Mexico,RB,74,76,Porto,"Jun 30, 2024",,4900000,12000,1922
+M. Doucouré,25,France,"CB, CDM",62,67,Borussia Mönchengladbach,2016 , 2024,525000,4000,1438
+S. Field,25,England,"CDM, CM",71,76,Queens Park Rangers,2021 , 2024,2500000,11000,1790
+Odriozola,27,Spain,RB,76,77,Real Sociedad,2023 , 2029,8000000,27000,1961
+C. Styles,23,Hungary,"LWB, CM, RM",71,76,Barnsley,2018 , 2025,2600000,7000,1868
+R. McCrorie,25,Scotland,"RB, CB, CDM",70,75,Bristol City,2023 , 2026,2200000,16000,1849
+M. Maolida,24,France,"LM, ST",70,75,Hertha BSC,2021 , 2025,2400000,8000,1705
+J. Eggestein,25,Germany,"ST, RM",68,70,St. Pauli,2022 , 2026,1500000,8000,1762
+F. Jensen,25,Finland,"CAM, ST, CM",71,74,FC Augsburg,2018 , 2025,2500000,16000,1839
+O. Richards,25,England,"LB, LWB",72,77,Nottingham Forest,2022 , 2026,3200000,35000,1743
+R. Ache,24,Germany,ST,70,75,Kaiserslautern,2023 , 2026,2400000,9000,1689
+P. Neumann,25,Germany,"CB, RWB",70,75,Hannover 96,2022 , 2025,2100000,13000,1736
+Y. Valery,24,Tunisia,"CB, RB, RWB",70,74,Angers SCO,2022 , 2026,2100000,4000,1817
+T. O'Connor,24,Republic of Ireland,"CDM, CM, CB",63,67,Wrexham,2022 , 2025,625000,3000,1773
+K. Csoboth,23,Hungary,"LW, RW",67,74,Hungary,Free,Free,0,0,1617
+J. Mateta,26,France,ST,75,77,Crystal Palace,2022 , 2026,7000000,39000,1767
+S. Alzate,24,Colombia,CM,73,78,Standard Liège,"Jun 30, 2024",,4600000,47000,1933
+B. Austin,24,England,GK,64,68,Tottenham Hotspur,2016 , 2024,675000,9000,959
+F. Ugrinic,24,Switzerland,"CM, LM",73,78,Young Boys,2022 , 2026,4600000,16000,2071
+P. Almqvist,23,Sweden,"RW, LW, ST",70,76,Lecce,2020 , 2025,2500000,9000,1749
+F. Ballo-Touré,26,Senegal,"LB, LM",72,75,Fulham,"Jun 30, 2024",,2800000,34000,1889
+J. Cortizo,27,Mexico,"CM, LM",75,76,Mexico,Free,Free,0,0,2069
+J. Torres,23,Mexico,"CM, RM, LM",66,75,Chicago Fire,2022 , 2025,1900000,2000,1883
+M. Aebischer,26,Switzerland,"CM, RM",73,76,Bologna,2022 , 2026,4000000,25000,1976
+M. Cornet,26,Côte d'Ivoire,"LM, CF",76,76,West Ham United,2022 , 2027,8000000,57000,2097
+I. Fernández,33,Argentina,"CAM, CM",77,77,River Plate,2023 , 2025,6500000,20000,2097
+S. Widmer,30,Switzerland,"RWB, RM, CB",76,76,FSV Mainz 05,2021 , 2026,6500000,25000,2006
+A. Halilović,27,Croatia,"CAM, RM",70,70,Fortuna Sittard,2023 , 2024,1700000,9000,1735
+M. Brozović,30,Croatia,"CDM, CM",83,83,Al Nassr,2023 , 2026,30500000,56000,2208
+Álvaro García,30,Spain,LM,79,79,Rayo Vallecano,2018 , 2026,17000000,25000,1897
+Gonçalo Paciência,28,Portugal,ST,73,73,VfL Bochum 1848,"Jun 30, 2024",,3100000,21000,1814
+Morales,35,Spain,"ST, LM, RM",78,78,Villarreal,2022 , 2024,6000000,28000,2079
+Paulinho,30,Portugal,ST,78,78,Sporting CP,2021 , 2025,14000000,17000,1952
+Akapo,30,Equatorial Guinea,"RB, LB, RM",74,74,San Jose Earthquakes,2022 , 2023,3600000,8000,1917
+S. Uçan,29,Turkey,"CM, CDM, CAM",74,74,Beşiktaş,2021 , 2024,4100000,23000,1991
+Álex Moreno,30,Spain,LB,80,80,Aston Villa,2023 , 2026,18000000,81000,2106
+A. Noppert,29,Netherlands,GK,75,76,SC Heerenveen,2022 , 2027,4300000,7000,1215
+B. Meling,28,Norway,LB,76,76,København,2023 , 2027,7000000,22000,1948
+L. Ajorque,29,France,ST,79,79,FSV Mainz 05,2023 , 2026,17500000,38000,1887
+J. Coleman,27,England,GK,62,63,Bolton Wanderers,2023 , 2025,350000,2000,1138
+J. Denayer,28,Belgium,CB,75,76,Al Fateh,2023 , 2025,5500000,27000,1794
+Munir,27,Morocco,"LM, ST, RM",78,78,Las Palmas,2023 , 2024,15000000,23000,1965
+M. Dúbravka,34,Slovakia,GK,78,78,Newcastle United,2018 , 2025,2400000,69000,1321
+Diego Rico,30,Spain,LB,77,77,Getafe,"Jun 30, 2024",,9000000,29000,2008
+H. Kamara,29,Côte d'Ivoire,"LWB, LM, LB",74,74,Udinese,2022 , 2026,3700000,15000,1966
+N. Contini,27,Ukraine,GK,67,69,Napoli,2012 , 2025,925000,11000,1105
+S. Benrahma,27,Algeria,"LM, CAM",78,78,West Ham United,2021 , 2026,15000000,66000,1934
+C. Baker-Richardson,27,England,ST,63,64,Crewe Alexandra,2022 , 2024,550000,3000,1518
+Carlos Fernández,27,Spain,ST,73,74,Real Sociedad,2021 , 2026,3600000,26000,1754
+N. Elvedi,26,Switzerland,CB,77,78,Borussia Mönchengladbach,2015 , 2027,11000000,26000,1803
+Mariano,29,Dominican Republic,ST,73,73,Sevilla,2023 , 2025,3000000,23000,1927
+P. Berg,25,Norway,"CDM, CM",75,80,Bodø / Glimt,2022 , 2027,7500000,7000,1991
+T. Castagne,27,Belgium,"RB, LB, RW",77,78,Fulham,2023 , 2027,11000000,65000,1948
+F. Woodman,26,England,GK,74,77,Preston North End,2022 , 2025,4200000,22000,1210
+Pleguezuelo,26,Spain,CB,69,71,Plymouth Argyle,2023 , 2025,1500000,8000,1711
+Jorge Meré,26,Spain,CB,71,76,Cádiz,2022 , 2026,2400000,16000,1641
+F. Noguera,30,Argentina,CB,73,73,Abha,2023 , 2025,2500000,11000,1532
+F. Bonazzoli,26,Italy,"CF, ST",71,74,Hellas Verona,"Jun 30, 2024",,2500000,21000,1737
+Sergi Canós,26,Spain,"LM, LWB, RWB",73,73,Valencia,2023 , 2027,3300000,25000,1962
+R. Zentner,28,Germany,GK,76,78,FSV Mainz 05,2017 , 2025,6500000,21000,1233
+E. Boateng,27,Ghana,"ST, LM",72,73,Rio Ave,2022 , 2024,2700000,8000,1908
+A. Pellegrino,33,Norway,LW,75,75,Bodø / Glimt,2021 , 2024,3500000,9000,1898
+D. Grimshaw,25,England,GK,66,72,Blackpool,2021 , 2025,1100000,3000,1149
+B. Whiteman,27,England,"CDM, CM",74,75,Preston North End,2021 , 2024,4300000,28000,1995
+J. Bamba,27,Côte d'Ivoire,"LM, RM",77,77,Celta de Vigo,2023 , 2026,11000000,24000,1977
+E. Skhiri,28,Tunisia,"CDM, CM",81,82,Eintracht Frankfurt,2023 , 2027,25000000,46000,2115
+A. Traoré,28,Mali,"CAM, CM, RW",71,71,Hull City,2022 , 2024,1900000,13000,1944
+R. Poole,25,Wales,"CB, RWB",69,72,Portsmouth,2023 , 2025,1600000,6000,1687
+G. Kerk,27,Netherlands,"RW, RM, ST",73,73,Antwerp,2023 , 2025,3200000,25000,1882
+A. Diallo,27,Senegal,"CB, LB",77,78,Paris Saint Germain,2019 , 2024,10500000,61000,1875
+D. Verde,27,Italy,"RW, RM, CAM",71,71,Spezia,2021 , 2025,2000000,4000,1838
+N. Mukiele,25,France,"RB, RWB, CB",79,81,Paris Saint Germain,2022 , 2027,20000000,68000,1966
+B. Davies,30,Wales,"CB, LB, LWB",77,77,Tottenham Hotspur,2014 , 2025,8500000,65000,1958
+Léo Baptistão,30,Brazil,"RM, ST",75,75,Almería,2022 , 2026,5500000,24000,1880
+Patric,30,Spain,CB,76,76,Lazio,2015 , 2027,6000000,38000,1910
+T. Fountas,27,Greece,"ST, CAM",75,75,Trabzonspor,2023 , 2025,6000000,46000,2012
+M. Arnold,29,Germany,"CDM, CM",81,81,VfL Wolfsburg,2011 , 2026,22000000,55000,2172
+M. Kovačić,29,Croatia,"CM, CDM",82,82,Manchester City,2023 , 2027,29500000,150000,2116
+Insua,29,Spain,CB,70,70,Sporting Gijón,2022 , 2024,1300000,6000,1530
+B. Traoré,27,Burkina Faso,"RM, RW",75,75,Aston Villa,2020 , 2024,6000000,63000,1933
+Clinton Mata,30,Angola,"RB, CB",77,77,Olympique Lyonnais,2023 , 2026,9000000,32000,2050
+Andreas Pereira,27,Brazil,CAM,77,78,Fulham,2022 , 2026,12000000,71000,2132
+A. Belotti,29,Italy,ST,78,78,Roma,2022 , 2025,14000000,67000,1925
+Omar Mascarell,30,Spain,"CM, CDM, CB",75,75,Mallorca,2023 , 2026,5500000,24000,1962
+A. Thomasson,29,France,"CF, RW, CM",78,78,Lens,2023 , 2026,14000000,42000,2097
+ Q. Promes,29,Netherlands,"LW, CAM, CF",79,79,Spartak Moskva,2021 , 2024,17000000,70000,2052
+Mattheus Oliveira,28,Brazil,"CAM, CM",71,71,Farense,2023 , 2024,1900000,5000,1895
+ Lucas Silva,26,Brazil,"CDM, CM",74,77,Real Madrid,2015 , 2020,6500000,88000,1919
+Ricardo Pereira,29,Portugal,"RB, RWB",79,79,Leicester City,2018 , 2026,15500000,50000,2111
+Raúl De Tomás,28,Spain,ST,79,79,Rayo Vallecano,2022 , 2027,18000000,29000,2050
+R. Ghezzal,31,Algeria,"RW, RM, CAM",78,78,Beşiktaş,2021 , 2024,11500000,31000,1897
+S. Al Dawsari,31,Saudi Arabia,LM,78,78,Al Hilal,2011 , 2025,11500000,42000,2053
+E. Hysaj,29,Albania,"LB, RB",76,76,Lazio,2021 , 2025,6500000,40000,1877
+B. Osborn,28,England,"LWB, LM, CM",71,71,Sheffield United,2019 , 2024,1700000,21000,1926
+Rubén Blanco,27,Spain,GK,74,77,Olympique de Marseille,2023 , 2026,4100000,23000,1204
+D. John,28,Wales,"LWB, LB",64,64,Salford City,"Jan 1, 2024",,525000,3000,1788
+J. Irvine,30,Australia,CM,74,74,St. Pauli,2021 , 2024,4000000,17000,2013
+G. Evans,28,England,"CDM, CM, CB",66,66,Wrexham,2023 , 2025,750000,6000,1808
+N. Maupay,26,France,ST,74,75,Brentford,"Jun 30, 2024",,5000000,36000,1922
+J. Haberer,29,Germany,"CM, CDM",75,75,FC Union Berlin,2022 , 2027,5500000,32000,1957
+T. Strakosha,28,Albania,GK,74,75,Brentford,2022 , 2026,3300000,34000,1188
+P. Max,29,Germany,"LWB, LM",78,78,Eintracht Frankfurt,2023 , 2026,12500000,37000,2075
+D. Kohr,29,Germany,"CDM, CM, CB",77,77,FSV Mainz 05,2022 , 2026,9000000,27000,1984
+R. Andrich,28,Germany,"CDM, CM",82,82,Bayer 04 Leverkusen,2021 , 2026,27000000,65000,2156
+Y. Gerhardt,29,Germany,CM,77,77,VfL Wolfsburg,2016 , 2025,10500000,45000,2025
+Ivan Cavaleiro,29,Portugal,"LM, LW",73,73,LOSC Lille,2023 , 2024,3000000,26000,1907
+Alisson,30,Brazil,GK,89,89,Liverpool,2018 , 2027,68500000,180000,1471
+K. Acosta,27,United States,"CM, CDM",72,72,Los Angeles FC,2022 , 2028,2500000,7000,2035
+ G. Þórarinsson,30,Iceland,"LB, LWB, CM",67,67,Iceland,Free,Free,0,0,1906
+S. Gustafson,28,Sweden,"CDM, CM",75,76,Häcken,2021 , 2025,5500000,8000,1940
+A. Iwobi,27,Nigeria,"RM, CM",76,76,Fulham,2023 , 2028,8000000,66000,1926
+ Marlon,26,Brazil,CB,75,77,Monza,"Jun 30, 2023",,6000000,900,1795
+ Y. Nagatomo,34,Japan,"LB, RB",71,71,Tokyo,2021 , 2023,700000,7000,1833
+Neto,33,Brazil,GK,78,78,AFC Bournemouth,2022 , 2026,4600000,37000,1293
+Borja García,32,Spain,"CM, LM, CAM",74,74,Girona,2023 , 2024,3300000,22000,1957
+A. Townsend,31,England,RM,74,74,Luton Town,2023 , 2024,3500000,39000,1908
+T. Cairney,32,Scotland,"CM, CAM",74,74,Fulham,2015 , 2024,3300000,58000,1966
+F. Lejeune,32,France,CB,77,77,Rayo Vallecano,2023 , 2027,7000000,20000,1829
+Marc Bartra,32,Spain,CB,79,79,Real Betis,2023 , 2024,11500000,26000,2035
+B. Stambouli,32,France,"CDM, CB, CM",74,74,Adana Demirspor,2021 , 2025,2800000,13000,1856
+J. Svensson,30,Norway,RB,75,75,Adana Demirspor,2021 , 2024,4800000,14000,2037
+J. Robinson,29,England,CB,72,72,Sheffield United,2020 , 2025,2000000,23000,1767
+L. Muriel,32,Colombia,ST,79,79,Atalanta,2019 , 2024,14000000,57000,1998
+Álex Fernández,30,Spain,"CAM, CM, CDM",75,75,Cádiz,2017 , 2025,5500000,27000,2027
+D. Tadić,34,Serbia,"LW, RW",82,82,Fenerbahçe,2023 , 2025,14500000,52000,2105
+W. Ben Yedder,32,France,ST,83,83,Monaco,2019 , 2024,29500000,80000,2099
+L. Unnerstall,32,Germany,GK,79,79,FC Twente,2021 , 2027,8500000,12000,1121
+J. Cillessen,34,Netherlands,GK,77,77,NEC,2022 , 2025,1800000,10000,1299
+ Alan Patrick,29,Brazil,"CAM, CDM",72,72,Shakhtar Donetsk,2011 , 2022,2300000,800,1941
+B. Raman,28,Belgium,"ST, LW",71,71,Anderlecht,2021 , 2024,1900000,18000,1879
+A. Davies,30,Wales,GK,70,70,Sheffield United,2022 , 2024,1100000,14000,1081
+C. Christie,30,Republic of Ireland,"RB, RM, CB",71,71,Hull City,2022 , 2024,1600000,11000,1911
+C. Jenkinson,31,England,"CB, RB",64,64,Newcastle Jets,2022 , 2024,400000,800,1787
+ Lucas Moura,29,Brazil,RW,77,77,Tottenham Hotspur,2018 , 2023,10500000,85000,2021
+ Rafinha,29,Brazil,"CM, CAM",78,78,Paris Saint Germain,2020 , 2023,13500000,74000,2092
+M. Doherty,31,Republic of Ireland,"RB, RWB",75,75,Wolverhampton Wanderers,2023 , 2026,4100000,49000,1976
+F. Fernández,34,Argentina,CB,72,72,Estudiantes,2023 , 2024,750000,10000,1555
+Felipe Anderson,30,Brazil,"RW, ST",81,81,Lazio,2021 , 2024,25000000,65000,2161
+J. Draxler,29,Germany,"LW, CM",77,77,Paris Saint Germain,2017 , 2024,10500000,75000,2027
+S. Armstrong,31,Scotland,"CM, RM",73,73,Southampton,2018 , 2024,2500000,34000,2007
+D. Demme,31,Germany,"CDM, CM",75,75,Napoli,2020 , 2024,3900000,39000,1919
+D. da Costa,29,Germany,"RWB, RM",74,74,FSV Mainz 05,2022 , 2025,3700000,23000,1956
+Suso,29,Spain,"RW, CAM",80,80,Sevilla,2020 , 2025,20500000,38000,1911
+J. Butland,30,England,GK,74,74,Rangers,2023 , 2027,2800000,32000,1291
+L. Bittencourt,29,Germany,"CAM, CM",73,73,Werder Bremen,2020 , 2025,3000000,21000,1986
+J. Brooks,30,United States,CB,76,76,TSG Hoffenheim,2023 , 2024,6000000,29000,1670
+J. Blaswich,32,Germany,GK,77,77,RB Leipzig,2022 , 2026,5000000,35000,1246
+J. Locadia,29,Curacao,"ST, LW, LM",72,72,Cangzhou Mighty Lions,2023 , 2023,2300000,8000,1846
+Mário Rui,32,Portugal,LB,81,81,Napoli,2018 , 2026,18000000,58000,2109
+J. Pickford,29,England,GK,82,84,Everton,2017 , 2027,25000000,45000,1499
+Portu,31,Spain,"RM, LM, RW",75,75,Girona,2023 , 2027,4700000,24000,2077
+A. Milik,29,Poland,ST,81,81,Juventus,2023 , 2026,25500000,125000,1998
+E. Višća,33,Bosnia and Herzegovina,"RM, RW",79,79,Trabzonspor,2022 , 2025,11000000,56000,2035
+Y. Poulsen,29,Denmark,ST,77,77,RB Leipzig,2013 , 2026,10500000,53000,1974
+ F. Totti,39,Italy,"CF, ST",80,80,Roma,1993 , 2017,1500000,60000,1872
+ Puyol,35,Spain,CB,83,83,FC Barcelona,1999 , 2014,1300000,100000,1853
+ Y. Touré,35,Côte d'Ivoire,"CM, CDM",80,80,Olympiakos Piraeus,2018 , 2019,6000000,2000,2073
+ Ronaldo,33,Brazil,ST,77,91,Corinthians,2009 , 2012,0,0,1739
+ Joaquín,40,Spain,"RM, LM, CAM",78,78,Real Betis,2015 , 2023,0,18000,1915
+ Pinto,37,Spain,GK,72,72,FC Barcelona,2008 , 2017,0,25000,1320
+ David Villa,37,Spain,ST,79,79,Vissel Kobe,2019 , 2020,3700000,10000,1951
+ L. Pionnier,35,France,GK,73,73,Montpellier,2002 , 2018,950000,10000,1149
+ Robinho,34,Brazil,"LW, CAM",77,77,Sivasspor,2018 , 2019,4500000,20000,1748
+ J. Mascherano,36,Argentina,"CDM, CM, CB",79,79,Estudiantes,2020 , 2021,3400000,15000,1941
+ A. Arshavin,34,Russia,"LW, RW",75,75,Kuban' Krasnodar,2015 , 2016,2100000,25000,1842
+L. Podolski,38,Germany,"CF, ST, CAM",72,72,Górnik Zabrze,2021 , 2025,800000,6000,1865
+Raúl Albiol,37,Spain,CB,81,81,Villarreal,2019 , 2024,4600000,27000,1693
+G. İnler,39,Switzerland,"CDM, CM",70,70,Beşiktaş,2023 , 2024,325000,8000,1877
+ Cesc Fàbregas,35,Spain,"CM, CAM, CDM",72,72,Como,2022 , 2024,950000,2000,1830
+ B. Sagna,36,France,"RB, RWB",71,71,CF Montréal,2019 , 2024,425000,4000,1914
+ Anderson,27,Brazil,"CM, CAM, CDM",73,73,Internacional,2015 , 2019,2900000,60000,2004
+A. Witsel,34,Belgium,"CB, CDM",79,79,Atlético Madrid,2022 , 2024,5500000,51000,2009
+ R. Drenthe,27,Netherlands,"RM, LM, CAM",71,71,Kayseri Erciyesspor,2015 , 2017,1700000,25000,1850
+ David Luiz,33,Brazil,CB,79,79,Arsenal,2019 , 2021,8500000,76000,2043
+G. Wijnaldum,32,Netherlands,"CM, CDM",80,80,Al Ettifaq,2023 , 2026,16500000,39000,2181
+I. Perišić,34,Croatia,"LW, LWB",78,78,Tottenham Hotspur,2022 , 2024,6500000,82000,2176
+ M. Mandžukić,34,Croatia,"ST, LW",78,78,Milan,2021 , 2021,7000000,43000,2028
+ S. Jovetić,32,Montenegro,"ST, CAM",75,75,Hertha BSC,2021 , 2023,4600000,30000,1885
+N. Amrabat,36,Morocco,"RM, RW, LM",76,76,AEK Athens,2021 , 2024,2400000,1000,2082
+C. Clark,33,Republic of Ireland,CB,71,71,Stoke City,2023 , 2024,900000,17000,1648
+ A. Rami,36,France,CB,70,70,Troyes,2021 , 2023,275000,7000,1572
+S. Terodde,35,Germany,ST,74,74,Schalke 04,2021 , 2026,1800000,10000,1737
+C. Benteke,32,Belgium,ST,74,74,DC United,2022 , 2024,3400000,9000,1750
+Azpilicueta,33,Spain,"RB, CB, RWB",79,79,Atlético Madrid,2023 , 2024,9000000,51000,2024
+G. Sigurðsson,33,Iceland,CAM,75,75,Lyngby,2023 , 2024,3500000,12000,1977
+J. Allen,33,Wales,"CDM, CM",69,69,Swansea City,2022 , 2024,700000,12000,1868
+P. Gulácsi,33,Hungary,GK,84,84,RB Leipzig,2015 , 2025,13500000,60000,1308
+J. King,31,Norway,"ST, CF, LW",75,75,Fenerbahçe,2022 , 2024,4800000,32000,1945
+C. Kouyaté,33,Senegal,"CDM, CM, CB",75,75,Nottingham Forest,2022 , 2024,2800000,49000,1889
+Rafael Tolói,32,Italy,CB,80,80,Atalanta,2015 , 2024,13500000,51000,1926
+ Ganso,28,Brazil,"CAM, CM",75,75,Amiens SC,"Jun 30, 2019",,6500000,20000,1793
+Oscar,31,Brazil,"CM, CAM, LW",78,78,Shanghai Port,2017 , 2024,11500000,27000,2134
+L. Négo,32,Hungary,"RB, RWB, RM",72,72,Le Havre,2023 , 2025,1600000,13000,1957
+M. Lanzini,30,Argentina,"CAM, LM",76,76,River Plate,2023 , 2024,7000000,19000,1912
+A. Gunnarsson,34,Iceland,"CDM, CM",68,68,Iceland,Free,Free,0,0,1789
+Jordi Alba,34,Spain,LB,83,83,Inter Miami,2023 , 2024,13500000,14000,2209
+B. Mee,33,England,CB,79,79,Brentford,2022 , 2024,8500000,56000,1735
+P. Groß,32,Germany,"CM, CDM, RB",79,79,Brighton & Hove Albion,2017 , 2025,14000000,83000,2080
+S. Chhetri,38,India,"ST, LW",66,66,Bengaluru,2017 , 2024,300000,750,1771
+S. Corchia,32,France,"RB, RWB",70,70,Amiens SC,2023 , 2025,1100000,4000,1862
+M. ter Stegen,31,Germany,GK,89,89,FC Barcelona,2014 , 2028,54500000,220000,1442
+ Robinho,34,Brazil,"LW, CAM",77,77,Sivasspor,2018 , 2019,4500000,20000,1748
+L. López,40,Argentina,"ST, CAM, LW",71,71,Sarmiento,2022 , 2023,0,7000,1902
+A. Motaraghebjafarpour,20,Sweden,RB,59,72,Kalmar,2023 , 2025,525000,500,1544
+Otávio,21,Brazil,CB,67,80,Famalicão,2023 , 2028,2400000,2000,1446
+Aleix Garrido,19,Spain,"CM, CAM",65,66,FC Barcelona,2022 , 2025,825000,15000,1640
+V. Atangana,17,France,CDM,64,78,Stade de Reims,2022 , 2028,1300000,500,1654
+L. Camara,19,Senegal,CAM,66,80,Metz,2023 , 2026,2000000,3000,1695
+T. Fernández,19,Argentina,"CAM, LM",64,75,Vélez Sarsfield,2023 , 2025,1300000,2000,1683
+D. Ruiz,19,Honduras,"CM, CDM, RWB",60,76,Inter Miami,2023 , 2025,625000,800,1517
+L. Mahovo,18,England,CB,51,67,Notts County,2022 , 2025,140000,800,1343
+S. Homma,22,Japan,"LM, LW",64,73,Club Brugge,2022 , 2024,1300000,5000,1580
+Manu Bueno,18,Spain,"CM, CAM, CDM",65,79,Sevilla,2022 , 2025,1700000,2000,1684
+G. Szalai,23,Hungary,CB,64,70,Hungary,Free,Free,0,0,1464
+Igor Thiago,22,Brazil,ST,70,77,Club Brugge,2023 , 2027,3300000,12000,1613
+T. Buchmann,18,Germany,CB,60,81,FC Bayern München,2023 , 2026,750000,2000,1352
+H. Blank,18,Germany,"CB, LB",61,78,Borussia Dortmund II,2023 , 2025,775000,500,1468
+D. Beleme,22,Burkina Faso,"ST, RM, LM",62,71,Ingolstadt,"Jun 30, 2024",,900000,5000,1439
+E. Herrmann,18,Germany,GK,53,71,Dynamo Dresden,2023 , 2024,210000,500,867
+F. Rózga,16,Poland,LM,56,79,Cracovia Kraków,2023 , 2026,450000,500,1344
+S. Moore,17,Republic of Ireland,"LM, RM",61,82,West Ham United,2023 , 2026,1000000,1000,1469
+F. Rodríguez-Gentile,16,Argentina,ST,57,81,Preston North End,2023 , 2025,525000,1000,1386
+H. Koch,16,Germany,ST,57,77,DSC Arminia Bielefeld,2023 , 2026,450000,500,1383
+A. Laâziri,19,Morocco,LB,64,77,Olympique Lyonnais,2022 , 2027,1300000,4000,1648
+E. Højlund,18,Denmark,ST,56,76,København,2023 , 2024,400000,2000,1448
+I. El Hari,17,Belgium,RW,54,73,Westerlo,2022 , 2024,275000,500,1312
+O. Liimatta,18,Finland,CAM,65,80,Famalicão,2023 , 2027,1700000,900,1669
+R. Walters,17,England,CM,51,64,Port Vale,2023 , 2024,130000,500,1445
+N. O'Reilly,18,England,"CAM, CM",61,80,Manchester City,2021 , 2024,825000,6000,1625
+I. Babadi,18,Netherlands,"CAM, CM, LW",66,83,PSV,2021 , 2024,2200000,2000,1612
+A. Feratovič,21,Slovenia,CB,67,77,Adana Demirspor,2023 , 2026,2100000,3000,1475
+I. Nicolăescu,24,Moldova,ST,69,74,SC Heerenveen,2023 , 2026,2100000,4000,1684
+F. González,20,Uruguay,CB,65,80,Sampdoria,"Jun 30, 2024",,1600000,13000,1453
+F. Krätzig,20,Germany,"LB, LM, CM",61,77,FC Bayern München,2023 , 2027,825000,6000,1550
+M. Egbring,16,Netherlands,RB,58,78,Vitesse,2023 , 2026,525000,500,1443
+A. Bedfian,18,France,GK,62,81,Bordeaux,2023 , 2025,900000,500,869
+B. Ogungbayi,19,Nigeria,"LW, ST, RW",62,74,Slavia Praha,2023 , 2024,950000,500,1518
+Y. Aradj,18,France,LB,62,81,Toulouse,2023 , 2026,975000,1000,1539
+T. Walczak,17,Poland,ST,54,69,Raków Częstochowa,2023 , 2026,250000,500,1308
+A. Murphy,19,Republic of Ireland,"CB, LB",63,81,Newcastle United,2022 , 2024,1200000,8000,1549
+E. Camara,20,France,"CDM, CM",63,78,Udinese,2023 , 2027,1100000,2000,1623
+R. Monticelli,17,Belgium,"LWB, CB",56,75,Sporting Charleroi,2021 , 2025,350000,500,1376
+D. Andrei,20,Romania,"LM, RM, CF",62,74,Voluntari,2022 , 2024,950000,2000,1617
+N. Lebreton,19,France,"CDM, CM",62,81,Caen,2022 , 2025,975000,750,1719
+S. Baidoo,19,Austria,CB,63,78,Salzburg,2022 , 2027,1100000,2000,1450
+D. Kameri,19,Austria,"CAM, CM",67,81,Salzburg,2022 , 2026,2400000,4000,1783
+K. Kolanko,16,Poland,LM,55,80,Górnik Zabrze,2022 , 2024,400000,500,1344
+T. Cervera,20,Argentina,"ST, LW",64,73,Rosario Central,2023 , 2026,1300000,3000,1602
+L. Banda,22,Zambia,LW,71,81,Lecce,2022 , 2026,4200000,11000,1718
+Álvaro Djaló,23,Spain,"LM, RM, CAM",72,78,Sporting Braga,2022 , 2025,3700000,9000,1814
+R. Odada,22,Kenya,"CDM, CM",52,61,Philadelphia Union,2022 , 2024,170000,1000,1384
+D. Håkans,22,Finland,"RW, LW, LWB",66,75,Vålerenga,2023 , 2026,1900000,2000,1618
+J. Williams,20,England,"RWB, RB",61,72,Cheltenham Town,"Jan 1, 2024",,675000,2000,1603
+C. Acella,20,Italy,CM,60,70,Cremonese,2022 , 2024,550000,600,1605
+B. Aguirre,20,Argentina,"LW, LM, RW",68,82,Newell's Old Boys,2022 , 2025,2900000,5000,1637
+D. Ballard,18,England,ST,60,78,Reading,"Jun 30, 2024",,625000,3000,1488
+G. Garofani,20,Italy,GK,61,75,Juventus,2021 , 2025,700000,6000,921
+K. Okunuki,23,Japan,"LW, CF",65,69,Nürnberg,2023 , 2028,1000000,3000,1592
+E. Tezgel,17,England,ST,56,79,Stoke City,2022 , 2025,450000,950,1351
+X. Simons,20,England,"CDM, CM, RB",64,79,Fleetwood Town,"Jun 30, 2024",,1300000,3000,1735
+A. Mayor,19,England,"LM, LW, LWB",61,74,Morecambe,2022 , 2025,775000,1000,1591
+P. Mercado,19,Ecuador,"CAM, CM",65,79,Independiente del Valle,2022 , 2024,1700000,500,1621
+A. Cozier-Duberry,18,England,"LW, CAM",59,77,Arsenal,2022 , 2024,575000,6000,1486
+Elione Fernandes,17,Portugal,"CDM, CM",62,74,Fortuna Düsseldorf,2022 , 2024,850000,500,1664
+J. Miley,19,England,"CM, CDM",56,75,Newcastle United,2022 , 2025,375000,7000,1533
+D. Drachal,18,Poland,"LM, RM",61,79,Raków Częstochowa,2023 , 2028,825000,650,1475
+H. Idasiak,21,Poland,GK,55,66,Napoli,2022 , 2024,250000,3000,874
+Nacho Ferri,18,Spain,ST,63,81,Eintracht Frankfurt,2022 , 2026,1200000,3000,1507
+W. Clem,19,Denmark,CDM,67,80,København,2022 , 2027,2300000,4000,1699
+L. Ambros,19,Czech Republic,CAM,60,80,Freiburg II,"Jun 30, 2024",,700000,4000,1535
+C. Keita,20,France,CB,70,80,Bastia,"Jun 30, 2024",,3300000,9000,1444
+Alberto Flores,19,Spain,GK,61,77,Sevilla,2022 , 2024,750000,1000,929
+D. Tomas,25,Finland,CB,64,68,Odd,2023 , 2023,725000,1000,1570
+Bernardo Folha,21,Portugal,CM,64,72,Porto,2020 , 2024,1300000,2000,1724
+D. Alfonsi,16,Sweden,CM,53,77,Varberg BoIS,2022 , 2025,300000,500,1480
+P. Madanha,18,Australia,"RM, RB, ST",57,69,Adelaide United,2022 , 2026,375000,500,1549
+Félix,19,Spain,"CB, LB",66,79,Amorebieta,"Jun 30, 2024",,1900000,3000,1433
+S. Walde,18,Germany,RB,61,74,Borussia Mönchengladbach,2023 , 2026,725000,1000,1530
+F. Watson,20,Argentina,"CAM, CM, LM",69,80,Lanús,2023 , 2027,3100000,6000,1734
+M. Ilenič,18,Slovenia,"RB, RM",62,80,New York City,2023 , 2028,975000,500,1567
+M. Sjöland,20,Sweden,CM,54,64,Halmstad,2022 , 2023,240000,600,1430
+I. Alemayehu,16,Sweden,CM,55,81,Djurgården,2023 , 2025,500000,500,1510
+W. Goes,19,Netherlands,CB,65,82,AZ Alkmaar,2020 , 2026,1700000,1000,1539
+A. Aourir,18,Morocco,"CAM, CF",61,77,Bayer 04 Leverkusen,2023 , 2025,825000,3000,1593
+G. Puerta,19,Colombia,"CM, CDM",63,78,Bayer 04 Leverkusen,2023 , 2028,1100000,5000,1676
+E. Bakatukanda,19,Germany,CB,60,77,FC Köln,2023 , 2026,600000,2000,1298
+M. Soumano,17,France,ST,66,77,Ajaccio,2023 , 2026,1800000,550,1605
+E. Saad,23,Tunisia,LM,67,73,St. Pauli,2023 , 2028,1600000,6000,1630
+D. Herold,20,Germany,LB,64,78,Karlsruher SC,"Jun 30, 2024",,1300000,7000,1569
+Pau Sans,18,Spain,ST,65,80,Real Zaragoza,2023 , 2025,1700000,1000,1570
+B. Amione,21,Argentina,CB,70,79,Hellas Verona,2020 , 2025,3300000,10000,1588
+A. Salah-Eddine,21,Netherlands,"LB, CDM",67,76,Ajax,2022 , 2025,2200000,4000,1682
+M. Waad,23,Qatar,"CDM, CB",64,71,Qatar,Free,Free,0,0,1753
+K. Olaigbe,20,Belgium,"LM, CAM, RM",64,74,Cercle Brugge,2023 , 2027,1300000,3000,1627
+Y. Attiat-Allah,28,Morocco,LB,73,73,Morocco,Free,Free,0,0,1894
+Y. Abdurisag,23,Qatar,"RM, LM",64,70,Qatar,Free,Free,0,0,1559
+R. Mundle,20,England,"LM, RM",65,81,Standard Liège,2023 , 2027,1900000,3000,1628
+T. Springett,20,Republic of Ireland,"RM, LM",63,71,Norwich City,2020 , 2026,1100000,5000,1601
+M. Krattenmacher,17,Germany,"CAM, LM",60,80,Unterhaching,2022 , 2025,675000,500,1563
+N. Bonfanti,21,Italy,ST,67,78,Modena,2021 , 2025,2300000,1000,1620
+ H. Ali,21,Qatar,"RW, LW",62,71,Qatar,Free,Free,0,0,1518
+O. Wolff,18,United States,"CDM, RM, LB",64,79,Austin,2021 , 2025,1300000,550,1655
+A. Raimondo,19,Italy,ST,63,78,Ternana,"Jun 30, 2024",,1100000,4000,1606
+W. Evans,26,Wales,"ST, LWB",62,64,Newport County,2022 , 2024,500000,2000,1713
+L. Hey,20,Denmark,"CB, CDM",65,80,Nordsjælland,2023 , 2027,1600000,2000,1607
+S. Ngabo,18,Denmark,CM,59,77,Lyngby,2021 , 2024,575000,700,1662
+H. Smolčić,22,Croatia,CB,71,78,Eintracht Frankfurt,2022 , 2027,3500000,17000,1564
+Leonardo Lelo,23,Portugal,"LM, LB",72,78,Casa Pia,2021 , 2025,3700000,6000,1855
+Alexsandro Ribeiro,23,Brazil,CB,75,80,LOSC Lille,2022 , 2026,7500000,23000,1583
+D. Douděra,25,Czech Republic,"RM, RB",73,76,Slavia Praha,2022 , 2025,4000000,1000,1921
+J. Taylor,20,Wales,ST,61,71,Colchester United,"Jun 30, 2024",,725000,6000,1573
+D. Scherhant,20,Germany,"LM, ST",65,75,Hertha BSC,2022 , 2027,1600000,3000,1583
+V. Temel,20,Turkey,CM,58,71,İstanbulspor,2022 , 2027,500000,2000,1589
+ Y. Lagha,18,Algeria,ST,64,82,Olympique Lyonnais,2022 , 2025,1500000,5000,1536
+L. Díaz,25,Argentina,"ST, CF",73,77,Independiente del Valle,2022 , 2024,4300000,1000,1797
+O. Schwartau,17,Denmark,"CAM, ST",62,80,Brøndby,2022 , 2025,1000000,500,1618
+G. O'Donkor,18,England,ST,59,72,Oxford United,2021 , 2026,525000,900,1525
+S. Núñez,23,Argentina,CB,69,75,Estudiantes,2021 , 2025,2000000,6000,1547
+R. Kwasigroch,19,Germany,GK,57,73,Hertha BSC,2022 , 2025,375000,750,791
+D. Elfadli,26,Libya,"CDM, CB",69,71,Magdeburg,2022 , 2025,1500000,6000,1754
+M. Loune,19,Morocco,"CM, CAM",59,78,Eintracht Frankfurt,2022 , 2025,575000,3000,1589
+M. Biereth,20,Denmark,ST,63,77,Motherwell,"Jun 30, 2024",,1200000,14000,1562
+Martim Neto,20,Portugal,"CM, CDM",65,82,Gil Vicente,"Jun 30, 2024",,1900000,2000,1765
+M. Joseph,19,England,ST,63,80,Leeds United,2022 , 2025,1300000,6000,1503
+D. Gyabi,19,England,"CDM, CM",63,79,Leeds United,2022 , 2026,1200000,4000,1668
+V. Zumberi,20,Kosovo,CB,60,71,Hamburger SV,2022 , 2024,500000,3000,1299
+J. Antonioli,19,Netherlands,"CAM, CM",60,71,FC Volendam,2021 , 2024,525000,850,1612
+T. González,20,Argentina,"ST, LM",65,76,Unión Santa Fe,2022 , 2025,1600000,3000,1680
+A. Oyono,22,Gabon,RB,65,74,Frosinone,2022 , 2027,1500000,3000,1591
+L. Belardinelli,22,Italy,"CDM, CM",67,76,Empoli,2018 , 2024,2200000,3000,1741
+W. Osula,19,Denmark,ST,60,72,Sheffield United,2021 , 2024,600000,4000,1485
+ J. Moreno,19,Colombia,ST,55,68,Midtjylland,2022 , 2025,300000,3000,1356
+T. Cervera,20,Argentina,"ST, LW",64,73,Rosario Central,2023 , 2026,1300000,3000,1602
+L. Dobbin,20,England,"LM, ST",64,75,Everton,2020 , 2025,1300000,6000,1638
+D. Brekalo,24,Slovenia,CB,70,77,Viking,2021 , 2025,3000000,2000,1595
+Torrente,21,Spain,"CB, CDM",71,79,Granada,2020 , 2024,3900000,8000,1516
+Javi Llabrés,21,Spain,"LM, RM",66,77,Mallorca,2022 , 2026,1900000,6000,1619
+Iturbe,19,Spain,GK,66,78,Atlético Madrid,2021 , 2027,1800000,4000,1095
+Carmona,21,Spain,"RWB, RB, CB",71,81,Getafe,"Jun 30, 2024",,4000000,11000,1826
+V. Egeli,19,Norway,"LB, RB, CDM",60,78,Sandefjord,2021 , 2024,600000,500,1565
+B. Meïté,22,Côte d'Ivoire,CB,69,78,Olympique de Marseille,"Jun 30, 2024",,2900000,9000,1466
+F. Alidou,21,Germany,LM,69,78,FC Köln,"Jun 30, 2024",,3100000,12000,1608
+N. Palacio,22,Colombia,"CM, CDM",71,81,Real Salt Lake,2023 , 2026,4200000,5000,1849
+Gabri Martínez,20,Spain,"RM, LM",65,80,Mirandés,"Jun 30, 2024",,1700000,5000,1577
+M. Çuni,21,Albania,ST,66,75,Frosinone,2023 , 2026,1900000,3000,1618
+Noel,20,Spain,"ST, RW",63,80,Real Madrid,2022 , 2026,1300000,18000,1533
+O. Dodgson,20,England,"LWB, LB",62,72,Barnsley,"Jun 30, 2024",,825000,5000,1613
+T. Alloh,21,France,"LB, LWB, LM",62,74,AS Eupen,2022 , 2025,950000,1000,1591
+L. Marquines,20,Colombia,GK,65,80,Atlético Nacional,2021 , 2024,1500000,750,1020
+ A. Álvarez,18,Mexico,LM,59,71,Pumas UNAM,2021 , 2025,525000,800,1599
+D. Taylor,19,Northern Ireland,ST,63,76,Wycombe Wanderers,"Jun 30, 2024",,1100000,8000,1603
+O. Tipton,19,England,"CB, CDM",55,70,Notts County,"Jun 30, 2024",,275000,4000,1410
+B. Andresen,20,Germany,"LB, RB",58,69,Hamburger SV,2022 , 2024,425000,3000,1437
+K. Jensen,22,Sweden,LW,64,72,Kalmar,2022 , 2024,1300000,1000,1569
+C. Volpato,19,Italy,"CAM, CF, RW",67,83,Sassuolo,2023 , 2025,2600000,3000,1689
+Z. Iqbal,20,Iraq,"CM, CAM",63,80,FC Utrecht,2023 , 2027,1300000,3000,1707
+K. McAteer,21,England,"RW, LW",67,78,Leicester City,2020 , 2025,2300000,12000,1738
+J. Gómez,19,Mexico,LB,63,77,Mirandés,"Jun 30, 2024",,1100000,3000,1530
+A. Foti,19,Cyprus,"CM, CAM, ST",62,78,Hannover 96,"Jun 30, 2024",,1000000,4000,1677
+T. Hume,21,Northern Ireland,"RB, CB",68,78,Sunderland,2022 , 2026,2600000,9000,1688
+C. Jander,20,Germany,CM,65,76,MSV Duisburg,2022 , 2024,1600000,900,1761
+N. Tsakiris,18,United States,"CAM, CM",58,80,San Jose Earthquakes,2022 , 2025,650000,500,1350
+M. Alfonso,23,Paraguay,"CM, CDM",67,73,River Plate,2022 , 2023,1600000,500,1778
+L. Warrington,20,England,"CDM, CM",64,74,Plymouth Argyle,"Jun 30, 2024",,1200000,6000,1714
+H. Røsten,18,Norway,CB,60,74,Rosenborg,2022 , 2027,525000,500,1378
+G. Benedetti,22,Argentina,"LB, LWB",71,77,Estudiantes,2021 , 2025,2800000,8000,1768
+S. Cisse,22,Guinea,"CM, RM, LM",69,79,Leganés,2020 , 2026,3100000,5000,1761
+R. Garro,25,Argentina,"CAM, LM",77,80,Talleres Córdoba,2022 , 2025,14000000,17000,1907
+Lee Ji Han,20,Korea Republic,"LM, CF",61,72,Freiburg II,2022 , 2024,725000,700,1521
+A. Dony,19,Belgium,"LWB, LB, LM",60,74,Union Saint-Gilloise,2022 , 2025,550000,1000,1448
+ M. Scott,19,Republic of Ireland,"CM, CAM",50,54,UCD,2020 , 2023,60000,500,1424
+J. Solís,18,Colombia,"CM, CDM",68,80,Girona,2023 , 2028,2800000,4000,1780
+B. Yıldırım,20,Turkey,ST,65,75,Rennes,2023 , 2028,1600000,9000,1573
+L. Noubi,18,Belgium,"CB, RB",64,80,Standard Liège,2021 , 2025,1400000,1000,1503
+S. Djeffal,24,France,"CM, CDM",61,68,Austin,2023 , 2023,650000,1000,1710
+C. Egan-Riley,20,England,"RB, CB",67,80,Burnley,2022 , 2025,2300000,10000,1590
+ Gabriel Pereira,20,Brazil,"RM, RW",70,82,New York City,2022 , 2026,3800000,4000,1724
+Marcelo Pitaluga,20,Brazil,GK,57,74,Liverpool,2020 , 2025,375000,6000,877
+I. Saibari,21,Morocco,"CAM, CM, RW",72,79,PSV,2020 , 2028,4800000,10000,1856
+R. Garcés,27,Peru,CB,68,70,César Vallejo,2021 , 2023,1300000,500,1514
+A. Robertson,20,Australia,"CM, CAM",62,79,Portsmouth,"Jun 30, 2024",,1000000,12000,1645
+J. Portillo,23,Argentina,"LB, CM, CDM",72,78,Talleres Córdoba,2023 , 2026,3500000,9000,1900
+J. Lora,22,Peru,RB,71,80,Sporting Cristal,2021 , 2025,4000000,650,1721
+I. De Arruabarrena,26,Uruguay,GK,76,80,Arouca,2022 , 2024,8000000,7000,1050
+M. Paredes,30,Paraguay,"CDM, CM",65,65,Tacuary,2022 , 2024,600000,500,1638
+F. Oppegård,20,Norway,LB,65,77,PSV,2020 , 2025,1600000,3000,1703
+E. Giménez,25,Paraguay,"RW, RM, RB",68,71,Cerro Porteño,2020 , 2027,1600000,500,1769
+V. Lunddal,21,Iceland,"RB, LB",67,77,Häcken,2021 , 2024,2200000,2000,1552
+S. Rea,21,Canada,"CF, CAM",60,70,CF Montréal,2020 , 2023,550000,1000,1497
+Mario Soriano,21,Spain,CAM,70,80,SD Eibar,2022 , 2024,3600000,5000,1785
+L. Assignon,23,France,RB,73,80,Rennes,2021 , 2027,6000000,26000,1816
+J. Neal,19,United States,CB,64,80,LA Galaxy,2021 , 2027,1400000,1000,1456
+R. Street,21,England,ST,62,69,Cheltenham Town,2023 , 2026,825000,1000,1592
+I. Fray,20,United States,CB,58,73,Inter Miami,2021 , 2024,450000,900,1357
+S. Radić,23,Croatia,CB,67,73,Fortuna Sittard,2023 , 2024,1500000,4000,1500
+O. Cisneros,19,United States,"CM, CAM",49,63,Sporting Kansas City,2021 , 2023,110000,650,1414
+Lee Tae Suk,20,Korea Republic,"LB, LWB",67,78,Seoul,2021 , 2023,2100000,2000,1689
+M. Bulat,21,Croatia,"CM, CDM",69,79,Dinamo Zagreb,2021 , 2027,3100000,500,1979
+E. Garnås,28,Norway,CB,67,68,Lillestrøm,2020 , 2023,975000,2000,1451
+Nazinho,19,Portugal,"LWB, LB",66,77,Cercle Brugge,"Jun 30, 2024",,1800000,2000,1540
+S. Lynen,24,Belgium,"CDM, CM",73,77,Werder Bremen,2023 , 2027,4000000,16000,1886
+A. Martegani,23,Argentina,"CAM, CM, RW",71,80,Salernitana,"Jun 30, 2024",,4200000,9000,1866
+E. Darboe,22,Gambia,CDM,68,75,LASK Linz,"Jun 30, 2024",,2300000,16000,1700
+D. Wolfe,21,Norway,LB,67,77,AZ Alkmaar,2023 , 2028,2200000,2000,1726
+H. Matriciani,23,Germany,"RB, CB, LB",70,75,Schalke 04,2021 , 2026,2200000,6000,1655
+K. Fitz-Jim,19,Netherlands,"CM, CDM",66,78,Excelsior,"Jun 30, 2024",,2000000,3000,1745
+A. Compagno,27,Italy,ST,69,70,FCSB,2022 , 2024,1600000,9000,1645
+R. Ilie,20,Romania,"LM, CAM",69,78,Lausanne Sport,"Jun 30, 2024",,3100000,13000,1815
+Karrikaburu,20,Spain,ST,68,81,Deportivo Alavés,"Jun 30, 2024",,2900000,10000,1601
+R. Trevitt,20,England,"CAM, CM",62,77,Exeter City,"Jun 30, 2024",,950000,7000,1580
+ M. Vušković,20,Croatia,CB,72,83,Hamburger SV,2022 , 2025,4800000,7000,1594
+D. Čolina,22,Croatia,"LB, LM",69,77,FC Augsburg,2023 , 2027,3000000,10000,1692
+C. Makreckis,23,Latvia,"CDM, RB",66,74,Ferencváros,2023 , 2027,1800000,500,1782
+M. Hansen,20,Denmark,"RW, ST",66,76,Nordsjælland,2022 , 2026,1900000,4000,1711
+F. Lakenmacher,23,Germany,ST,65,70,1860 München,2022 , 2024,1100000,2000,1619
+ R. Rios,21,Colombia,CDM,67,76,Mazatlán,2021 , 2025,2200000,3000,1713
+T. Ernst,20,Germany,GK,64,77,Hertha BSC,2022 , 2026,1200000,2000,955
+A. Ementa,21,Denmark,ST,62,73,Viborg,2023 , 2026,900000,2000,1512
+A. Brown,21,England,"LB, LM, CB",64,73,Gent,2023 , 2027,1300000,3000,1688
+L. Fiorini,21,Scotland,CM,65,76,Manchester City,2021 , 2026,1600000,17000,1766
+S. Akaydın,29,Turkey,CB,70,70,Fenerbahçe,2023 , 2026,1300000,16000,1555
+E. Sahiti,24,Kosovo,"RM, LM, RW",73,76,Hajduk Split,2021 , 2026,4200000,800,1906
+K. Ehibhatiomhan,20,England,ST,63,73,Reading,2021 , 2024,1100000,1000,1471
+J. Meyer,21,Germany,CDM,59,70,VfB Stuttgart,2021 , 2025,475000,2000,1519
+I. Gharbi,19,Spain,"LW, CAM",67,79,Stade Lausanne-Ouchy,"Jun 30, 2024",,2400000,14000,1630
+S. Tickle,21,England,GK,61,72,Wigan Athletic,2021 , 2026,650000,1000,1004
+W. Swedberg,19,Sweden,"CM, LW",69,79,Celta de Vigo,2022 , 2027,3000000,6000,1827
+A. Suhonen,22,Finland,"CAM, CM",66,72,Hamburger SV,2021 , 2026,1400000,7000,1594
+A. Al Hamadi,21,Iraq,ST,62,70,AFC Wimbledon,2023 , 2025,900000,2000,1473
+ G. Dănuleasă,19,Romania,CB,56,73,SSC Farul,2021 , 2023,350000,950,1286
+Fali Candé,25,Guinea Bissau,"CB, LB",71,76,Metz,2022 , 2026,2500000,11000,1895
+T. Rhein,20,Germany,"CM, CAM, CDM",65,76,Austria Lustenau,2020 , 2025,1600000,2000,1670
+A. Karabec,19,Czech Republic,"LW, RW, CAM",71,79,Sparta Praha,2020 , 2025,4000000,500,1798
+A. Carboni,22,Italy,CB,70,80,Monza,2022 , 2027,3300000,19000,1633
+Erik,22,Brazil,LB,71,77,Al Ain,2020 , 2025,2800000,650,1878
+D. Abiama,24,Nigeria,ST,67,72,SpVgg Greuther Fürth,2020 , 2024,1600000,4000,1572
+M. Šviderský,20,Slovakia,"CDM, CB",65,78,Almería,2022 , 2027,1600000,4000,1693
+João Mário,23,Portugal,RB,77,82,Porto,2018 , 2027,15000000,11000,2004
+F. Pedersen,20,Norway,RB,57,68,Sandefjord,2023 , 2026,350000,550,1465
+K. Horváth,21,Hungary,CAM,64,75,Hungary,Free,Free,0,0,1652
+M. Brescianini,23,Italy,"CDM, CM",66,76,Frosinone,2023 , 2027,1800000,3000,1698
+A. Gülstorff,20,Denmark,GK,55,69,Nordsjælland,2020 , 2025,275000,1000,933
+F. Ioannidis,23,Greece,ST,73,81,Panathinaikos,2020 , 2027,7000000,750,1731
+O. Rekik,21,Tunisia,CB,65,78,Wigan Athletic,"Jan 1, 2024",,1700000,13000,1621
+M. Tanlongo,19,Argentina,CDM,68,79,København,"Jun 30, 2024",,2500000,3000,1834
+G. Infantino,20,Argentina,"RW, RM, CM",67,79,Fiorentina,2023 , 2028,2500000,13000,1751
+F. Andueza,26,Uruguay,CB,69,74,Junior,2023 , 2023,1800000,2000,1583
+R. Edwards,20,England,CB,68,80,Peterborough United,2020 , 2025,2700000,4000,1605
+S. Meza,23,Argentina,GK,74,82,Huracán,2020 , 2024,8000000,8000,1106
+ Yuri Matias,27,Brazil,CB,70,72,CFR Cluj,2022 , 2025,1700000,9000,1537
+L. Giaccone,22,Argentina,"RM, LM",70,82,Rosario Central,2020 , 2023,3900000,9000,1645
+R. Vita,22,Madagascar,LB,66,73,Fortuna Sittard,2022 , 2026,1600000,4000,1684
+E. Bilgin,19,Turkey,GK,62,73,Fatih Karagümrük,"Jun 30, 2024",,750000,1000,924
+A. Diallo,20,England,"LW, RW",57,73,Newcastle United,2022 , 2024,425000,11000,1469
+S. Tedić,23,Serbia,ST,63,70,Charlton Athletic,"Jun 30, 2024",,975000,18000,1558
+E. Valeri,24,Italy,"LB, LM, LWB",71,77,Cremonese,2020 , 2024,2800000,3000,1898
+C. Olivera,21,Uruguay,"LW, RW, CF",69,80,Los Angeles FC,2023 , 2026,3100000,4000,1679
+João Victor,24,Brazil,CB,73,80,Benfica,2022 , 2027,5500000,9000,1733
+Marvin,23,Spain,"RM, RB",69,78,Las Palmas,"Jun 30, 2024",,3100000,44000,1798
+C. Sánchez,22,Ecuador,"RWB, RB, RM",63,72,Independiente del Valle,2023 , 2023,1000000,500,1656
+Tiago Morais,19,Portugal,"LM, LW",67,83,Boavista,2020 , 2026,2600000,3000,1677
+M. Nyeman,19,United States,"CDM, CM",62,77,Real Salt Lake,2022 , 2024,900000,750,1603
+J. Gazibegović,23,Bosnia and Herzegovina,RB,71,74,Sturm Graz,2020 , 2026,2400000,9000,1845
+J. Fory,21,Colombia,"LB, LM",68,79,Deportivo Pereira,2023 , 2027,2600000,600,1737
+A. Ndiaye,21,Senegal,CB,67,80,Troyes,2023 , 2028,2400000,2000,1465
+T. Aasgaard,21,Norway,"CAM, LM, CM",64,73,Wigan Athletic,2020 , 2028,1300000,2000,1672
+E. Çekiçi,26,Albania,"CAM, CM, CDM",69,71,Pendikspor,2023 , 2025,1700000,7000,1925
+K. Opoku,21,Ghana,"CF, RW",69,77,CF Montréal,2023 , 2024,3200000,4000,1698
+C. Diakité,20,France,"CAM, CM, CDM",65,72,Paris,2020 , 2024,1400000,2000,1745
+Raúl García,22,Spain,ST,74,82,Osasuna,2023 , 2028,9500000,22000,1723
+ M. Højholt,21,Denmark,"CDM, CM",67,75,AaB,2019 , 2024,2200000,4000,1652
+M. Papela,22,Germany,"CM, CDM",66,75,FSV Mainz 05,2019 , 2024,1900000,7000,1759
+I. Ramírez,26,Uruguay,ST,71,74,Nacional,2022 , 2024,2500000,750,1642
+ E. Fereira,21,Venezuela,"RWB, RB",67,77,Casa Pia,2022 , 2025,2200000,2000,1676
+M. Mohamed,25,Egypt,ST,75,78,Nantes,2023 , 2027,7500000,23000,1827
+L. Thomas,22,England,"LB, LWB",73,77,Sheffield United,"Jun 30, 2024",,4100000,27000,1827
+T. Gray,20,Jamaica,"RB, CB",65,75,New York City,2019 , 2025,1500000,1000,1558
+P. Gueye,23,Senegal,ST,67,73,Aberdeen,2023 , 2026,1600000,3000,1664
+C. Drameh,21,England,"RB, RWB",70,79,Birmingham City,"Jun 30, 2024",,3400000,15000,1730
+M. Bard,22,France,"LB, LWB",75,80,Nice,2021 , 2026,8000000,28000,1901
+K. Nsona,21,France,"LM, RM",63,75,Hertha BSC,2022 , 2026,1200000,2000,1493
+K. Baah,20,Germany,"LW, LM, RM",60,78,Burton Albion,"Jun 30, 2024",,650000,5000,1543
+J. Martínez,28,Venezuela,CDM,74,74,Philadelphia Union,2020 , 2023,3700000,8000,1783
+I. Vassilev,22,United States,"CM, CAM, RM",67,75,Saint Louis City,2023 , 2024,2300000,3000,1866
+M. Adopo,22,France,"CM, CDM, CB",61,70,Atalanta,2023 , 2027,725000,6000,1698
+T. Bartouche-Selbonne,26,France,GK,60,65,Guingamp,2023 , 2027,275000,1000,902
+S. Cartagena,20,Uruguay,"CDM, CM",63,76,Nacional,2020 , 2023,1100000,500,1594
+S. Ngapandouetnbu,20,Cameroon,GK,67,75,Olympique de Marseille,2019 , 2024,1900000,6000,1007
+T. Suslov,21,Slovakia,"CF, RM, CM",68,76,Hellas Verona,2018 , 2026,2700000,9000,1872
+A. Dumitrescu,22,Romania,"LB, LM",67,78,Slavia Praha,2023 , 2027,2200000,500,1614
+J. Nelson,20,Canada,"LW, RW",67,75,Rosenborg,2023 , 2026,2200000,2000,1728
+ Marcos Paulo,21,Portugal,"LM, CAM, ST",70,82,Mirandés,"Jun 30, 2023",,3900000,18000,1684
+R. Boženík,23,Slovakia,ST,68,75,Boavista,2023 , 2026,2400000,6000,1740
+J. Ondrejka,20,Sweden,"LW, RM, CAM",69,79,Antwerp,2023 , 2028,3100000,11000,1837
+M. Touré,19,Australia,"ST, LM",64,74,Paris,"Jun 30, 2024",,1300000,4000,1653
+J. Kałuziński,20,Poland,"CDM, CAM, CM",64,79,Antalyaspor,2023 , 2026,1300000,3000,1726
+M. Nawrocki,22,Poland,CB,68,78,Celtic,2023 , 2028,2500000,15000,1719
+S. Montiel,22,Argentina,"LM, LB",72,78,Argentinos Juniors,2022 , 2025,3800000,9000,1972
+B. Garrity,26,England,"CAM, CM",65,66,Port Vale,2021 , 2025,850000,3000,1881
+Jony Álamo,21,Spain,"CDM, CM",63,71,FC Cartagena,2023 , 2024,1000000,1000,1618
+L. Oyen,20,Belgium,LM,68,81,Genk,2019 , 2027,2900000,5000,1697
+Francho Serrano,21,Spain,CM,70,81,Real Zaragoza,2020 , 2025,3600000,5000,1844
+J. Garrett,20,England,"CDM, CM",63,78,Blackburn Rovers,2020 , 2025,1100000,6000,1601
+ Christian Marques,19,Portugal,CB,60,73,Wolverhampton Wanderers,2020 , 2023,550000,5000,1481
+M. Cox,20,England,GK,64,80,Bristol Rovers,"Jun 30, 2024",,1400000,5000,932
+B. Chrisene,19,England,"LWB, LB",63,76,Aston Villa,2020 , 2025,1100000,7000,1609
+L. Gibbs,20,England,"CM, CDM",67,77,Norwich City,2021 , 2028,2200000,9000,1769
+F. Moumbagna,23,Cameroon,ST,69,75,Bodø / Glimt,2023 , 2026,2200000,4000,1729
+F. Pedersen,20,Norway,RB,57,68,Sandefjord,2023 , 2026,350000,550,1465
+L. Munteanu,21,Romania,ST,68,81,SSC Farul,"Jun 30, 2024",,3000000,15000,1725
+B. Cabango,23,Wales,CB,71,78,Swansea City,2018 , 2025,3500000,14000,1485
+K. Hein,21,Estonia,GK,64,74,Arsenal,2019 , 2026,1100000,9000,971
+Bao Yaxiong,26,China PR,GK,58,62,Shanghai Shenhua,2023 , 2025,220000,2000,881
+Mateu Morey,23,Spain,"RB, RM",71,78,Borussia Dortmund,2019 , 2024,3600000,19000,1769
+B. Özdemir,25,Turkey,"CM, CDM",71,73,Trabzonspor,"Jun 30, 2024",,2300000,18000,1945
+L. Kilian,23,Germany,CB,72,76,FC Köln,2022 , 2025,3000000,15000,1638
+N. Ngoumou,23,France,RM,72,79,Borussia Mönchengladbach,2022 , 2027,4700000,17000,1760
+M. Ekpiteta,27,England,CB,68,68,Blackpool,2020 , 2024,1100000,5000,1480
+Rafa Tresaco,22,Spain,ST,62,71,Huesca,2022 , 2024,900000,2000,1473
+K. Poku,21,Ghana,"CAM, RM",68,77,Peterborough United,2021 , 2025,2700000,4000,1705
+D. Joveljić,23,Serbia,ST,71,76,LA Galaxy,2021 , 2025,2900000,6000,1795
+P. Dwomoh,19,Belgium,"CM, CAM",64,78,RWDM,"Jun 30, 2024",,1400000,4000,1744
+E. Simms,22,England,ST,69,78,Coventry City,2023 , 2027,3200000,19000,1669
+ Jean Lucas,24,Brazil,"CM, CDM",72,77,Monaco,2021 , 2026,3500000,27000,1979
+A. Dumiter,24,Romania,"ST, LW",62,69,Voluntari,2023 , 2026,800000,2000,1678
+A. Randell,22,England,CM,66,73,Plymouth Argyle,2019 , 2024,1700000,5000,1928
+ S. McKinstry,19,Scotland,"LW, RW, CAM",63,79,Motherwell,"Jun 30, 2023",,1200000,5000,1548
+K. Laba,31,Togo,ST,78,78,Al Ain,2019 , 2026,12000000,2000,1888
+N. Vallys,26,Denmark,"CAM, LW",73,74,Brøndby,2022 , 2026,3600000,13000,1888
+L. Brassier,23,France,"CB, LB",72,79,Brest,2021 , 2025,4400000,11000,1734
+L. Kwadwo,26,Germany,"CB, LB, LM",64,66,1860 München,2023 , 2024,650000,2000,1563
+ Javi Fernández,22,Spain,CB,67,77,Real Oviedo,2019 , 2022,2100000,3000,1526
+S. Weissman,27,Israel,ST,74,74,Granada,2023 , 2026,4600000,19000,1868
+Tiago Dantas,22,Portugal,"CM, CAM",69,78,AZ Alkmaar,"Jun 30, 2024",,3100000,6000,1812
+Nuno Tavares,23,Portugal,"LB, LM",76,81,Nottingham Forest,"Jun 30, 2024",,10500000,64000,2015
+M. Elia,25,Congo DR,ST,73,76,Young Boys,2020 , 2026,4100000,19000,1846
+J. Cáceres,23,Paraguay,"RB, CB",73,80,Lanús,"Dec 31, 2023",,6000000,12000,1835
+M. Skóraś,23,Poland,"RM, LM",71,79,Club Brugge,2023 , 2027,4200000,12000,1765
+Bruno Langa,25,Mozambique,"LB, LWB",72,75,Chaves,2022 , 2026,2900000,6000,1813
+J. Tunnicliffe,29,England,CB,63,63,Wrexham,2022 , 2024,400000,4000,1414
+Luquinha,22,Brazil,"CAM, CM, RM",72,79,Portimonense,2019 , 2024,4800000,6000,1735
+D. Bradarić,23,Croatia,"LWB, LM, LB",71,77,Salernitana,2022 , 2026,2800000,15000,1861
+Tomás Esteves,21,Portugal,RB,67,77,Pisa,2023 , 2026,2200000,1000,1635
+C. Brym,24,Canada,"ST, RM",66,71,Sparta Rotterdam,2022 , 2025,1300000,3000,1642
+L. Clarkson,21,England,"CM, CDM, CAM",70,80,Aberdeen,2023 , 2027,3600000,4000,1893
+M. Marin,24,Romania,"CM, CDM",67,72,Pisa,2019 , 2025,1500000,2000,1876
+M. Al Dawsari,23,Saudi Arabia,"RB, RM",64,71,Al Raed,2020 , 2024,1100000,4000,1590
+F. Szymczak,21,Poland,"ST, RM",66,79,Lech Poznań,2018 , 2027,2100000,3000,1602
+P. Zaucha,23,Poland,"LM, LWB",60,68,Cracovia Kraków,2019 , 2024,550000,2000,1476
+K. Trewin,22,Australia,"CDM, CB, LB",65,73,Brisbane Roar,2019 , 2024,1500000,1000,1693
+D. Devoy,21,Republic of Ireland,"CM, CDM",63,72,Milton Keynes Dons,2022 , 2025,1100000,3000,1667
+ E. Demir,18,Turkey,"CAM, RW, LW",65,79,Fenerbahçe,2023 , 2027,1700000,5000,1650
+I. Jansson,21,Sweden,"ST, LM, RM",65,77,FC Cartagena,2022 , 2024,1800000,2000,1736
+B. Traoré,21,Mali,"CDM, CM",68,79,Wolverhampton Wanderers,2023 , 2027,2600000,15000,1785
+S. Folarin,22,England,"ST, RM",58,66,Harrogate Town,2022 , 2024,450000,2000,1588
+L. Morales,23,Argentina,GK,71,79,Talleres Córdoba,"Dec 31, 2024",,3600000,6000,1325
+I. Kaboré,22,Burkina Faso,"RWB, RB, RM",73,83,Luton Town,"Jun 30, 2024",,6500000,59000,1795
+C. McCann,21,Northern Ireland,"CDM, CAM, CM",60,70,Forest Green Rovers,2023 , 2026,525000,2000,1719
+B. Wiredu,23,England,"CB, CDM, CM",65,69,Fleetwood Town,2022 , 2025,925000,2000,1825
+Í. Jóhannesson,20,Iceland,"CM, RW",67,78,Fortuna Düsseldorf,"Jun 30, 2024",,2200000,6000,1893
+Carlos Neva,27,Spain,"LB, LM",74,75,Granada,2017 , 2025,4400000,16000,1845
+E. Barrenechea,22,Argentina,"CDM, CM",66,78,Frosinone,"Jun 30, 2024",,2000000,18000,1784
+D. Drysdale,23,England,CB,61,65,Newport County,2022 , 2024,425000,2000,1388
+L. Scales,24,Republic of Ireland,"CB, LB",66,70,Celtic,2021 , 2025,1100000,11000,1727
+M. Dignam,24,Republic of Ireland,"RM, LM, LB",54,56,UCD,2017 , 2023,140000,500,1413
+Ruan,28,Brazil,"RB, RM",66,66,DC United,2023 , 2023,775000,2000,1660
+A. Espino,31,Uruguay,LB,78,78,Rayo Vallecano,2023 , 2026,10000000,21000,2048
+J. Piroe,23,Netherlands,"ST, CAM",74,81,Leeds United,2023 , 2027,8500000,35000,1770
+L. Dykes,27,Scotland,ST,70,70,Queens Park Rangers,2020 , 2024,1700000,11000,1716
+M. Bogusz,21,Poland,"CM, LM, ST",66,77,Los Angeles FC,2023 , 2026,1900000,2000,1822
+P. Glatzel,22,Germany,ST,59,64,Liverpool,2019 , 2024,350000,12000,1530
+F. Mambimbi,22,Switzerland,"LM, ST, RM",67,73,St. Gallen,2023 , 2025,1600000,4000,1645
+C. Ndaba,23,Republic of Ireland,"CB, LB, LWB",63,70,Kilmarnock,"Jun 30, 2024",,900000,3000,1554
+B. Teixeira,22,Cape Verde Islands,"ST, LM, CAM",70,76,Sturm Graz,2023 , 2026,2600000,10000,1910
+R. Al Hajj,21,Sweden,"CAM, CM",65,76,OB,2023 , 2026,1600000,3000,1754
+Cho Gue Sung,25,Korea Republic,ST,72,77,Midtjylland,2023 , 2028,3500000,20000,1761
+A. Glennon,23,England,"LB, LWB",63,67,Grimsby Town,2022 , 2024,650000,2000,1697
+G. Stensness,24,Australia,"CB, CDM",66,73,Viking,2021 , 2024,1600000,1000,1578
+S. Moreno,23,Colombia,"RM, LM",71,78,Portland Timbers,2021 , 2025,3800000,5000,1806
+H. Burrows,21,England,"LB, CAM, LWB",66,75,Peterborough United,2019 , 2024,1800000,3000,1772
+Ș. Târnovanu,23,Romania,GK,70,80,FCSB,2020 , 2024,3100000,6000,1159
+N. Boujellab,24,Morocco,"CAM, CF, CM",65,71,DSC Arminia Bielefeld,2023 , 2025,1100000,2000,1717
+D. Ramaj,21,Germany,GK,68,80,Ajax,2023 , 2028,2600000,3000,1025
+L. Annesley,23,Gibraltar,"CB, LB",58,62,Dundalk,2023 , 2023,275000,550,1427
+F. Flick,23,Germany,"CDM, CM, CB",69,75,Nürnberg,2023 , 2027,2000000,5000,1696
+A. Phliponeau,23,France,"CDM, CM",63,72,Concarneau,2023 , 2024,1000000,1000,1611
+A. Zagré,21,France,LB,66,75,Excelsior,2023 , 2026,1800000,2000,1722
+C. Niasse,23,Senegal,CDM,72,77,Young Boys,2022 , 2026,3200000,13000,1752
+L. Costa,22,Cape Verde Islands,CB,71,83,Toulouse,2021 , 2026,4300000,12000,1494
+M. Kwarteng,25,Germany,"RM, CAM, ST",69,71,VfL Bochum 1848,2023 , 2027,1700000,11000,1694
+D. Kyereh,27,Ghana,"CAM, ST",75,75,SC Freiburg,2022 , 2026,6000000,26000,1795
+G. Laura,27,France,"ST, RM",68,68,Samsunspor,2022 , 2025,1300000,7000,1707
+D. Undav,26,Germany,"ST, CAM",75,76,VfB Stuttgart,"Jun 30, 2024",,6500000,69000,1894
+Luquinhas,26,Brazil,"RM, CF, LM",71,71,New York RB,2022 , 2024,2000000,6000,1793
+R. Burton,23,Wales,CDM,61,67,Sligo Rovers,2023 , 2023,475000,500,1583
+I. Šunjić,26,Croatia,"CDM, CM",70,71,Birmingham City,2019 , 2024,1700000,10000,1792
+ M. Vrousai,22,Greece,"LM, RM, RB",71,78,Olympiakos Piraeus,2016 , 2024,3800000,800,1857
+L. Lapoussin,27,Madagascar,"LM, CM",73,73,Union Saint-Gilloise,2020 , 2025,3200000,14000,1934
+R. Stewart,26,Scotland,ST,72,73,Southampton,2023 , 2026,2800000,32000,1764
+Fuzato,25,Brazil,GK,70,75,Getafe,2022 , 2024,1900000,10000,1009
+G. Bushchan,29,Ukraine,GK,75,76,Dynamo Kyiv,2011 , 2026,4300000,800,1045
+ J. Toro,23,Honduras,"LM, ST, CAM",70,79,Huesca,2018 , 2021,3500000,11000,1714
+Fernando,24,Brazil,ST,73,78,Salzburg,2022 , 2027,4700000,15000,1866
+M. Erlić,25,Croatia,CB,74,77,Sassuolo,2021 , 2026,5000000,14000,1577
+Vitinho,23,Brazil,"RB, RM, LB",71,78,Burnley,2022 , 2027,3600000,22000,1826
+P. Bucha,25,Czech Republic,"CDM, CM, CAM",74,78,Viktoria Plzeň,2018 , 2024,5500000,900,2042
+J. David,23,Germany,CB,69,74,Hansa Rostock,"Jun 30, 2024",,1900000,11000,1674
+J. Key,23,England,"RWB, CB, RB",66,72,Swansea City,2023 , 2026,1300000,7000,1714
+Montero,24,Spain,CB,68,73,Arouca,"Jun 30, 2024",,1600000,8000,1559
+Bruno Costa,26,Portugal,CM,72,75,Valenciennes,2023 , 2024,3000000,6000,1937
+B. Lederman,23,Poland,"CM, CF",68,77,Raków Częstochowa,2020 , 2025,2700000,4000,1815
+J. López,23,Argentina,"CDM, CM, CAM",69,78,Defensa y Justicia,2023 , 2026,2900000,6000,1818
+D. Popov,24,Ukraine,CB,74,83,Dynamo Kyiv,2017 , 2025,8500000,750,1592
+F. Krüger,24,Germany,"ST, CAM, LW",68,72,Eintracht Braunschweig,2022 , 2026,1800000,6000,1676
+Javi Sánchez,26,Spain,CB,74,79,Real Valladolid,2020 , 2026,5500000,10000,1790
+T. Bašić,26,Croatia,"CM, CDM",74,76,Lazio,2021 , 2026,5000000,37000,2021
+M. Talbi,25,Tunisia,CB,74,79,Lorient,2022 , 2025,5500000,18000,1561
+N. James,22,Australia,GK,54,63,Newcastle Jets,2023 , 2024,210000,500,840
+ S. Paintsil,26,Ghana,"ST, LM, RM",61,62,Hartberg,2021 , 2023,400000,2000,1611
+I. Olaofe,23,England,ST,62,69,Stockport County,2023 , 2025,800000,4000,1561
+J. Shackleton,23,England,"RB, LB, CM",70,74,Leeds United,2017 , 2024,2100000,18000,1819
+H. Clarke,22,England,"RB, CB",68,76,Ipswich Town,2023 , 2026,2600000,7000,1838
+D. Drăguș,23,Romania,"ST, LM",67,73,Gaziantep F.K.,"Jun 30, 2024",,1600000,6000,1660
+J. Quiñones,25,Colombia,CB,71,75,Rionegro Águilas,2019 , 2023,2300000,1000,1435
+L. Connell,22,Republic of Ireland,"CDM, CM",69,75,Barnsley,2022 , 2027,2100000,5000,1832
+Á. Preciado,25,Ecuador,"RWB, RB, RM",71,76,Sparta Praha,2023 , 2025,2600000,650,1818
+E. Laird,21,England,"RB, RWB",71,79,Birmingham City,2023 , 2026,4000000,8000,1848
+Roberto López,23,Spain,"RM, ST, CAM",72,81,Tenerife,"Jun 30, 2024",,5000000,18000,1814
+ S. Plaza,23,Ecuador,ST,65,69,Aucas,2023 , 2023,1000000,500,1629
+E. Bullaude,22,Argentina,"CAM, CM",71,79,Boca Juniors,"Dec 31, 2024",,4200000,9000,1742
+O. Herrera,22,Mexico,"LM, LW",72,80,Mexico,Free,Free,0,0,1740
+H. Abdelli,23,Algeria,"CM, ST, LM",71,76,Angers SCO,2022 , 2026,2800000,5000,1836
+A. Patterson,23,England,GK,71,80,Sunderland,2018 , 2028,3600000,13000,1055
+Nicolas Firmino,22,Brazil,CAM,51,62,Atlanta United,2023 , 2026,130000,1000,1383
+K. Cabral,23,France,"ST, RM, LM",63,70,Colorado Rapids,2023 , 2024,975000,2000,1663
+N. Katterbach,22,Germany,LB,69,77,FC Köln,2018 , 2024,3000000,10000,1662
+Bruno Paz,25,Angola,"CM, CDM",67,72,Konyaspor,2022 , 2024,1500000,6000,1885
+S. Abdulhamid,23,Saudi Arabia,RB,73,78,Al Hilal,2022 , 2025,4300000,23000,1830
+J. Bursik,22,England,GK,68,78,Club Brugge,2023 , 2027,2300000,6000,1315
+M. Cerofolini,24,Italy,GK,65,72,Frosinone,2023 , 2026,1200000,2000,1035
+E. Elizalde,23,Uruguay,"CB, LB",69,75,Independiente,2022 , 2025,2000000,6000,1643
+B. Bayazıt,24,Turkey,GK,68,75,Kayserispor,2021 , 2024,2100000,4000,900
+ Sergio Benito,22,Spain,ST,64,71,Real Valladolid,2020 , 2023,1200000,3000,1554
+L. Pintor,22,France,"LM, RM",66,75,LASK Linz,2023 , 2026,1900000,6000,1632
+M. Saracchi,25,Uruguay,"LB, LWB",71,75,Boca Juniors,2023 , 2027,2400000,11000,1957
+F. Garcés,23,Argentina,CB,73,79,Colón,2017 , 2024,4400000,9000,1636
+S. Benda,24,Germany,GK,67,73,Fulham,2023 , 2026,1300000,14000,948
+G. Chakvetadze,23,Georgia,"CAM, LM, CM",69,75,Watford,"Jun 30, 2024",,2200000,9000,1712
+A. Obispo,24,Netherlands,CB,73,77,PSV,2017 , 2025,3900000,11000,1781
+A. Semenyo,23,Ghana,ST,70,78,AFC Bournemouth,2023 , 2027,3600000,23000,1693
+R. Tulloch,22,England,"LM, LW",61,67,Bradford City,"Jun 30, 2024",,525000,5000,1563
+ K. Leshabela,22,South Africa,"CAM, CM",59,66,Leicester City,2017 , 2023,450000,9000,1640
+ J. Diamond,22,England,"LW, LM",65,73,Lincoln City,"Jun 30, 2023",,1600000,5000,1663
+M. Jenz,24,Germany,CB,74,79,VfL Wolfsburg,2023 , 2027,6000000,28000,1578
+C. Dagba,24,France,"RB, RWB",71,74,Auxerre,"Jun 30, 2024",,2400000,31000,1864
+Rogério,25,Brazil,LB,73,76,VfL Wolfsburg,2023 , 2027,3700000,28000,1876
+M. Wolfe,23,England,"CDM, CM",61,67,Barnsley,2017 , 2024,475000,2000,1574
+B. Risa,25,Norway,"CB, LWB",68,73,New York City,2023 , 2025,1600000,3000,1846
+Aitor Ruibal,27,Spain,"RB, RM, LM",76,76,Real Betis,2016 , 2025,7000000,21000,2034
+D. Rossi,25,Uruguay,"LM, CF",76,79,Columbus Crew,2023 , 2026,10000000,9000,1859
+Chris Ramos,26,Spain,"ST, LM, RM",74,75,Cádiz,2023 , 2028,5000000,27000,1786
+E. Watt,23,Scotland,"CDM, CM",66,72,Salford City,2022 , 2024,1200000,5000,1806
+Jeon Jin Woo,23,Korea Republic,"LW, ST, RW",62,68,Suwon Bluewings,2018 , 2023,625000,1000,1584
+Carlos Coronel,26,Paraguay,GK,72,76,New York RB,2022 , 2024,2500000,5000,1256
+H. Evjen,23,Norway,"RW, CAM",73,78,Brøndby,2023 , 2027,4600000,13000,1899
+Luis Milla,28,Spain,"CM, CDM",78,78,Getafe,2022 , 2027,14000000,31000,2090
+ F. Vera,21,Argentina,"CDM, CM",72,79,Argentinos Juniors,2018 , 2023,4500000,7000,1971
+A. Irving,23,Scotland,"CM, CAM",69,74,Austria Klagenfurt,"Jun 30, 2024",,2100000,23000,1921
+K. Brünker,29,Germany,ST,64,64,Saarbrücken,2023 , 2025,575000,2000,1595
+ A. Søndergaard,21,Denmark,GK,56,66,Swansea City,2023 , 2023,275000,2000,891
+Aguado,27,Spain,"CM, CAM, CDM",75,76,Espanyol,2023 , 2025,6500000,11000,1959
+Stephen Eustáquio,26,Canada,"CDM, CM",77,80,Porto,2022 , 2027,12500000,13000,2026
+L. Ashby-Hammond,22,England,GK,58,68,Crawley Town,"Jun 30, 2024",,400000,6000,843
+C. Klarer,23,Austria,CB,72,78,Darmstadt 98,2023 , 2027,3400000,14000,1567
+V. Millico,22,Italy,"LM, LW, CF",64,73,Ascoli,2023 , 2024,1300000,1000,1628
+ D. Valdés,31,Colombia,ST,67,67,Rionegro Águilas,2023 , 2023,850000,850,1650
+ S. Gómez,26,Colombia,"CDM, CM",74,77,Atlético Nacional,2019 , 2025,5000000,5000,1869
+S. Ambrosius,24,Ghana,CB,68,72,Hamburger SV,2018 , 2024,1600000,9000,1525
+C. Cásseres Jr,23,Venezuela,"CDM, CM, RM",71,77,Toulouse,2023 , 2027,2700000,12000,1976
+ D. Caicedo,22,Colombia,"CF, LM",69,74,Vancouver Whitecaps,2021 , 2024,2200000,4000,1805
+G. Bello,21,United States,"LB, LWB, LM",67,75,LASK Linz,2023 , 2026,2200000,5000,1688
+H. Carter,23,England,"CB, RB",70,76,Blackburn Rovers,2018 , 2024,2300000,18000,1700
+N. Ferguson,22,England,"LB, RB",65,71,Crystal Palace,2020 , 2024,1100000,8000,1581
+D. Polvara,23,United States,"CDM, CM, CAM",61,68,Aberdeen,2022 , 2026,625000,1000,1569
+San Román,25,Spain,GK,68,73,Elche,2023 , 2025,1400000,3000,964
+F. Hornby,23,Scotland,ST,69,76,Darmstadt 98,2023 , 2027,2800000,11000,1629
+Klauss,26,Brazil,ST,74,77,Saint Louis City,2022 , 2025,5500000,9000,1808
+T. Băluță,24,Romania,"CDM, CM",70,74,SSC Farul,2022 , 2024,2100000,6000,1782
